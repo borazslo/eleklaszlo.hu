@@ -57,13 +57,11 @@ git push --force $REMOTE_REPO master:gh-pages
 
 echo "And pushing to eleklaszlo.hu..."
 
-cd ~
-cd ..
-ls
-
 #echo  $ssh-private-key > ~/.ssh/id_rsa
-chmod 600 proba.txt
+
 echo  $ssh-private-key > proba.txt
+chmod 600 proba.txt
+
 ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "ok?"
 
