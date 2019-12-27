@@ -16,3 +16,4 @@ jobs:
       - uses: ./.github/actions/build-dist-site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
