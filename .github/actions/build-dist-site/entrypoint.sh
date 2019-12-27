@@ -61,7 +61,7 @@ cd ~
 cd ..
 ls
 
-echo  $ssh-private-key > ~/.ssh/id_rsa
+#echo  $ssh-private-key > ~/.ssh/id_rsa
 echo  $ssh-private-key > proba.txt
 ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "ok?"
