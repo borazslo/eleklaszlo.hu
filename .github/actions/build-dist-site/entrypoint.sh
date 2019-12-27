@@ -59,10 +59,10 @@ echo "And pushing to eleklaszlo.hu..."
 
 #echo  $ssh-private-key > ~/.ssh/id_rsa
 
-echo  $ssh-private-key
+echo  ${ssh-private-key}
 echo "----"
 
-echo  $ssh-private-key > proba.txt
+echo  ${ssh-private-key} > proba.txt
 cat proba.txt
 
 chmod 600 proba.txt
