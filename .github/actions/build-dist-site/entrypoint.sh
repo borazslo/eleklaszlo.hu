@@ -11,8 +11,6 @@ set -e
 
 echo "🚀 Starting deployment action"
 
-pwd
-
 # Here we are using the variables
 # - GITHUB_ACTOR: It is already made available for us by Github. It is the username of whom triggered the action
 # - GITHUB_TOKEN: That one was intentionally injected by us in our workflow file.
@@ -58,32 +56,13 @@ echo "Build branch ready to go. Pushing to Github..."
 # Force push this update to our gh-pages
 
 
-
-#git push --force $REMOTE_REPO master:gh-pages
-
+git push --force $REMOTE_REPO master:gh-pages
 echo "And pushing to eleklaszlo.hu..."
 mkdir ~/.ssh; chmod 0700 ~/.ssh
-
-
 echo "${SSH_PRIVATE_KEY}" > proba.txt
 chmod 600 proba.txt
+ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
-#ssh-add proba.txt
-#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
-
-#ssh-add - <<< "${SSH_PRIVATE_KEY}"
-
-#eval "$(ssh-agent -s)"
-#
-#echo "Próba 1"
-#ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
-ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H miserend.hu >> ~/.ssh/known_hosts; ssh-keyscan -H miserend.hu >> ~/etc/ssh/known_hosts; ssh elek@miserend.hu -o StrictHostKeyChecking=no -v; git push --force ssh://elek@miserend.hu/home/elek/test.git master:master'
-echo "Próba"
-#ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
-
-
-
-echo "ok!"
 # Now everything is ready.
 # Lets just be a good citizen and so some clean-up after ourselves
 rm -fr .git
