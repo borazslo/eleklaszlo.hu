@@ -49,7 +49,9 @@ git config user.name "${GITHUB_ACTOR}"
 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
 
-echo  ${SSH_PRIVATE_KEY} > proba.txt
+echo  ${SSH_PRIVATE_KEY} | tr " " "\n" > proba.txt
+
+
 chmod 600 proba.txt
 
 
@@ -67,12 +69,12 @@ git push --force $REMOTE_REPO master:gh-pages
 echo "And pushing to eleklaszlo.hu..."
 
 
-ssh-add - <<< "${SSH_PRIVATE_KEY}"
+#ssh-add - <<< "${SSH_PRIVATE_KEY}"
 
 #eval "$(ssh-agent -s)"
 #
 
-#ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
 
 
