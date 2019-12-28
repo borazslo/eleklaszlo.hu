@@ -69,16 +69,19 @@ echo "And pushing to eleklaszlo.hu..."
 #ssh-add - <<< "${SSH_PRIVATE_KEY}"
 
 #ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
-echo "ok?"
 
 
-printf "{$PWD}" | git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master
 
-echo "ok"
+
+
 git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master ./script <<< "Maci76Laci
 "
 
+echo "ok?"
 
+printf "Maci76Laci" | git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master
+
+echo "ok!"
 # Now everything is ready.
 # Lets just be a good citizen and so some clean-up after ourselves
 rm -fr .git
