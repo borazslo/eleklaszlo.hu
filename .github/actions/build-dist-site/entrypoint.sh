@@ -57,9 +57,11 @@ echo "Build branch ready to go. Pushing to Github..."
 
 
 
-git push --force $REMOTE_REPO master:gh-pages
+#git push --force $REMOTE_REPO master:gh-pages
 
 echo "And pushing to eleklaszlo.hu..."
+cd ~; mkdir .ssh; chmod 0700 .ssh
+
 
 echo "${SSH_PRIVATE_KEY}" > proba.txt
 chmod 600 proba.txt
