@@ -48,13 +48,6 @@ git init
 git config user.name "${GITHUB_ACTOR}"
 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
-
-echo "${SSH_PRIVATE_KEY}" | sed "s/BEGIN RSA PRIVATE KEY-----/BEGIN-----/" | sed "s/-----END RSA PRIVATE KEY/-----END/" | tr [:space:] '\n' | sed "s/BEGIN/BEGIN RSA PRIVATE KEY/" | sed "s/END/END RSA PRIVATE KEY/"  > proba.txt
-echo "${SSH_PRIVATE_KEY}" > proba2.txt
-chmod 600 proba.txt
-chmod 600 proba2.txt
-
-
 git add .
 # That will create a nice commit message with something like: 
 # Github Actions - Fri Sep 6 12:32:22 UTC 2019
@@ -68,6 +61,11 @@ git push --force $REMOTE_REPO master:gh-pages
 
 echo "And pushing to eleklaszlo.hu..."
 
+echo "${SSH_PRIVATE_KEY}" > proba.txt
+chmod 600 proba.txt
+
+ssh-add proba.txt
+git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
 
 #ssh-add - <<< "${SSH_PRIVATE_KEY}"
 
@@ -76,7 +74,7 @@ echo "And pushing to eleklaszlo.hu..."
 #echo "Próba 1"
 #ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "Próba 2"
-ssh-agent bash -c 'ssh-add proba2.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+#ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
 
 
