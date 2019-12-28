@@ -66,12 +66,17 @@ echo "And pushing to eleklaszlo.hu..."
 
 
 #eval "$(ssh-agent -s)"
-ssh-add - <<< "${SSH_PRIVATE_KEY}"
+#ssh-add - <<< "${SSH_PRIVATE_KEY}"
 
 #ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "ok?"
 
-git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master
+
+printf "{$PWD}" | git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master
+
+echo "ok"
+git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master ./script <<< "Maci76Laci
+"
 
 
 # Now everything is ready.
