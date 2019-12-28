@@ -11,6 +11,8 @@ set -e
 
 echo "🚀 Starting deployment action"
 
+echo pwd
+
 # Here we are using the variables
 # - GITHUB_ACTOR: It is already made available for us by Github. It is the username of whom triggered the action
 # - GITHUB_TOKEN: That one was intentionally injected by us in our workflow file.
@@ -60,7 +62,7 @@ echo "Build branch ready to go. Pushing to Github..."
 #git push --force $REMOTE_REPO master:gh-pages
 
 echo "And pushing to eleklaszlo.hu..."
-cd ~; mkdir .ssh; chmod 0700 .ssh
+mkdir ~/.ssh; chmod 0700 ~/.ssh
 
 
 echo "${SSH_PRIVATE_KEY}" > proba.txt
