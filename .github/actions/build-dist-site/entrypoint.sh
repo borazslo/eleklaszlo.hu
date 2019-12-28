@@ -11,7 +11,7 @@ set -e
 
 echo "🚀 Starting deployment action"
 
-echo pwd
+pwd
 
 # Here we are using the variables
 # - GITHUB_ACTOR: It is already made available for us by Github. It is the username of whom triggered the action
@@ -76,7 +76,7 @@ chmod 600 proba.txt
 #eval "$(ssh-agent -s)"
 #
 #echo "Próba 1"
-ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "Próba"
 #ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
