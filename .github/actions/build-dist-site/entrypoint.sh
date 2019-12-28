@@ -60,17 +60,11 @@ echo "Build branch ready to go. Pushing to Github..."
 
 echo "And pushing to eleklaszlo.hu..."
 
-#echo  $ssh-private-key > ~/.ssh/id_rsa
-
-echo  ${SSH_PRIVATE_KEY}
-echo "----"
 
 echo  ${SSH_PRIVATE_KEY} > proba.txt
-cat proba.txt
-
 chmod 600 proba.txt
 
-#ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "ok?"
 
 #git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master
