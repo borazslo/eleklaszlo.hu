@@ -77,7 +77,7 @@ chmod 600 proba.txt
 #
 #echo "Próba 1"
 #ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
-ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H miserend.hu >> ~/.ssh/known_hosts; ssh-keyscan -H miserend.hu >> ~/etc/ssh/known_hosts; ssh elek@miserend.hu -o StrictHostKeyChecking=no -v; git push --force ssh://elek@miserend.hu/home/elek/miserend.git master:master'
+ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H miserend.hu >> ~/.ssh/known_hosts; ssh-keyscan -H miserend.hu >> ~/etc/ssh/known_hosts; ssh elek@miserend.hu -o StrictHostKeyChecking=no -v; git push --force ssh://elek@miserend.hu/home/elek/test.git master:master'
 echo "Próba"
 #ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
