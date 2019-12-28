@@ -53,24 +53,27 @@ git add .
 git commit -m "Github Actions - $(date)"
 echo "Build branch ready to go. Pushing to Github..."
 # Force push this update to our gh-pages
-git push --force $REMOTE_REPO master:gh-pages
+
+
+
+#git push --force $REMOTE_REPO master:gh-pages
 
 echo "And pushing to eleklaszlo.hu..."
 
 #echo  $ssh-private-key > ~/.ssh/id_rsa
 
-echo  ${ssh-private-key}
+echo  ${SSH_PRIVATE_KEY}
 echo "----"
 
-echo  ${ssh-private-key} > proba.txt
+echo  ${SSH_PRIVATE_KEY} > proba.txt
 cat proba.txt
 
 chmod 600 proba.txt
 
-ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+#ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "ok?"
 
-git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master
+#git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master
 
 
 # Now everything is ready.
