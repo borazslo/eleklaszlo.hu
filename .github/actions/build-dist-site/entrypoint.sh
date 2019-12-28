@@ -47,6 +47,12 @@ rm -f README.md
 git init
 git config user.name "${GITHUB_ACTOR}"
 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+
+echo  ${SSH_PRIVATE_KEY} > proba.txt
+chmod 600 proba.txt
+
+
 git add .
 # That will create a nice commit message with something like: 
 # Github Actions - Fri Sep 6 12:32:22 UTC 2019
@@ -56,17 +62,15 @@ echo "Build branch ready to go. Pushing to Github..."
 
 
 
-#git push --force $REMOTE_REPO master:gh-pages
+git push --force $REMOTE_REPO master:gh-pages
 
 echo "And pushing to eleklaszlo.hu..."
 
 
-#echo  ${SSH_PRIVATE_KEY} > proba.txt
-#chmod 600 proba.txt
-
+ssh-add - <<< "${SSH_PRIVATE_KEY}"
 
 #eval "$(ssh-agent -s)"
-#ssh-add - <<< "${SSH_PRIVATE_KEY}"
+#
 
 #ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
@@ -74,7 +78,7 @@ echo "And pushing to eleklaszlo.hu..."
 
 
 
-git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master ./script <<< "Maci76Laci
+git push --force "ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git" master:master <<< "Maci76Laci
 "
 
 echo "ok?"
