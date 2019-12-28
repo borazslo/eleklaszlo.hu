@@ -64,15 +64,15 @@ echo "And pushing to eleklaszlo.hu..."
 echo "${SSH_PRIVATE_KEY}" > proba.txt
 chmod 600 proba.txt
 
-ssh-add proba.txt
-git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
+#ssh-add proba.txt
+#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
 
 #ssh-add - <<< "${SSH_PRIVATE_KEY}"
 
 #eval "$(ssh-agent -s)"
 #
 #echo "Próba 1"
-#ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 echo "Próba 2"
 #ssh-agent bash -c 'ssh-add proba.txt; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
