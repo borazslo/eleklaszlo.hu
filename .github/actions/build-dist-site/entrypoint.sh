@@ -61,6 +61,7 @@ echo "And pushing to eleklaszlo.hu..."
 mkdir ~/.ssh; chmod 0700 ~/.ssh
 echo "${SSH_PRIVATE_KEY}" > proba.txt
 chmod 600 proba.txt
+
 ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
 # Now everything is ready.
