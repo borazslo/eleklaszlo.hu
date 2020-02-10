@@ -55,6 +55,7 @@ git commit -m "Github Actions - $(date)"
 echo "Build branch ready to go. Pushing to Github..."
 # Force push this update to our gh-pages
 
+wget -qO- https://ipecho.net/plain ; echo
 
 git push --force $REMOTE_REPO master:gh-pages
 echo "And pushing to eleklaszlo.hu..."
