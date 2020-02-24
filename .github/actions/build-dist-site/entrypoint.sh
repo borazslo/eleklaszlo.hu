@@ -4,9 +4,11 @@
 
 #https://bpaulino.com/entries/10-automating-your-work-with-github-actions
 
-apt-get install --assume-yes --only-upgrade openssh-client=7.8
+#apt-get install --assume-yes --only-upgrade openssh-client=7.8
+aptitude install openssh-client=7.8
+yum list installed openssh\*
+
 echo "msik"
-sudo apt-get install --assume-yes --only-upgrade openssh-client=7.8
 
 
 # Exit immediately if a pipeline returns a non-zero status.
