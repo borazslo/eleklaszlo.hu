@@ -63,8 +63,8 @@ mkdir ~/.ssh; chmod 0700 ~/.ssh
 echo "${SSH_PRIVATE_KEY}" > proba.txt
 chmod 600 proba.txt
 
-echo "git push: "
-git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
+#echo "git push: "
+#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
 
 echo "ssh-agent2"
 eval $(ssh-agent)
