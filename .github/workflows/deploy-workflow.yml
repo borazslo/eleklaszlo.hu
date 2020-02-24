@@ -23,7 +23,7 @@ jobs:
         run: git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
             
       - name: Build Dist Site 
-      - uses: ./.github/actions/build-dist-site
+        uses: ./.github/actions/build-dist-site
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
