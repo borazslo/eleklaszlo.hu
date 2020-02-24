@@ -5,7 +5,7 @@
 #https://bpaulino.com/entries/10-automating-your-work-with-github-actions
 
 #apt-get install --assume-yes --only-upgrade openssh-client=7.8
-aptitude install openssh-client=7.8
+aptitude install openssh-client=5.3
 yum list installed openssh\*
 
 echo "msik"
