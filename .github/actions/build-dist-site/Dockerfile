@@ -18,10 +18,6 @@ FROM jekyll/builder
 #    && gem install bundler:2.0.2 \
 #    && bundle config --global silence_root_warning 1
 
-RUN apt-get update && \
-    apt-get install --no-install-recommends -y \
-        wget \
-        openssh-client
 
 COPY entrypoint.sh /
 
