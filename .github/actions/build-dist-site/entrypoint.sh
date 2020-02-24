@@ -8,7 +8,7 @@
 
 # Exit immediately if a pipeline returns a non-zero status.
 # set -e
-
+cd ~
 echo "🚀 Starting deployment action"
 
 # Here we are using the variables
@@ -74,8 +74,8 @@ ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v
 git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
 
 
-echo "ssh-agent: "
-ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+#echo "ssh-agent: "
+#ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
 
 # Now everything is ready.
