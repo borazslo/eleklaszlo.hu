@@ -18,57 +18,7 @@ jobs:
           ssh-private-key: |
             ${{ secrets.SSH_PRIVATE_KEY }}
       
-      - name: Try to push
-        continue-on-error: true
-        run: |
-          apt-get update && \
-              apt-get install --no-install-recommends -y \
-                  bats \
-                  build-essential \
-                  ca-certificates \
-                  curl \
-                  libffi6 \
-                  make \
-                  shellcheck \
-                  libffi6 \
-                  git-all \
-                  openssh-client \
-                  wget \
-              && gem install bundler:2.0.2 \
-              && bundle config --global silence_root_warning 1          
-          REMOTE_REPO="https://${GITHUB_ACTOR}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git clone $REMOTE_REPO repo
-          cd repo
-          echo "⚡️ Installing project dependencies..."
-          bundle install
-          echo "🏋️ Building website..."
-          JEKYLL_ENV=production bundle exec jekyll build
-          echo "Jekyll build done"
-          cd _site
-
-          echo "☁️ Publishing website"
-
-          # We don't need the README.md file on this branch
-          rm -f README.md
-
-          # Now we init a new git repository inside _site
-          # So we can perform a commit
-          git init
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-
-          git add .
-          # That will create a nice commit message with something like: 
-          # Github Actions - Fri Sep 6 12:32:22 UTC 2019
-          git commit -m "Github Actions - $(date)"
-          echo "Build branch ready to go. Pushing to Github..."
-          # Force push this update to our gh-pages
-
-          wget -qO- https://ipecho.net/plain ; echo
-
-          git push --force $REMOTE_REPO master:gh-pages
-          git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
-            
+          
       - name: Build Dist Site 
         uses: ./.github/actions/build-dist-site
         env:
