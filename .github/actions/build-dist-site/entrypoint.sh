@@ -30,10 +30,6 @@ chmod -R 777 /github/workspace
 
 export BUNDLER_VERSION='2.0'
 gem install bundler
-bundle update
-bundle add webrick
-bundle install
-
 
 # Build the website using Jekyll
 echo "🏋️ Building website..."
