@@ -4,6 +4,10 @@ title: "Twitteren az Egyház"
 permalink:  /4849/ 
 date: 2009-05-26 19:46:48
 tags:  [  ] 
+summary: "Megnéztem, hátha a <a href=\"http://vatican.va\">Vatikán </a>vagy a Szentatya is fenn van a <a href=\"http://twitter.com\">twitteren</a>. Sok önjelölt vatikánt találtam, sőt magát Jézust Krisztust is.
+
+"
+
 ---
   
 <a href="http://twitter.com/vatican_va"><strong>vatican_va</strong></a>

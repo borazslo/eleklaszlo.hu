@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Gyorstalpaló a belső fórumról"
+permalink:  /4701/ 
+date: 2008-03-10 07:03:44
+tags:  [ életjel, gyónás ] 
+---
+A héten minden délutánomat a Paenitentiaria Apostolica-n töltöttem. Ott tartottak egy kurzus a lelki életről, gyónásról, belső fórumról. A téma igen fontos és érdekes. A kurzus kevésbé volt meggyőző.
+
+
+
+<!--break-->  
+<div>&nbsp;</div><div>Főként az egyházjog kánonjait sorolták és magyarázták, Meg kell hagyni tényleg fontos, hogy ki, mit, hogyan, milyen alapon oldozhat fel. Mi van, ha egy felfüggesztett&nbsp;papnál szeretné valaki meggyónni, hogy oltáriszentséget árusított. Vagy, hogy attól még hogy felszentelnek, nem gyóntathatok pl. Rómában a helyi illetékes (püspök) engedélye nélkül. Nem egyszerűen tilos, hanem érvénytelen&hellip; Hoppá&hellip; Viszont, ha a hívő azt gondolja, hogy érvényes, akkor érvényes. Nehogy szegény Istent kereső hívő szívjon a pap hülyesége miatt. És vajon mikor lehet több bűnbánót egyszerre előzetes egyéni bűnmegvallás nélkül általános módon feloldozni?</div><div>Ez ment napokon át. Az egyik bíboros előadó ráadásul angolosan ejtett ki minden olasz szót, sőt időnként belekevert a mondókájába angol szavakat is. A hatalmas terembe sötétség honolt. Voltunk egy ötszázan. Jaj.</div><div>Volt azért tényleg jó előadás is. Egy szalézi atya beszélt nekünk a gyónásról. &bdquo;A pap legyen tudatában annak, hogy amikor gyóntat, a bíró és egyszersmind az orvos feladatát látja el, és Isten azért állította az isteni igazságosság és egyúttal az isteni irgalom szolgálatában, hogy dicsőségéről és a lelkek üdvösségéről gondoskodjék&rdquo; (CIC 978. kán. 1. &sect;.) Mit tegyünk a kedves hívővel, aki azzal kezdi gyónását, hogy 30 éve nem gyónt. Stb. Stb. Tudott is beszélni, azt is tudta miről akar beszélni, s magával az &bdquo;anyaggal&rdquo; is tisztában volt.</div><div>&nbsp;</div><div>A kurzuson sikeresen megsértettek a fellengzős olaszok. Történt ugyanis, hogy megkérdezte valaki, hogy milyen nyelveken lehet írni a Paenitentiaria-nak. (Különleges meggyónni kívánt bűnök esetén lehet erre szükség. Lehet kérdezni tőlük, ill. bizonyos esetekben tőlük kell megtudakolni, lehet-e és ha igen, milyen feltételekkel feloldozni az illetőt.) No, ők fellengzősen azt mondták, hogy &bdquo;Gyakorlatilag minden nyelven lehet írni nekünk. Kivételt képeznek persze az olyan nyelvek mint a magyar vagy a szuahéli.&rdquo; Később kiderült, hogy a &bdquo;minden nyelv&rdquo; náluk a következőket takarja: német, angol, francia, spanyol, olasz, portugál, latin, lengyel. Ezek után már csak azért is magyarul fogok írni nekik.</div><div>&nbsp;</div><div>Nagyon fárasztóvolt. Szabadidőm napi kb. 40 percre zsugorodott. Sok-sok felesleges szó is elhangzott. De azért sokat okosodtam, és majd jól átrágom magam a egyházjog megfelelő kánonjain. (Nem csak butaságokat írnak.)</div>&nbsp;
+

@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Faustina Kowalska"
+permalink:  /4537/ 
+date: 2007-11-19 19:32:12
+tags:  [ életjel, szentek ] 
+---
+A kis csoportom diakónusa szereti a szenteket. Mit ér a szent, ha nem ismerjük? - gondolta, és neki állt megváltoztatni a megváltozhatatlant: kitalálta, hogy megismerteti velünk (a csoportjával) a szenteket.  
+
+
+<!--break-->  
+A szentek remek példákat mutattak arra, hogy hogyan lehet Istennel igen jó barátságban, közösségben élni; hogyan lehet követni Őt. (És nem kell hozzá tökéletesnek lennünk.) Ezért érdemes megismerni az életüket. Nem kell utánoznunk őket, de adhatnak jó ötleteket. Valamit azt kéne eltanulni tőlük, hogy hogyan lehet az Őrral olyan jó viszonyban lenni; barátságban közösségben.  
+Diakónusunk tehát nagy gonggal kiválasztott hat szentet. (Minthogy hatan vagyunk a csoportban.) A következőők kerültek terítékre (ahogy eszembe jutnak): don Bosco, padre Pio, Teréz anya, Faustina Kowalska, Stepinac és még valaki.  
+Mindegyiküket belerakta egy-egy borítékba. A csoport este vége felé vette elő és magyarázta el mit akar. A szokásos tizednyi rózsafűzér után mindenki húzott egyett. Egy szentet akit ebben az évben közelebről meg akar ismerni. Valamilyen módon majd a csoportnak is beszámol (a szentről ill. arról, hogyan sikerült közelebb kerülni hozzá). Mindenki kapott egy-egy szentet erre az évre.  
+Nó jól megkaptuk. Vagy csalt Borna (a horvát diakónus) vagy a Szentlélek kedvét leli abban, hogy ilyen dolgokba is belenyúljon, hogy még egy ilyen sorsolás is Isten felé vezessen minket. A diakónus don Boscót nyerte el. Már az év elején, a plébániai misszió záró előadásában is don Boscót játszott. Tényleg neki való. Claudio Stepincot húzta. Egy horvát szent, aki zágrábi érsek is volt. Dávide padre Piót kapta. Nagyon el akarta cserélni Teréz anyára. Nincs egészen megelégedve padre Pioval.  
+Én meg Faustina Kowalskat kaptam, a lengyel apácát. Eddig nagyon nem tartozott kedvenc szentjeim közé. Sőt, kissé húzódóztam mindig tőle. Miért? Van egy-két apróbb gondom vele. Első: az a bizonyos kép, amin Jézus szívéből mindenféle sugarak szóródnak szét, nekem nagyon nem tetszik. (Mint kép nem széő, nem a mondanivalójával van a bajom. Ez csak az én véleményem.) Másik "hibája", hogy kiadták a naplóját. Jó vaskok kötet. Naplót írni én is szoktam, de nagyon megkülönböztetem azt amit pl. ide írok, a "világnak" és azt amit csak magamnak és Istennek a naplómba. Szent Ignác elég szemfüles volt és időben elégette naplójának jó részét. Isten és Faustina személyes beszélgetései nem tartoznak rám. Egy naplóba beleír az ember mindent. Olyan is van, hogy később másképp gondolja. Aztán a lelkes olvasó, aki megakadt a második fejezetnél, azt hiszi szegény naplóíró bolond. Harmadik problémám vele az, hogy nagyon felkapott. Nem szeretem a felkpott dolgokat. Én "antitömegember" vagyok (ami nem feltétlenül jobb a tömegembernél): nem szeretem azt, amit mindenki szeret. Damján De Veuster Józsefről és Molok-szigetéről halottatok? Őt szeretem.  
+Nos ilyen előítéletek után húztam ki Kowalskat. Van egy évem arra, hogy az előítéletek után megismerkedjem vele. Meg kell ismernem, hogy alaptalanul ne szidhassam. Alappal egy szentet igazán nem lehet szidni, hiszen minden emberi hibájuk ellenére/mellett is sikerült az Úrral nagyon jó barátságban lenniük. Minden ami ezen kívül van igazából teljesen lényegtelen. (Természetesen egy ilyen barátságból sok szép dolog fakad. De Istenhez képest még azok is elhanyagolhatóak.)  
+Alszom még rá pár napot, aztán megismerkedek Faustina Kowalskával. Gondolom fog még melepetés érni.

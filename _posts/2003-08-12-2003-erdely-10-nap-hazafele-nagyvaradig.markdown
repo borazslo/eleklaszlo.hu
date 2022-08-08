@@ -4,7 +4,7 @@ title: "2003 Erdély, 10. nap - Hazafelé (Nagyváradig)"
 permalink:  /434/ 
 date: 2003-08-12 17:00:00
 tags:  [ 2003 Erdély ] 
-image:  /files/images/2922604390_57e4af3048_o.jpg 
+image:  /files/images/flickr_2922604390.jpg 
 ---
 Ez az indulás napja. Bús, de szép nap.
 

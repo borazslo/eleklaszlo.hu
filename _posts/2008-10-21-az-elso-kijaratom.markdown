@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Az első kijáratom"
+permalink:  /4751/ 
+date: 2008-10-21 19:52:58
+tags:  [ kórház, életjel, halál ] 
+---
+Exit. Annyit tesz mint &bdquo;kijárat&rdquo;. A kórházi szakzsargonban az örök kijárat; a halottat nevezik exitnek. Tegnap, életemben először, halottat is cipeltem. Még sosem láttam halottat ilyen közelről.
+
+   <p style="margin-bottom: 0cm">Első napom a kardiológián. Még reggel volt. Ültem. Vártam. És akkor jött Imre, hogy engem keres: exit van. Exit. Kemény ez a szó. Mindent elkövet azért, hogy ne találkozhass a halál tényével. Pedig muszáj.</p> <p style="margin-bottom: 0cm">Szóltam egy másik Lacinak. Átballagtunk a főépületbe. Közben a kisbuszt megtankolta a sofőr. Saját zsebből. Elkértük a hullaház kulcsát, és benyitottunk.</p> <p style="margin-bottom: 0cm">Halottal igazából sosem találkoztam még. Ez volt az első, nagy találkozás. Nem volt romantikus, nem volt érzelgős, nem volt semmilyen. Dolgozni kellett, hát dolgoztunk.</p> <p style="margin-bottom: 0cm">Felhúztuk a gumikesztyűt. Megkértük a boncsegédet, hogy tolja arrébb a nénit, akit éppen akkor öltöztetett, mert nem fértünk oda a hűtőhöz. Kinyitottuk az egyik hűtőt és kerestünk egy üres helyet az újonnan érkezőnek. Kikaptuk a tepsit, ráraktuk a tetőt, és az egészet bedobtuk a kisbuszba.</p> <p style="margin-bottom: 0cm">&nbsp;</p> <p style="margin-bottom: 0cm">Felsiettünk az osztályra. Megragadtuk erős kézzel a fehér vászonba csomagolt elhunytat és átraktuk a tepsire. Mehet rá a fedő, és irány a kijárat.</p> <p style="margin-bottom: 0cm">Hosszú folyosókon keresztül vezetett az út. Csöndben álltak félre. A liftes sopánkodott egy sort, hogy miért az ő liftjét kell használnunk. Majd átvittük a kisbusszal a hullaházba, zsupsz bele a hűtőbe. Elbúcsúztunk a gumikesztyűtől és a boncsegédtől, és mentünk betegeket szállítani innen-oda, s onnan-ide.</p> <p style="margin-bottom: 0cm">&nbsp;</p> <p style="margin-bottom: 0cm">Nem volt viccelődős hangulatunk. Nem volt szomorú, vagy gyászos hangulatunk.</p><p style="margin-bottom: 0cm">Melósok voltunk, melóztunk.</p><p >Azért egy cigi kellett előtte.</p>

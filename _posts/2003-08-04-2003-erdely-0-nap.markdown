@@ -4,7 +4,11 @@ title: "2003 Erdély, 0. nap"
 permalink:  /424/ 
 date: 2003-08-04 10:00:00
 tags:  [ 2003 Erdély, TÚRÁK ] 
-image:  /files/images/5051793090_b29c8078d8_b.jpg 
+image:  /files/images/flickr_5051793090.jpg 
+summary: "
+
+"
+
 ---
 Végre megvalósult egy álom. Vándortábor Erdélyben (bár nem indián tábor volt és nem lóval mentünk). 2003.08.05-15.
 

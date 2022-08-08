@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Döbrönte"
+permalink:  /4867/ 
+date: 2009-06-23 12:54:56
+tags:  [ fényképezés ] 
+image:  /files/images/flickr_3653822580.jpg 
+---
+<a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=hu&amp;geocode=&amp;q=d%C3%B6br%C3%B6nte&amp;sll=37.509726,-95.712891&amp;sspn=33.943456,79.101563&amp;ie=UTF8&amp;ll=47.241949,17.547226&amp;spn=0.228422,0.617981&amp;z=11&amp;iwloc=A">Döbröntén</a> voltam és fényképeztem naplementekor és napkeltekor. Ezt sikerült.
+
+
+
+<!--break-->
+
+<p class="rtecenter" style="text-align: center; ">[flickr-photo:id=3639046417,size=-]</p><p class="rtecenter" style="text-align: center; ">[flickr-photo:id=3642670234,size=-]</p><p class="rtecenter" style="text-align: center; ">[flickr-photo:id=3653168965,size=-]</p><p class="rtecenter" style="text-align: center; ">És íme az egész sorozat:</p><p class="rtecenter" ><object height="375" width="500"><param name="flashvars" value="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F30541746%40N05%2Fsets%2F72157620237500847%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F30541746%40N05%2Fsets%2F72157620237500847%2F&amp;set_id=72157620237500847&amp;jump_to="><param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=71649"><param name="allowFullScreen" value="true"><embed allowfullscreen="true" flashvars="offsite=true&amp;lang=en-us&amp;page_show_url=%2Fphotos%2F30541746%40N05%2Fsets%2F72157620237500847%2Fshow%2F&amp;page_show_back_url=%2Fphotos%2F30541746%40N05%2Fsets%2F72157620237500847%2F&amp;set_id=72157620237500847&amp;jump_to=" height="375" src="http://www.flickr.com/apps/slideshow/show.swf?v=71649" type="application/x-shockwave-flash" width="500"></object></p>

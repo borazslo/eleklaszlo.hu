@@ -4,7 +4,7 @@ title: "2003 Erdély, 9. nap - A Gyilkos-tónál"
 permalink:  /433/ 
 date: 2003-08-12 16:00:00
 tags:  [ 2003 Erdély ] 
-image:  /files/images/4890797883_01be290d6c_b.jpg 
+image:  /files/images/flickr_4890797883.jpg 
 ---
 Erre a napra nem mondhatjuk, hogy fárasztó volt.
 

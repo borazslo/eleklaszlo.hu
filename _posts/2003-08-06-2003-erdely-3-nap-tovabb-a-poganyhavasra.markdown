@@ -4,7 +4,7 @@ title: "2003 Erdély, 3. nap - Tovább a Pogányhavasra"
 permalink:  /427/ 
 date: 2003-08-06 16:00:00
 tags:  [ 2003 Erdély ] 
-image:  /files/images/5051793926_a0312da828_b.jpg 
+image:  /files/images/flickr_5051793926.jpg 
 ---
 Csomortánon ébredtünk. Bácsink reggel látta, hogy minden rendben van, így nem mindjárt kedvesebb volt.
 

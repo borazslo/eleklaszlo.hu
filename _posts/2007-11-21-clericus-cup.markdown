@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Clericus Cup"
+permalink:  /4540/ 
+date: 2007-11-21 06:43:28
+tags:  [ életjel, Clericus Cup, foci ] 
+summary: "Megkezdődött a második <a href=\"http://www.csi-net.it/clericus cup\">Clericus Cup</a>; a római egyházi szemináriumok és kollégiumok között focibajnokság. A nyitó mérközésen mi játszahattunk a Mater Ecclesiae ellen.
+
+Tavaly találták ki az egészet. Odáig jutottak, hogy el akarják ismertetni a FIFA-val. Szponzort találtak, így minden csapat saját mezt kapott. Már megint. (Tavaly is kaptak. Így a jobbak már két teljes felszereléssel rendelkeznek."
+
+---
+Megkezdődött a második <a href="http://www.csi-net.it/clericus cup">Clericus Cup</a>; a római egyházi szemináriumok és kollégiumok között focibajnokság. A nyitó mérközésen mi játszahattunk a Mater Ecclesiae ellen.
+
+Tavaly találták ki az egészet. Odáig jutottak, hogy el akarják ismertetni a FIFA-val. Szponzort találtak, így minden csapat saját mezt kapott. Már megint. (Tavaly is kaptak. Így a jobbak már két teljes felszereléssel rendelkeznek.  
+A nyitó meccs a római "Márvány Stadion"-ban volt (Stadio dei Marmi), közvetlenül az Olimpiai Stadion lábánál.Van ám reklámja a Clericus Cupnak ezért a nyitó mérközésre kivonult a sajtó. Volt vagy 7 különféle kamera, és pár hivatásos fotós egész nagy fényképezőgéppel, A RAI2 (~MTV2) is kijött. Mérközés után többekkel riportot készítettek. Sajtó volt, néző sajnos jóval kevesebb. A mi drukkereink fele annyian voltak mint a másik csapatéi, de annál hangosabban aszólt a "mi vagyunk, mi vagyunk, a pápai szeminárium mi vagyunk". Kicsi, de minőségi szurkolótáborunk volt. A szeminárium színe-java kijött. A rektor és vicerektor is ott volt. Volt dobunk, trombitánk, lengyel zászlónk, csörgőnk is.  
+Tavalyi rózsaszín mezünket végre lecseréltük. Vágyunk a sárga-fehér pápai mez lett volna, de csak a piros-fehér lengyel színeket kaptuk meg. Ez legalább kinéz valahogy, a tavalyi nagyon durva volt.  
+A kétszer 30 perces meccs nagyon kemény volt. Tavaly 4:1-re kaptunk ki tőlük, most nem volt ilyen könnyű dolguk. Az első gólt mi rúgtuk. Sajnos mikor már csak 3 perc hiányzott a győzelemhez, beletaláltak a kapunkban. Igaz ugyan, hogy a teljes médiás stáb és szurkolótábor szerint lesen volt a góllövő. Sajnos a partjelző hibázott, így 1:1 lett. Mivel nem szeretik a döntetlent, ezért tizenegyesek következtek, ahol 5:3-ra kikaptunk. Szomorűan tértünk haza. Így kikapni nem túl örömteli.
+
+Mi értelme van ennek az egésznek? Kispapok fociznak és annyi? Az eredeti ötlet szerint nem.  
+Sok apró indok is van. A kispapoknak nem árt meg egy kis mozgás. (Öröm nézni a pályán száguldozó pocakokat.) A foci csapat játék, közösséget teremt; együttműködésre kényszerít. (Együttműködésből is van mit tanulnunk.) Ha a kispap hozzászokik a sporthoz, talán majd a plébániáján sem fog elmenekülni a játszani kívánó fiataloktól.  
+Ennél lényegesebb indok is van, bár nem feltétlenül az teljesül leginkább. A Clericus Cuppal szeretnék újraéleszteni a római oratóriumok világát. Állítólag egy időben Rómában több mint 1000 oratórium működött. Ma alig van pár tucat működő oratórium. Azt ugyan nem teljesen értem, hogy a Clericus Cup hogyan lendítit fel ez óratőriumi életet, de a "nagyok" biztos tudják. Legalábbis remélem.
+
+Mi az az oratórium? Nem tudom pontosan. Egy hely, egy foglalkozás, egy stílus. Mikor egy plébánián a templom mellett van egy focipálya, ami egész vasárnap nyitva van. Az unatkozó ifjúság odamegy és focizik. A helyi pap pedig beáll. S egyszer csak azt veszik észre, hogy épp arról beszélgetnek az atyával, hogy milyen jó lenne rendszeresen találkozni, és néha valami komolyat is csinálni. Valami ilyesmi lehet az az oratórium. Itt Rómában a lehetőség; az infrastruktúra sokhelyen adott. Nem egy plébániával találkoztam aminek saját kis focipályájai vannak. Akadnak olyanok is akik 3-4 különféle sportpályával bírnak. Sőt az Oratorio San Papolo (Szent Péter Oratórium) saját uszodával is rendelkezik a fedett kosár pálya alatt. (Oda járok úszni.) A baj csak az, hogy a nagy oratóriumok önnálósodtak, és keresztény szellemiségű sportkomplekszumokká váltak. (Aminek a Regnumban biztosan örülnénk, de már nem tölti be azt a szerepet, amit don Bosco megálmodott.) A kisebb egyszerűbb sportpályák pedig folyton zárva vannak. Kevés az a plébánia, ahol nyitva tartják őket. Túl sok munka. Hiszen, ha nyitva van, akkor kell valaki aki felügyel a fiatalságra. Sőt akkor lenne az igazi, ha lenne egy pap aki velük van. A papoknak meg tudvalevőleg semmi idejük sincs. Legalábbis ezt állítják, pedig ez Róma, nem Budapest. Róma telis-teli fiatal még diák papokkal, akiknek lenne idejük, ha akarnák. Sajnos nem elég jó a helyzet. Azért vagyok igazán morcos, mert az infrastruktúra sok helyen megvan. Kihasználatlanul. Hány budapesti plébánia örülne egy saját focipályának rögtön a templom mellett?
+
+Így jártunk. A vacsora kezdetén a vereség ellenére nagy tapsot kapott a csapat, hiszen tényleg jól játszottak. A meccs megvolt.   
+Folytatódik minden, ahogy annak lennie kell. Alszunk, eszünk, tanulunk és naponta van egy órás szentségimádásunk.
+
+Akit érdekel a Clericus Cup megnézheti a csapatunk honlapját: <a href='http://lasquadra.helloweb.eu'>lasquadra.helloweb.eu</a> vagy a CSI (Centro Sportivo Italiano) honlapját: <a href='http://www.csi-net.it/clericus cup'>csi-net.it/clericus cup</a>. Ezekhez az oldalakhoz szükséges némi olasztudás. Aki nem tud olaszul az nézegethet fényképeket a csapatunkról és a meccsről: <a href='http://lasquadra.helloweb.eu/media/foto'>lasquadra.helloweb.eu/media/foto</a>.

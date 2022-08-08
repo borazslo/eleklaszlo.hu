@@ -4,7 +4,7 @@ title: "2003 Erdély, 8. nap - A Békás-szoros"
 permalink:  /432/ 
 date: 2003-08-11 10:00:00
 tags:  [ 2003 Erdély ] 
-image:  /files/images/ 
+image-error:  4849377052 
 ---
 Fáradtak voltunk már reggel is, és éhesek.
 

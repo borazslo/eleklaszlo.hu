@@ -4,7 +4,7 @@ title: "2003 Erdély, 1. nap - Budapesttől Kolozsvárig"
 permalink:  /425/ 
 date: 2003-08-05 10:00:00
 tags:  [ 2003 Erdély ] 
-image:  /files/images/3086769616_d1992b3c57_o.jpg 
+image:  /files/images/flickr_3086769616.jpg 
 ---
 Reggel kilenckor találkoztunk a keletiben. Mindenki ott volt. Mind a 6 fő. Bevallom izgultam, hogy minden rendben mennyen.  
 Megvolt az első hibám: a nyugatiba kellett volna menni.

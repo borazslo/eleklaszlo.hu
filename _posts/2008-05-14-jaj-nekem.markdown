@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Jaj nekem"
+permalink:  /4719/ 
+date: 2008-05-14 06:03:30
+tags:  [ számítógép, oboa ] 
+---
+Hogy vagyok? Hát rosszul. Ki vagyok.
+
+Az elmúlt két hét nehézre sikerült. Sok minden összejött. Most csak a legutolsó legnagyobb bajaimat emlegetem. Tudom, ezek sokak gondjaihoz képest kis semmiségek. Látom én ezt a kórházban. De ettől még nem leszek jól.
+
+Közeleg a vizsgaidőszak. Meg kéne írni egy húsz oldalas dolgozatot végre. Tudom az én hibám, hogy sokáig halasztottam. Minden nap úgy kelek fel, hogy na majd ma haladok vele. Nehezen megy. Magyarul sincs meg mindig a gondolat, hát még olaszul. Aztán félig értelmes olasz mondatba kell öltenem. (Elég csak félig értelmesbe, mert egy társam felajánlotta a segítségét, hogy még a vizsgák előtt szívesen &quot;lefordítja&quot; az én félolaszomról olaszra az írásomat.)
+
+Pár napja a számítógépem elkezdett haldokolni. Most jutottam el oda, hogy meghalt egy 160 Gb-os vincseszterem. Ezen volt mindenem. Az összes digitális fényképem, dokumentumok, némi zene.  
+Pár napja kezdett rosszul viselkedni a gépem. Újratelepítettem amit lehetett. A telepítő WinXp CD már nem látta jól a nagy wincsesztert. Az új winXp is így csinált. (Állítása szerint létezett egy 130 gigás üres, formázatlan vinyó.) Ráadásul elkezdett melegedni, sőt forrósodni. (Úgy tűnt fel, hogy magától újra indult és furcsán viselkedett az új Xp is. Belenéztem a Bios-ba és ott láttam valamit, ami 49&deg;C körül mozgott. Hümm.) No jó, felraktam egy Ubuntu 8.04-t. (Hogy ez milyen szép és jó!!) (Persze nem minden ment ilyen egyszerűen, de ezek a fő lépések. Pl. internet nélkül nehéz Ubuntura szert tenni. Az internethez cipelni kell a számítógépet le és fel.) A csodálatos linux teljesen korrektül látta a wincsesztert és minden partícióját. Juppé.  
+Közben segítséget kértem a bátyámtól, aki azt a bíztatót javasolta - tekintettel a melegedésre -, hogz észnélkül mentsem ami menthető. Még jó, hogy van nálam kölcsönben egy külső vincseszter. Egész délután másolta át a dolgaimat.. (Úgy 120 gigát.)   
+Mikor már minden adatomat biztonságban tudtam újraformáztam xp alatt. (Hogy lehessen ntfs partícióm, mert azt mind az Ubuntu, mind az Xp jól látja.) Ezzel kilehelte lelkét. Most már a Biosnak sem tűnik fel, hogy itt van ő is. Vége. Egy másfélnapos haláltusa végén kimúlt. Még jó, hogy mindent sikerült mentenem időben. Viszont így nagyon megnehezítette két napomat. S még hányat fog? (Hiszen venni kell wincsesztert, telepíteni linuxot, felmásolni mindent stb.)
+
+Hiába minden idegeskedés, délben oboáztam. Mindig ekkor szoktam, bár az múlt héten többször kimaradt (s ez jellemző az állapotomra). Remekül szólt. Sokat gyarkolok, s így néha egész élvezhető. Viszont mikor letettem belészorult a törlőrongy. Az oboa kényes hangszer. Az enyém meg különösen is az, hát minden zenélés előtt és után rendes kitörölgetem. Most először beleszorult a rongy. Néha meg szokott szorulni egy kicsit, de egy kis rántással kijön. Most benne maradt. Kissé idegesít. Sok mindent próbáltam, de mégsem fűrészelhetem szét. ÁÁáá...
+
+Ja, és ma egész nap fájt kicsit a fejem. De nem tudom, hogy valami betegségtől, vagy a fáradtságtól, vagy az idegeskedéstől.
+
+Vagyis rosszul vagyok. Tombol az orkán és nagyok a hullámok. De odalenn mélyen minden csöndes és békés és szelid. S ha az Úr előtt le tudok csöndesedni, akkor lejuthatok oda a mélységbe. De akkor is elálmosodom, s aztán vissza kell jönni a szobámba harcolni. Harcolni a dolgokkal. Minek?  
+Pont a múltkor beszélgettem egy jezsuitával a szegénységről. Hiszen ott van a fogadalmak között. Hogyan lehet helyesen, Jézust követve megélni a szegénységet?   
+Szombaton beszélgettünk, de a naplómba még mindig nem írtam meg a gondolataimat. Miért? Mert folyton a számítógépet bütyköltem, hogy életre keljen. Tipikus. 
+
+Szegénység, lemondás. Őrült wincseszterek. Ragaszkodás, szükségessék, hasznosság. Szolgálat és követés. Valamikor tiszta fejjel, az Úr előtt, egy-két órában olyan jól összelehetne rakni, s akkor talán békében dőlhetnék le.
+
+------------------------------- Frissítve----------------------------
+
+Tegnap éjjel írtam ezt. Úgy fél egy felé, mikor feladtuk a többiekkel együtt.
+
+Aztán még átblattyogtam a kápolnában. Éjjel nincs ott senki, csak az Úr. Üres és sötét a kápolna. Szeretek éjjel arra járni. Bementem hát, és oda állva az Úr elé elmondtam, hogy &quot;Uram, én nagy ki vagyok!&quot;. S ezzel elintéződött minden. Még kicsit beszélgettünk, majd elmentem aludni. Remekül aludtam, s egész jól érzem magam. Persze teknikailag semmi nem lett jobb. Na és...
+

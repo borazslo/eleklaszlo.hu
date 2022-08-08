@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Mosógép"
+permalink:  /4740/ 
+date: 2008-09-22 21:19:53
+tags:  [ mosógép, kézikönyv ] 
+---
+Néha talán érdemes elolvasni a kézikönyvet.
+
+
+
+<!--break-->  
+Kaptunk ajándékba egy vadi új mosógépet. Három-négy napja jutottunk el arra a pontra, hogy beszereljük. Gondoltunk, igazán nem nagy ügy. Kiszedtük a dob rögzítő csavarjait, bekötöttük a vizet, és a vízelvezetést is megoldottuk. Bekapcsoltuk és indulhatott a buli. Lement egy próbakör, de vizet sehogy sem volt hajlandó leengedni. (S így a szuper intelligens mosógép blokkolta az ajtót.)
+
+ Néztük erről, néztük arról. Itten, meg ottan. De semmi. Ez ment napokig, külső segítséget is bevontunk. Már éppen megállapítottuk, hogy a szakszerviz segítségét kérjük. Utolsó próbaként beírtuk a Google-ba, hogy &bdquo;samsung f483 manual&rdquo; No, az első és a második találat rögtön jó volt.  Letöltöttük a gép kézikönyvét s öt percen belül megoldottuk a problémát: a kivezető csőnek a földtől  60-90 cm-re kell mennie. A mienk túl mélyen volt bekötve. Felemeltük a csövet és működött. (Bár nem értem miért olyan fontos ez a 60-90 cm.)
+
+ &nbsp;
+
+ Ennyi. Van egy jó mosógépünk. Néha mégis csak érdemes elolvasni azt a kézikönyvet.
+

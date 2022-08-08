@@ -1,51 +1,67 @@
 ---
+<<<<<<< Updated upstream
 layout: home
 title: Itthon a
+=======
+layout: default
+pagination: 
+  enabled: true
+>>>>>>> Stashed changes
 ---
 
-<!-- This loops through the paginated posts -->
-{% for post in paginator.posts %}
-  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
-  <p class="author">
-    <span class="date">
-        <time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ post.date | date: site.date_format }}
-      </time>
-    </span>
-  </p>
-  <div class="content">
-    {% if post.content contains site.excerpt_separator %}
-      {{ post.excerpt }}
-    {% else %}
-      {% assign truncatedContent = '' %}
-      {% assign paragraphs = post.content | split:'</p>' %}
-      {% for paragraph in paragraphs limit:1 %}
-          {{ truncatedContent | append: paragraph }}
-          {{ truncatedContent | append: '</p>' }}
-      {% endfor %}
-      {{ truncatedContent }}
-    {% endif %}    
-  </div>
-  
-  <div class="tags">    
-    {% for tag in post.tags %}
-      <span class="tag"><a href="/tag/{{ tag | slugify }}/">#{{ tag }}</a></span>      
-    {% endfor %}
-  </div>
 
+
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}	
+  {% include postteaser.html %}
 {% endfor %}
+
+
 
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">Előző</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Előző
+    </a>
   {% else %}
-    <span class="previous">Előző</span>
+    <!-- <span class="previous">Previous</span> -->
   {% endif %}
-  <span class="page_number ">Oldal: {{ paginator.page }} / {{ paginator.total_pages }}</span>
+  <span class="page_number ">
+    {{ paginator.page }} / {{ paginator.total_pages }}
+  </span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Következő</a>
   {% else %}
-    <span class="next ">Következő</span>
+    <!-- <span class="next ">Következő</span> -->
   {% endif %}
 </div>
+<!-- -->
+
+<style>
+.pagination a, .pagination span {
+    padding: 7px 18px;
+    border: 1px solid #eee;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
+  }
+
+.pagination a {    
+    &:hover {
+        background-color: #f1f1f1;
+        color: #333;
+    }
+ }
+
+.pagination {
+    text-align: center;
+ }
+ </style>
+
+
+<hr></hr>
+
+<h2>Archive</h2>
+{% include tagcloud.html %}

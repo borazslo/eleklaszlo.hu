@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Loszity"
+permalink:  /4880/ 
+date: 2009-08-04 21:53:18
+tags:  [  ] 
+image:  /files/images/flickr_3732929734.jpg 
+---
+<p class="rteleft">A 327.sz. Loyolai Szent Ignác cserkészcsapat 2009-ben Ravazd mellett táborozott. Egy-két napig meglátogattam és lefényképeztem őket.</p>
+
+<!--break-->
+
+<p class="rtecenter">[flickr-photo:id=3732145439,size=-]</p><p class="rtecenter">[flickr-photo:id=3732973288,size=-]</p><p class="rtecenter"><embed flashvars="host=picasaweb.google.com&amp;noautoplay=1&amp;hl=en_US&amp;feat=flashalbum&amp;RGB=0x000000&amp;feed=http%3A%2F%2Fpicasaweb.google.com%2Fdata%2Ffeed%2Fapi%2Fuser%2Faranyozottpatkoszeg%2Falbumid%2F5366214553496095329%3Falt%3Drss%26kind%3Dphoto%26hl%3Den_US" height="267" pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://picasaweb.google.com/s/c/bin/slideshow.swf" type="application/x-shockwave-flash" width="400"></p>

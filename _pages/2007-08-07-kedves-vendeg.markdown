@@ -4,6 +4,13 @@ title: "Kedves Vendég!"
 permalink:  /423/ 
 date: 2007-08-07 15:24:08
 tags:  [  ] 
+summary: "Üdvözöllek a honlapomon!&nbsp; &Iacute;rtam es irok mege ezt-azt, hogy lehessen mit olvasni. Es van persze nehany fotom is.
+
+<h2><a href=\"www.eleklaszlo.hu/iit/node/4523\">Caro Italiano</a>,</h2>  
+ecco il mio sito anche in italiano: <a href=\"/it\"><strong>clicca qui</strong></a>!!
+
+"
+
 ---
   
 Üdvözöllek a honlapomon! Még sok fúrni faragni való van rajta, de már áll. &Ouml;röm ránézni. (Szerintem.) &Iacute;rtam ezt-azt, hogy lehessen mit olvasni. (Legyen mihez hozzászólni.)

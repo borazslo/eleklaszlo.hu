@@ -1,0 +1,21 @@
+---
+layout: post
+title: "A harmadik nap szenvedése"
+permalink:  /6072/ 
+date: 2009-08-07 10:00:00
+tags:  [ 2009 Világi Tor Túra ] 
+---
+Ez a hely nem olyan elegáns mint a tegnapi. Ráadásul nem is vagyok eléggé messze a tegnapi szállástól. És fázom is egy kicsit. No sebaj, mindjárt kész a teám és belebújok a hálózsákomba.   
+Furcsa volt ez a mai nap is. Kerekeztem, meg szenvedtem majd röpültem újra. Pedig a terep végig ugyan olyan volt. Hullámvasút. Fel és le. Le és fel. Kicsit fel, nagyot le. Nagyot fel, kicsit le. Rossz úton fel, jón le. Kanyargósan fel, egyenesen le. Falu volt fenn, vagy falu volt lenn. Erdőben fel, mezőn le. Változatlan változatosság: hullámvasút.
+
+Brűnig minden rendben volt. Megnéztem a városkát, imádkoztam a templomban, vettem péksüteményt. A Mc’Donalds-ban nem adtak nekem konnektort, így jobb hely után kellett néznem. Találtam is egy mellék utcácskában. Igen wifivel. Onnan küldtem el az előző cikkeket. A google térképén megterveztem az utat és felírtam magamnak. (Van térképem, de nem olyan részletes.) Megvártam míg feltöltődik a laptop és tovább indultam. De ekkor már majdnem egy óra volt! Délután egy óra és még csak 25km-t tekertem. Nem éppen bíztató kilátás.
+
+Erre a tökéletlen hangulatomra jött rá a vég: elterelték a 602-es utat még Brűnben. Alig 4km kitérő, de egy hatalmas hegyre fel, aztán onnan le. Félúton megálltam és kerestem egy árnyékot. Itt nekem végem – gondoltam és megebédeltem. Aztán tovább szunyókáltam, mert sehogy sem akaródzott az a hegy árnyékosabb és alacsonyabb lenni. Nagy-nagy gorombaságok közepette tekertem fel rá. A lejövet legalább gyönyörű volt, de teljes kivoltam ezért gyorsan betértem egy benzinkútba vizet és csokoládét szerezni. Sok csokoládét. (Kész a teám, megízesítem és megiszom. De jó lesz.) Szóval tekertem, tekeregtem, nagy-nagy kínszenvedések árán. A benzinkút után jött egy 12%-os kedvesség, ráadásul macskakőből. (Mióta szokás főútvonalakat 2-3km hosszan macskakővel borítani??) A következő faluban végképp kinyúltam. Betértem a boltba és vettem tejet, kenyeret, stb. Majszoltam valamit a padon, írtam egy bánatos twitter bejegyzést és majdnem elaludtam. Vagy fél órát ücsörögtem ott és az járt a fejembe, hogy legalább még egy húszast le kéne tekerni. (Ekkor jártam 45km körül.) Kész végem. Délután fél öt és még sehol sem tartok.
+
+Ám ekkor kezdődött a csoda. Már megint. Mint tegnap. Délután öttől jól lehet tekerni. Vagy csak a mélypont kell hozzá. Nyeregbe húztam magam, de aztán megindult alattam a föld. Egyik hepe a másik után. Hullámvasút: hepe-hupa. De most élveztem őket. Kihívás volt legyűrni a hepéket, a hupákban pedig száguldottam. A táj egyre csodálatosabb lett. A hatalmas búzamezőket éppen aratták. Itt-ott egyre komolyabb erdőn át vezetett az út. A falvak is egyre szebbek lettek, sok-sok tényleg régi(es) parasztházzal. Nem győztem ámulni és bámulni, miközben tekertem, tekertem. Kifelé a világból.  
+<p ><a href="https://www.flickr.com/photos/borazslo/3804757896" title="DSC_2268 by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2576/3804757896_395c18c88d.jpg" width="500" height="334" alt="DSC_2268"></a></p>
+
+Egy faluban megint találtam egy éppen nyitott templomot. Épp kezdődött a szentmise. Csehül sem értek, de jó volt az Úrral találkozni nem csak odakinn, hanem odabenn is.  
+<p ><a href="https://www.flickr.com/photos/borazslo/3804764848" title="Itt voltam misén by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2660/3804764848_d300ed0431.jpg" width="500" height="334" alt="Itt voltam misén"></a></p>
+
+Aztán tovább és tovább. Fel és le. Tekertem és repült a gép. Közben a nap nyugovóra tért. Kerékpárról nézni ahogy a Nap szép lassan lebukik a fenyvesek vagy éppen búzatáblák mögött. Szépen, lassan, megállíthatatlanul. Felkapcsoltam a lámpáimat és alvóhely után néztem. Benéztem egy búzamezőbe, de mindenütt arattak napközben és amúgy is túl göröngyös volt. A sötét erdőtől pedig félek. Tudom az eszemmel, hogy semmi baj nem történhet. (Nem úgy mint egy benzinkút mögött.) De ilyenkor is kiderül, hogy az ész nem minden. Másból is áll az ember. Eltekertem hát Zd’ár legszélére, és ott egy benzinkút mögötti raktár mögött az erdő szélén ledőltem a gazba. Elkezdtem írni ezt a cikket, aztán a telihold fényében elaludtam.

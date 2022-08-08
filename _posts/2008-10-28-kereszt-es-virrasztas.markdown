@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Kereszt és virrasztás"
+permalink:  /4752/ 
+date: 2008-10-28 10:55:47
+tags:  [ szentelés, kereszt ] 
+---
+Te is el akarsz hagyni engem? - szólt Jézus hangja a szeminárium kápolnájában. A leendő diakónusok a kereszttel néztek szembe. Nem mondta senki, hogy könnyű lesz majd diakónusnak. Nem biztatták őket, hogy &bdquo;meg tudjátok csinálni&rdquo;. Jézus is belehalt az önátadásba.
+
+ <p style="margin-bottom: 0cm">Tizennégyen készültek a <a href="http://seminarioromano.it">Római Nagyszemináriumban</a> a diakónusszentelésre. Három évig én is velük készültem. A szentelés előtti estén mindig virrasztás van a szemináriumban. A kápolnánk megtelt a szentelendők rokonaival és barátaival. Közös készület volt, a Szentlélek segítségül hívása, hogy teljesen átadhassák magukat Isten és az emberek szolgálatára.</p>  <p style="margin-bottom: 0cm">Péter visszaemlékezését jelenítették meg az ötödévesek. &bdquo;Te is el akarsz menni?&rdquo; Vívódott Szent Péter is eleget. Ki ez akinek a szeme így megigéz, akinek a hangja ilyen ellenállhatatlan? &bdquo;És ti mit mondtok, ki vagyok?&rdquo; A várt Messiás, aki kereszten végezte. &bdquo;Ti is el akartok menni?&rdquo; - szólt újra és újra Krisztus kérdése.</p> <p style="margin-bottom: 0cm">Isten hívására igent mondani nem könnyű.</p> <p style="margin-bottom: 0cm">A leendő diakónusok Istent hívták segítségül, mert tudják jól, saját erejükben nem bízhatnak. Nem holmi világi dicsőségre pályáznak. A kereszt áll a szemük előtt. A rektortól a virrasztás végén kaptak egy-egy keresztet, hogy el ne feledjék kit követnek: a hatalmas Isten fiát, aki kiüresítette önmagát; picinyke porszem lett és meghalt a kereszten. Értünk.</p> <p style="margin-bottom: 0cm">Szentelési mottóul is ezt választották: <strong>&bdquo;Mert a kereszt igéje nekünk Isten ereje.&rdquo; (1 Kor 1,18ae)</strong></p> <p style="margin-bottom: 0cm">&nbsp;</p> <p style="margin-bottom: 0cm">&nbsp;</p> <p >&nbsp;</p>

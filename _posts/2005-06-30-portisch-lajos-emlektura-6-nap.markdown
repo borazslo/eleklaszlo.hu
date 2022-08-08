@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Portisch Lajos emléktúra - 6. nap"
+permalink:  /4505/ 
+date: 2005-06-30 19:55:52
+tags:  [ 2005 Szent Laci ] 
+---
+Engem tehát Vácon ért a 30-a. Pontosabban még Vác előtt pár kilométerrel. Emlékmise után, és sok-sok utazás után este 6-ra Hollókőn voltam.
+
+A többiek - amennyit nekem elmondtak - Balassagyarmat-Szécsény-Hollókő útvonalon kerülték el a napsugárzás okozta veszélyeket. Szécsénybe belebotlottak egy Norbinak nevezett egyénbe, akit később én is megismerhettem. Koradélután eljutottak Hollókőre. A templom melletti kis házat szabadság miatt bezárták. Az árnyékos asztalokra fekve punnyadt szegény nép, amíg oda nem értem. Utána együtt punnyadtunk.
+
+Ekkor történt némi ismeretlen valami. Valaki mondott valamit. Feltehetően ezért valaki elbujdosott, és pár óráig elő sem került, pedig körbesétáltam Hollókőt (vagy Hollókövet?) érte. Pedig épp számháborúzni akartunk. Két csapat lett volna… Amikor összegyűlt a csapat Gáborral elmentünk szállást kereseni, de nem voltak szimpatikusak a marhalegelők, még az erdőben sem. Jobb híjján azt találtuk, hogy alszunk ott a faluban. Majd gázon főzünk tésztát. Csakhogy már nem volt gázunk. Az csak vész esetére volt, nem minden napra. Épp gondolkodtunk mi legyen, amikor egy kedves ember jött hozzánk. Így szólt: „Nem azért szólok, mintha félteném anyósom házát, hogy bármi eltûnne, de azt javaslom, hogy ne itt aludjatok. Nem féltek én semmit, de ha éjjel valami történne, biztos titeket vennének elő először." Értettük mi tisztán. Húzzunk el a … ba. Oké-oké. Legyen neki. Felementünk a várhoz. (Korábban amikor arra kerestem egy bizonyos egyént, akkor megállapítottam, hogy van fönn egy csap.) Hollókő vára is a turistáknak készült. A mellette levő dombról lazán be lehetett volna lőni, még egy jó csúzlival is. Mi persze élveztük mert ritka szép látvány egy vár, naplementével a háttérben. Csak az fűnyíró masina ne zúgott volna 5 kilométerrel arrébb egészen eset 11-ig. Azért így is „elviselhető" volt a látvány. Főztünk jó kis zacskós gulyást. Feldobtuk mindenféle kencefincével. A reggeli napsütésben meg is főtt a tészta. A teát egy kis Boleroval dobtuk fel. Az reggelre szörnyű lett. Valamikor éjjel aztán elaludtunk. Érdekes, hogy ez a valamikor éjjel általában már 11 felé bekövetkezett. Nem úgy mint általában Szent László túrákon. Tehát elaludtunk. Ritka szép este volt.

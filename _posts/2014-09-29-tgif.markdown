@@ -1,0 +1,30 @@
+---
+layout: post
+title: "TGIF"
+permalink:  /6059/ 
+date: 2014-09-29 03:40:13
+tags:  [ sütés ] 
+---
+Hirtelen felindulásból bevállaltam. <span class="zarojel" style="display:none">(Erre felé adják magukat az ilyen felbuzdulások.)</span> Végre-péntekre készültünk ahol negyven jezsuitát kellett desszerttel ellátnom. <span class="zarojel" style="display:none">(Kihívás kihívás, de pont nekem való.)</span> Felírtam egy cetlire a szükséges hozzávalókat és a nagybevásárlás során majdnem mindent megvettek. <span class="zarojel" style="display:none">(Továbbra sem szeretek vásárolni menni, utána járni. Talán soha már.)</span> Élesztőért még az este külön elkocsikáztak egy másik boltba. <span class="zarojel" style="display:none">(Nem nagy gesztus, de a természetessége olyan széppé tette az estém.)</span>
+
+Nekiálltam és izgultam persze. <span class="zarojel" style="display:none">(Ritka, hogy nagyon nem sikerülne, mégis mindig és újra és újra félek.)</span> Az elején egyből jól elakadtam, mert unciában és teáskanálban volt megadva az ismeretlen por alapú élő élesztő és a normál élesztő közötti átváltás. <span class="zarojel" style="display:none">(Megy a matek, de gyanús volt az eredmény. És addig kutattam, amíg igazam nem lett. És igazam lett.)</span> A többi aztán simán ment, bár csak egy ócska mérlegem volt. <span class="zarojel" style="display:none">(Még jó, hogy sütésnél nem a precizitás számít, hanem a lélek. Abból legalább van.)</span> Liszteztem az asztalt, nyújtottam és szaggattam a tésztát. Mint mindig. Mint bármikor. <span class="zarojel" style="display:none">(Lendület és finom erő volt benne. Ebben otthon vagyok, ebben biztonságban vagyok.)</span> Két légkeveréses villanysütőben összesen három tepsi egyszerre sült ki, alig negyed óra alatt. <span class="zarojel" style="display:none">(Jó sütővel, rendes eszközökkel mindenhez több a kedvem.)</span> A sodó kissé híg lett, de ezt más nem tudta. <span class="zarojel" style="display:none">(Hiába nem tudták, engem zavart. Morogtam is miatta.)</span>
+
+Végre-péntek: a közösségi pizzázás végén előkerült az aranygaluskám. És örültek neki. És örültem neki. Majd, alig pár órával később, az elpakolás és takarítás után, végül boldogan fellélegezve dőlhettem az ágyba:
+
+Hála Istennek; végre péntek! <span class="zarojel" style="display:none">(Thanks God It’s Friday)</span>
+
+<p onClick="Click('zarojel')" id="click"> *Kattints ide némi kiegészítésért/magyarázatért.* </p>  
+<script>  
+function Click(matchClass)  
+    {  
+    var elems = document.getElementsByTagName('*'),i;  
+    for (i in elems)  
+        {  
+        if((" "+elems[i].className+" ").indexOf(" "+matchClass+" ") > -1)  
+            {  
+    elems[i].setAttribute("style", "display:yes");  
+            }  
+        }  
+var element = document.getElementById("click");  
+ element.setAttribute("style", "display:none");  
+}</script>

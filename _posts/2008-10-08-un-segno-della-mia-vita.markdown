@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Un segno della mia vita"
+permalink:  /4746/ 
+date: 2008-10-08 14:19:13
+published: false
+tags:  [  ] 
+---
+(Primo di tutto scusate mi, perché ancora non so scrivere in italiano. Vi promesso che studierò un può di grammatica quest'anno.)
+
+<p style="margin-bottom: 0cm;">Anche qui è iniziato questo nuovo anno Volete sapere dove è questo “qui”? Vediamo...</p><p style="margin-bottom: 0cm;">Ho chiesto dai gesuiti ungheresi di entrare alla Compagnia di Gesù. Mi hanno accolto, ma non mi anno mandato subito al noviziato. Con altro quattro ragazzo facciamo insieme un anno di postulato, tipo anno propedeutico. Se Dio vuole, andremo a Genova per il noviziato anno prossimo. Speriamo.</p><p style="margin-bottom: 0cm;">Questo significa che quest'anno abito nella mia terra amata. Nel centro dei gesuiti abbiamo un corridoio. Questo non è un seminario. Soltanto la porta per il noviziato. Che significa che abbiamo le chiavi. Che gioia!</p><p style="margin-bottom: 0cm;">Nostro gruppo sta studiando italiano. Io aiuto a loro, ma – come vedete – anche io devo studiare la grammatica italiana.</p><p style="margin-bottom: 0cm;">Anno scorso ho finito la PUL ed adesso non devo studiare niente. Sto lavorando. Non ho lavorato primo mai. Sono un portare dei malati in un ospedale a Budapest. Dalle 7 di mattino fino a 3 di pomeriggio devo correre e correre. Ogni tanto devo lavorare tutta la notte. Portare un malato de qui a la, da giù a su, ecc. Faticoso. Molto faticoso. Rendo grazie al Seminario Romano perché mi ha fatto lavorare. :) E rendo grazie perché mi ha mandato alla Clinica Ematologica Umberto I. Il lavoro è tanto e difficile, ma mi piace. Quest'anno sono un ragazzo “normale” chi lavora, lavora, lavora.</p><p style="margin-bottom: 0cm;">&nbsp;</p><p style="margin-bottom: 0cm;">Come sto? Sono molto bene, molto molto bene. Sento che (nuovamente) ho trovate la strada che il Signore mi ha dato. Questa strada è bellissima. Esattamente ha fatto per me. Ma anche difficile.</p><p style="margin-bottom: 0cm;">Va bene, andiamo avanti tutti noi col Signore. Tutti nella strada nostra. :)</p><p >&nbsp;</p>

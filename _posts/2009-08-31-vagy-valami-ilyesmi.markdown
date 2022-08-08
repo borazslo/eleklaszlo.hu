@@ -1,0 +1,23 @@
+---
+layout: post
+title: "Vagy valami ilyesmi"
+permalink:  /4882/ 
+date: 2009-08-31 00:48:50
+tags:  [ "2040" ] 
+---
+2040\ közel van. Egyszerre indul több szép projekt. Én meg nem lehetek benne, mert <a href="http://aftermodern.hu/blog/2040/trackback/">két évre elmegyek meditálni, rápihenek a pápaságra, vagy valami ilyesmi</a>.
+
+Tegnap még zavart, hogy mindebből kimaradok. Hogy mindig csak a készület, a készület, míg mindenki más már rajta van az ügyön. Elvonulok két évre a világból, ahelyett, hogy dolgoznék.  
+ Jól van ez így mégis. Rá kell még pihennem erre. Van mit átmeditálni. Az eszem érti: 2040 közel van, világunk rohan a vég felé. Már csak a statisztika is azt mondja: ötven évenként fegyver ropog Magyarországon. Hát itt az ideje. Tudom, hogy baj van. Tudom, hogy az én felelősségem is, mert tudom, hogy nem vagyok akárki. Az eszem érti ezt. De az érzéseim szintjén még nem stimmel minden. Olyan távolinak érzem. Olyan valószínűtlennek érzek minden szörnyűséget, ahogy nézem az éjszakai Dunát és a kivilágított Lánchíddal. És ha így is van, akkor is nehéz átérezni, hogy pont én tehetek valamit. Nem is akármit. Azért, erre még rápihenek egyet.
+
+Igazából nem rémiszt meg az, hogy az emberiség négyötöde lazán kipusztulhat a határidőig. Mi van akkor? Az élet nem számít. Az élet így is, úgy is véges. Nekem nem célom életek megmentése. Papnak készülök, hogy Isten és ember találkozzon. Ez a célom: hogy az ember találkozzon a feltétel nélkül szerető Istennel és elkezdjen az ember is szeretni. Ez persze oda vezet, hogy ha felébred az emberben a benne rejlő szeretet, akkor gyorsan nekilát megóvni a világot a pusztulástól, hogy ne pusztuljanak el az emberek. De ez számomra már csak hozadék. Ezért vannak jobb esélyeim mint Bélának. Ha késlekedünk hónapról-hónapra csökken a túlélők százaléka, akár milyen valószínűtlennek és távolinak is tűnik. Nem késlekedhet. Nekem viszont nem romlanak így az esélyeim. Hiszen minél nagyobb a baj, minél inkább elkezdi érezni az emberiség egyben és külön-külön, hogy akár világvégét is csinálhatunk magunknak, annál nyitottabbak Isten felé, annál egyszerűbb megmutatni, hogy íme az Úr. Aztán akár el is pusztulhat az emberiség. Mert a lényeg, hogy Isten felé fordulva haljunk meg. Szinte mindegy, hogy megmentetted-e a világot, vagy csak két embert. Jó-jó, erre még rápihenek egyet.
+
+Világvége. Kataklizma. Ökológiai összeomlás. Elpusztul az emberiség nem tudom mekkora része. Annyira távolinak tűnik. És hányan gondolták már ezt, és mégsem jött el. Akkor miért pont az én életemben? Valamikor el kell jönnie. Vagy ha nem is a világvége, „csak” egy az átlagosnál nagyobb mélypont. Hmm, erre még rápihenek egyet.
+
+Apokalipszis. Sírás és fogcsikorgatás. Kénkő meg minden. Aztán Antikrisztus és egyéb szörnyűségek, majd végre eljön Krisztus megint és happy end. Ilyesmit mond az Egyház. Nem feltétlenül 2040-ig, de előbb-utóbb. Összefér ez az egész kép az Istennel, aki magam a szeretet? Nem sokkal inkább az lenne jó, ha lassan kiforrna az emberiségben a jó és egyre krisztusibbá válna a világ és így jönne el Krisztus és a világvége? Én benne vagyok az első megoldásban. Bár az Isten képmására teremtett ember alapvetően jó, de itt van az a szabad akarat és a Gonosz is, így jó mélyre süllyedhet az ember. És ha már tényleg a legmélyén van, amikor már tényleg nincs tovább lefelé, akkor talán feleszmél. Akkor talán rájön az ember, hogy nem ő az isten, a mindenható. Akkor majd meghajtja vastag nyakát és segítségért kiált. Az Isten meg másra sem vár, csak hogy segíthessen végre, de az ember szabad akaratát még ő is tiszteletben tartja. De akkor majd segíteni fog. Magához emeli az embert. És ha az ember végre nem Isten akar lenni, hanem csak ember (törékeny, és esetlen, de alapvetően jó), akkor találkozhat barátságban, irigykedés nélkül Isten és ember. Eljöhet Krisztus újra a földre és itt lehet a happy end. Minek utána még évezredeket várni, hogy a mélyből lassan felmásszon az ember a krisztusi emberig? Az ember akkor is megmarad törékeny embernek, így úgyis számtalanszor elbukna. Annyi kell, hogy Isten felé forduljon és vele szövetkezzen, barátságot kössön. És azzal a lendülettel be is fejezhetjük a világ létezését. Teljesen feleslegessé válik. Gondolom én. De inkább még rápihenek egyet.
+
+Addig meg itt hagyok mindent. A nagy projekteket, a nagy álmokat, az elkezdett és be nem fejezet álmokat, az elbukott álmokat. Mindent. Mindentől szabadon. Csak Isten és a társaim. Aztán így közösen jól kifundáljuk, hogy is van ez az egész. Utána pedig visszatérek. Körülnézek, hogy hányadán állnak is a dolgok. Majd Istennel, a nagypáholyban jól kitaláljuk és megcsináljuk.
+
+Vagy valami ilyesmi  
+&nbsp;
+

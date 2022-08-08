@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Erdély 2005"
+permalink:  /4534/ 
+date: 2007-05-06 10:48:12
+tags:  [ TÚRÁK ] 
+image:  /files/images/flickr_2921699825.jpg 
+---
+2005\ nyarán újra Erdélyben voltunk kirándulni. Hasonlóan mint 2003-ban. Erről a túrárúl is írtam egy beszámolót. Eredetileg a honlapomra, folytatásokban. Majd történt, hogy neki estem 2006 szeptemberében feljavítani. Eredményül egy 30 oldalas kis művecske készült, amit el is ajándékoztam a mormota karácsony alkalmával. Ez a kis mű most már letölthető.
+
+
+
+File: [Erdely2005.pdf]({{ site.baseurl }}/files/Erdely2005.pdf)
+

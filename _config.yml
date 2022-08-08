@@ -13,13 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+#jekyll serve --host 0.0.0.0
+
+keep_files: [files]
+
+
 title: 'Elek László SJ'
 email: eleklaszlosj@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
+  Elek László SJ. Jezsuita. Szerzetes. Pap.
+baseurl: "" #"/jekyll-vagrant-setup" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
@@ -38,12 +42,24 @@ pinterest_username: borazslo
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-paginate
- # - jekyll-archives
+ # - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-archives
 
 
-paginate: 10
+#https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#page-configuration
+pagination:
+  # Site-wide kill switch, disabled here it doesn't run at all 
+  enabled: true
+  per_page: 10
+  trail: 
+      before: 4
+      after: 4
+  permalink: '/oldal/:num' # Pages are html files, linked jekyll extensionless permalink style.
+  #locale: 'hu_HU' 
+  sort_field: 'date'
+  sort_reverse: true
+
 
 excerpt_separator: "<!--break-->"
 
@@ -53,17 +69,24 @@ jekyll-archives:
     - tags
     - categories
   layout: archive
-#  permalinks:
+  permalinks:
 #    year: '/:year/'
 #    month: '/:year/:month/'
 #    day: '/:year/:month/:day/'
-#    tag: '/tag/:name/'
+    tag: '/cimke/:name/'
 #    category: '/category/:name/'
+
+include:
+    - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+    - eleklaszloDump.sql
+    - migrate.php
+    - deploy.sh
+    - migration_log.txt
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -71,3 +94,4 @@ jekyll-archives:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
