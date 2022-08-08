@@ -3,7 +3,7 @@ FROM jekyll/builder
 
 
 RUN apk update && \
-    apk add --no-install-recommends -y \
+    apk add  \
         bats \
         build-essential \
 #        ca-certificates \
