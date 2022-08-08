@@ -14,8 +14,7 @@ RUN apt-get update && \
 #        libffi6 \
 #        git-all \
         openssh-client \
-		yum /
-		
+		yum \		
 #        wget \
     && gem install bundler:2.0.2 \
     && bundle config --global silence_root_warning 1
