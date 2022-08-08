@@ -5,7 +5,8 @@
 #https://bpaulino.com/entries/10-automating-your-work-with-github-actions
 
 #apt-get install --assume-yes --only-upgrade openssh-client=7.8
-aptitude install openssh-client=5.3
+apt-get install yum
+apt-get install openssh-client=5.3
 yum list installed openssh\*
 
 echo "msik"
@@ -31,10 +32,12 @@ cd repo
 # Install all of our dependencies inside the container
 # based on the git repository Gemfile
 echo "⚡️ Installing project dependencies..."
+export BUNDLER_VERSION='2.0'
 bundle install
 
 # Build the website using Jekyll
 echo "🏋️ Building website..."
+ jekyll --version
 JEKYLL_ENV=production bundle exec jekyll build
 echo "Jekyll build done"
 

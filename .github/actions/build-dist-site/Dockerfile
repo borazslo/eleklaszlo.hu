@@ -1,5 +1,5 @@
 
-FROM jekyll/builder:3.0.3
+FROM jekyll/builder
 
 
 #RUN apt-get update && \
