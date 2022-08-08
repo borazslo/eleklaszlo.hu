@@ -3,7 +3,7 @@ layout: post
 title: "Kinnear"
 permalink:  /6303/ 
 date: 2015-06-30 00:01:48
-tags:  [  ] 
+tags:  [ vitorlázás ] 
 image:  /files/images/DSC_5908.jpg 
 ---
 Azt hiszem gyerekkori álmom volt, csak sosem vettem komolyan, mert oly elérhetetlen volt. Legalábbis annak látszott.
