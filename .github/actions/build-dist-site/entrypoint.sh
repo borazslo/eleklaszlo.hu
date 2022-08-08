@@ -24,6 +24,9 @@ cd repo
 # Install all of our dependencies inside the container
 # based on the git repository Gemfile
 echo "⚡️ Installing project dependencies..."
+
+sudo chmod 777 -R /github/workspace
+
 export BUNDLER_VERSION='2.0'
 gem install bundler
 bundle update
