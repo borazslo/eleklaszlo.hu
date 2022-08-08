@@ -60,22 +60,24 @@ rm -f README.md
 
 # Now we init a new git repository inside _site
 # So we can perform a commit
-git init
-git config user.name "${GITHUB_ACTOR}"
-git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+git config --global user.name "${GITHUB_ACTOR}"
+git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 git config --global --add safe.directory /github/workspace/repo/_site
 
+git init
+git branch -m master
 git add .
-# That will create a nice commit message with something like: 
-# Github Actions - Fri Sep 6 12:32:22 UTC 2019
 git commit -m "Github Actions - $(date)"
+
 echo "Build branch ready to go. Pushing to Github..."
+git push --force $REMOTE_REPO master:gh-pages
+
 # Force push this update to our gh-pages
 
 wget -qO- https://ipecho.net/plain ; echo
 whoami ; echo 
 
-git push --force $REMOTE_REPO master:gh-pages
+
 
 echo "And pushing to eleklaszlo.hu..."
 #mkdir ~/.ssh; chmod 0700 ~/.ssh
