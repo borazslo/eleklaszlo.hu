@@ -25,7 +25,7 @@ cd repo
 # based on the git repository Gemfile
 echo "⚡️ Installing project dependencies..."
 
-sudo chmod 777 -R /github/workspace
+chmod 777 -R /github/workspace
 
 export BUNDLER_VERSION='2.0'
 gem install bundler
@@ -63,6 +63,7 @@ echo "Build branch ready to go. Pushing to Github..."
 # Force push this update to our gh-pages
 
 wget -qO- https://ipecho.net/plain ; echo
+whoami ; echo 
 
 git push --force $REMOTE_REPO master:gh-pages
 echo "And pushing to eleklaszlo.hu..."
