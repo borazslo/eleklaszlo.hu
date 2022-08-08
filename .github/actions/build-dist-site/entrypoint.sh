@@ -26,6 +26,7 @@ cd repo
 echo "⚡️ Installing project dependencies..."
 
 chown -R $(whoami) /github/workspace
+chmod -R 755 /github/workspace
 
 export BUNDLER_VERSION='2.0'
 gem install bundler
@@ -37,12 +38,20 @@ bundle install
 # Build the website using Jekyll
 echo "🏋️ Building website..."
  jekyll --version
-JEKYLL_ENV=production bundle exec jekyll build
+JEKYLL_ENV=production bundle exec jekyll build --trace
 echo "Jekyll build done"
 
 # Now lets go to the generated folder by Jekyll
 # and perform everything else from there
-cd _site
+
+if [[ -d "_site" ]]
+then
+    cd _site
+else
+    echo "Nem jött létre a könyvtár."
+	exit	
+fi
+
 
 echo "☁️ Publishing website"
 
@@ -54,6 +63,7 @@ rm -f README.md
 git init
 git config user.name "${GITHUB_ACTOR}"
 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+git config --global --add safe.directory /github/workspace/repo/_site
 
 git add .
 # That will create a nice commit message with something like: 
@@ -66,13 +76,14 @@ wget -qO- https://ipecho.net/plain ; echo
 whoami ; echo 
 
 git push --force $REMOTE_REPO master:gh-pages
-echo "And pushing to eleklaszlo.hu..."
-mkdir ~/.ssh; chmod 0700 ~/.ssh
-echo "${SSH_PRIVATE_KEY}" > proba.txt
-chmod 600 proba.txt
 
-#echo "git push: "
-#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
+echo "And pushing to eleklaszlo.hu..."
+#mkdir ~/.ssh; chmod 0700 ~/.ssh
+#echo "${SSH_PRIVATE_KEY}" > proba.txt
+#chmod 600 proba.txt
+
+echo "git push: "
+git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
 
 echo "ssh-agent2"
 eval $(ssh-agent)
