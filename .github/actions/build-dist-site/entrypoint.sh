@@ -25,7 +25,7 @@ cd repo
 # based on the git repository Gemfile
 echo "⚡️ Installing project dependencies..."
 
-chmod 777 -R /github/workspace
+chown -R $(whoami) /github/workspace
 
 export BUNDLER_VERSION='2.0'
 gem install bundler
