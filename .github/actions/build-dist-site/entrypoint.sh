@@ -26,7 +26,7 @@ cd repo
 echo "⚡️ Installing project dependencies..."
 
 chown -R $(whoami) /github/workspace
-chmod -R 755 /github/workspace
+chmod -R 777 /github/workspace
 
 export BUNDLER_VERSION='2.0'
 gem install bundler
