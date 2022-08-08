@@ -4,14 +4,6 @@
 
 #https://bpaulino.com/entries/10-automating-your-work-with-github-actions
 
-#apt-get install --assume-yes --only-upgrade openssh-client=7.8
-#apt-get install yum
-#apt-get install openssh-client=5.3
-yum list installed openssh\*
-
-echo "msik"
-
-
 # Exit immediately if a pipeline returns a non-zero status.
 # set -e
 

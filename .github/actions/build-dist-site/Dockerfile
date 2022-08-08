@@ -5,7 +5,6 @@ FROM jekyll/builder
 RUN apk update && \
     apk add  \
         bats \
-        build-essential \
 #        ca-certificates \
 #        curl \
 #        libffi6 \
@@ -14,7 +13,6 @@ RUN apk update && \
 #        libffi6 \
 #        git-all \
         openssh-client \
-		yum \		
 #        wget \
     && gem install bundler:2.0.2 \
     && bundle config --global silence_root_warning 1
