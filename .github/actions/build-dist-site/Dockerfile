@@ -14,7 +14,7 @@ RUN apk update && \
 #        git-all \
         openssh-client \
 #        wget \
-    && gem install bundler:2.0.2 \
+    && gem install bundler \
     && bundle config --global silence_root_warning 1
 
 
