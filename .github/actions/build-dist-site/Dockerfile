@@ -2,8 +2,8 @@
 FROM jekyll/builder
 
 
-RUN apt-get update && \
-    apt-get install --no-install-recommends -y \
+RUN apk update && \
+    apk add --no-install-recommends -y \
         bats \
         build-essential \
 #        ca-certificates \
