@@ -25,7 +25,11 @@ cd repo
 # based on the git repository Gemfile
 echo "⚡️ Installing project dependencies..."
 export BUNDLER_VERSION='2.0'
+gem install bundler
+bundle update
+bundle add webrick
 bundle install
+
 
 # Build the website using Jekyll
 echo "🏋️ Building website..."
