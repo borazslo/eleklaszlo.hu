@@ -65,34 +65,34 @@ git branch -m master
 git add .
 git commit -m "Github Actions - $(date)"
 
-echo "Build branch ready to go. Pushing to Github..."
+echo "☁️ Build branch ready to go. Pushing to Github..."
 git push --force $REMOTE_REPO master:gh-pages
 
 # Force push this update to our gh-pages
 
-wget -qO- https://ipecho.net/plain ; echo
-whoami ; echo 
+#wget -qO- https://ipecho.net/plain ; echo
+#whoami ; echo 
 
 
 
-echo "And pushing to eleklaszlo.hu..."
+#echo "And pushing to eleklaszlo.hu..."
 #mkdir ~/.ssh; chmod 0700 ~/.ssh
 #echo "${SSH_PRIVATE_KEY}" > proba.txt
 #chmod 600 proba.txt
 
-echo "git push: "
-git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
+#echo "git push: "
+#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
 
-echo "ssh-agent2"
-eval $(ssh-agent)
-ssh-add proba.txt
-ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts
-ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v
-git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
+#echo "ssh-agent2"
+#eval $(ssh-agent)
+#ssh-add proba.txt
+#ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts
+#ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v
+#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
 
 
-echo "ssh-agent: "
-ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+#echo "ssh-agent: "
+#ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
 
 
 # Now everything is ready.
