@@ -1,13 +1,17 @@
-<div>
+<div align="center">
 {% capture temptags %}
   {% for tag in site.tags %}
-    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
+    {{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}&&
   {% endfor %}
 {% endcapture %}
-{% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
+{% assign sortedtemptags = temptags |  split: "&&" | sort | reverse %}
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
   {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  <a href="{{ site.baseurl }}/cimke/{{ tagname | downcase }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+  
+  {% assign tagsize = tagitems[2] | plus: 0 %}
+  {% if tagsize > 2 %}
+	<a href="{{ site.baseurl }}/cimke/{{ tagname | slugify }}" title="{{tagsize}} tartalom van {{tagname}} cimkével ellátva."><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
+  {% endif %}
 {% endfor %}
 </div>
