@@ -7,11 +7,8 @@
 {% assign sortedtemptags = temptags |  split: "&&" | sort | reverse %}
 {% for temptag in sortedtemptags %}
   {% assign tagitems = temptag | split: '#' %}
-  {% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-  
+  {% capture tagname %}{{ tagitems[1] }}{% endcapture %}  
   {% assign tagsize = tagitems[2] | plus: 0 %}
-  {% if tagsize > 2 %}
-	<a href="{{ site.baseurl }}/cimke/{{ tagname | slugify }}" title="{{tagsize}} tartalom van {{tagname}} cimkével ellátva."><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
-  {% endif %}
+  {% if tagsize > 2 %}<a href="{{ site.baseurl }}/cimke/{{ tagname | slugify }}" title="{{tagsize}} tartalom van {{tagname}} cimkével ellátva."><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>{% endif %}
 {% endfor %}
 </div>
