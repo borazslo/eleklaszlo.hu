@@ -3,7 +3,6 @@ layout: post
 title: "tizenhat nap oda és négy vissza"
 permalink:  /5155/ 
 date: 2011-09-16 08:00:00
-tags:  [ Zarándoklat 2010, könyv, TÚRÁK, zarándoklat ] 
 categories: [ Zarándoklat 2010 ] 
 ---
 Dobogókő – Bodajk – Andocs – Szigetvár – Máriagyűd ~ Dobogókő

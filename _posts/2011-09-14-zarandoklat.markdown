@@ -3,7 +3,8 @@ layout: post
 title: "zarándoklat"
 permalink:  /5154/ 
 date: 2011-09-14 08:00:00
-tags:  [ Zarándoklat 2010, TÚRÁK ] 
+tags:  [ könyv, TÚRÁK, zarándoklat ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Dobogókő – Bodajk – Andocs – Máriagyűd
 
