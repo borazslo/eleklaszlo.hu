@@ -3,7 +3,7 @@ layout: post
 title: "2003 Erdély, 2. nap - Kolozsvártól Csomortánig"
 permalink:  /426/ 
 date: 2003-08-06 10:00:00
-tags:  [ 2003 Erdély ] 
+categories:  [ 2003 Erdély ] 
 image:  /files/images/flickr_5051174193.jpg 
 ---
 Fel sem tûnt, hogy ez már a második nap. Beleúsztunk a napba. Gyönyörû völgyben ért minket a reggel, miközben a vonatunk tisztes tempóban haladt.

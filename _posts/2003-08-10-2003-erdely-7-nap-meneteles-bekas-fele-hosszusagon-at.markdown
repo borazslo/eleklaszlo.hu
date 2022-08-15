@@ -3,7 +3,7 @@ layout: post
 title: "2003 Erdély, 7. nap - Menetelés Békás felé, Hosszúságon át"
 permalink:  /431/ 
 date: 2003-08-10 10:00:00
-tags:  [ 2003 Erdély ] 
+categories:  [ 2003 Erdély ] 
 image:  /files/images/flickr_5051172847.jpg 
 ---
 És lőn este és reggel, a hetedik nap. Ez volt a leghosszabb napunk. Bár reggel még senki sem sejtette.

@@ -3,7 +3,8 @@ layout: post
 title: "2003 Erdély, 0. nap"
 permalink:  /424/ 
 date: 2003-08-04 10:00:00
-tags:  [ 2003 Erdély, TÚRÁK ] 
+tags:  [ TÚRÁK, könyv ] 
+categories: [ 2003 Erdély ]
 image:  /files/images/flickr_5051793090.jpg 
 summary: "
 

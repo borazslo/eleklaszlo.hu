@@ -3,7 +3,7 @@ layout: post
 title: "2003 Erdély, 4. nap - Irány Kati néniék villája"
 permalink:  /428/ 
 date: 2003-08-07 10:00:00
-tags:  [ 2003 Erdély ] 
+categories:  [ 2003 Erdély ] 
 image:  /files/images/flickr_5051794646.jpg 
 ---
 Szép reggelre ébredtünk. A férgekkel teli, gyönyörû forrásban fürödtünk és indultunk tovább.
