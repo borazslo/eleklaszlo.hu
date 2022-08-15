@@ -3,7 +3,7 @@ layout: post
 title: "zárszó"
 permalink:  /5237/ 
 date: 2011-10-28 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 
 

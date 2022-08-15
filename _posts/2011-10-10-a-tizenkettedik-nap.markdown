@@ -3,7 +3,7 @@ layout: post
 title: "a tizenkettedik nap"
 permalink:  /5227/ 
 date: 2011-10-10 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Zselickisfalud - Magyarlukafa = 17,1 km
 

@@ -3,7 +3,7 @@ layout: post
 title: "a hatodik nap"
 permalink:  /5221/ 
 date: 2011-09-28 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Balatonkenese – Balatonakarattya – Balatonvilágos – Sóstó – Balatonszabadi = 30,7 km
 

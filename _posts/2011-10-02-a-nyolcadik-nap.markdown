@@ -3,7 +3,7 @@ layout: post
 title: "a nyolcadik nap"
 permalink:  /5223/ 
 date: 2011-10-02 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Tab – Kapoly – Andocs = 20,6 km
 

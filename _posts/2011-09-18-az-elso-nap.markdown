@@ -3,7 +3,7 @@ layout: post
 title: "az első nap"
 permalink:  /5156/ 
 date: 2011-09-18 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Dobogókő – Pilisszántó – Piliscsaba – Perbál – Tök – Zsámbék = 35,7 km
 

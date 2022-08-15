@@ -3,7 +3,7 @@ layout: post
 title: "a tizenkilencedik nap"
 permalink:  /5235/ 
 date: 2011-10-24 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Pécs – Cserkút – Kővágószőlős = 11,2 km
 

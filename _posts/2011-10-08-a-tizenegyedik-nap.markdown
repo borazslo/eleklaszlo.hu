@@ -3,7 +3,7 @@ layout: post
 title: "a tizenegyedik nap"
 permalink:  /5226/ 
 date: 2011-10-08 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Kaposmérő – Szenna – Patca – Szilvásszentmárton – Zselickisfalud = 18,0 km
 

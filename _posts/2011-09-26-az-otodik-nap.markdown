@@ -3,7 +3,7 @@ layout: post
 title: "az ötödik nap"
 permalink:  /5160/ 
 date: 2011-09-26 08:00:00
-tags:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ] 
 ---
 Királyszentistván – Balatonfűzfő – Vörösberény – Balatonfűzfő – Balatonkenese = 22,9 km
 
