@@ -3,7 +3,8 @@ layout: post
 title: "Dánia (1. rész)"
 permalink:  /4512/ 
 date: 2007-09-14 20:33:49
-tags:  [ 2007 Dánia, TÚRÁK ] 
+tags:  [ TÚRÁK, könyv ] 
+categories: [ 2007 Dánia ]
 image:  /files/images/flickr_3006660632.jpg 
 ---
 A nyáron Dániában jártam a magyar anyától született Daniele Noorgard dán kispap szentelésén. Sokat kerékpározgattam egymagamban Koppenhágában. Nagyon megtetszett az az északi vlág. Sok-sok kerékpár, zöld parkok, gyönyörű házikók. Tenger, hatalmas vitorlások és tengerjáró hajók, szélerőművek. Mindenütt rend, de nem egézségtelen precízség. Ezek a dánok tudnak valamit.

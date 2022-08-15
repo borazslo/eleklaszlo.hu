@@ -3,7 +3,7 @@ layout: post
 title: "Dánia (3. rész)"
 permalink:  /4514/ 
 date: 2007-09-14 21:37:26
-tags:  [ 2007 Dánia ] 
+categories: [ 2007 Dánia ]
 image:  /files/images/flickr_3005825435.jpg 
 ---
 Vasárnap volt az újmise, Koppenhágától úgy 20 km-re. Húsz kilóméter. Egy óra alatt letekerhető. Nehogy má' nem kerékpárral mennyek. Dániel még az éjjel félálomban adott nekem egy térképet a környékről. Elmagyarázta mi merre, és hívjam ha gáz van.  
