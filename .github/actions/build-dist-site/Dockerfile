@@ -13,6 +13,7 @@ RUN apk update && \
 #        libffi6 \
 #        git-all \
         openssh-client \
+		curl \
 #        wget \
     && gem install bundler \
     && bundle config --global silence_root_warning 1
