@@ -68,31 +68,8 @@ git commit -m "Github Actions - $(date)"
 echo "☁️ Build branch ready to go. Pushing to Github..."
 git push --force $REMOTE_REPO master:gh-pages
 
-# Force push this update to our gh-pages
-
-#wget -qO- https://ipecho.net/plain ; echo
-#whoami ; echo 
-
-
-
-#echo "And pushing to eleklaszlo.hu..."
-#mkdir ~/.ssh; chmod 0700 ~/.ssh
-#echo "${SSH_PRIVATE_KEY}" > proba.txt
-#chmod 600 proba.txt
-
-#echo "git push: "
-#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
-
-#echo "ssh-agent2"
-#eval $(ssh-agent)
-#ssh-add proba.txt
-#ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts
-#ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v
-#git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master
-
-
-#echo "ssh-agent: "
-#ssh-agent bash -c 'ssh-add proba.txt; ssh-keyscan -H eleklaszlo.hu >> ~/.ssh/known_hosts; ssh-keyscan -H eleklaszlo.hu >> ~/etc/ssh/known_hosts; ssh eleklaszlo@eleklaszlo.hu -o StrictHostKeyChecking=no -T -v; git push --force ssh://eleklaszlo@eleklaszlo.hu/home/eleklaszlo/eleklaszlo.git master:master'
+echo "☁️ Make Cpanel deploy the newest version..."
+curl -H'Authorization: cpanel eleklaszlo:${CPANEL}' 'https://eleklaszlo.hu:2083/execute/VersionControlDeployment/create?repository_root=%2fhome%2feleklaszlo%2fpublic_html%2feleklaszlo.hu'
 
 
 # Now everything is ready.
