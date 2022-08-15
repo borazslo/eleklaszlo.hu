@@ -3,7 +3,8 @@ layout: post
 title: "2004 Lengyelország, 0. rész"
 permalink:  /436/ 
 date: 2004-10-18 10:00:00
-tags:  [ 2004 Lengyelország, TÚRÁK ] 
+tags:  [ TÚRÁK, könyv ] 
+categories:  [ 2004 Lengyelország ] 
 ---
 Hirtelen jött az ötlet: látogassuk meg ismerőseinket Sandomierzben. 2004.10.19-22.
 

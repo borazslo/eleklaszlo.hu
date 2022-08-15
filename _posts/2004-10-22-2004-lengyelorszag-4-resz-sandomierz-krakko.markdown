@@ -3,7 +3,7 @@ layout: post
 title: "2004 Lengyelország, 4. rész - Sandomierz-Krakkó"
 permalink:  /440/ 
 date: 2004-10-22 10:00:00
-tags:  [ 2004 Lengyelország ] 
+categories:  [ 2004 Lengyelország ]
 summary: "„Felkeltett a reggel, te még aludtál”... No igen. Sokat nem aludtunk mert reggel lett. (Milyen meglepő mi?) A reggeli elmélkedésükre nem mentük be a kápolnájukba, mert lengyelül még nem tudunk. A reggeli szentmise csak a mi kedvünkért latinul folyt. Így egész jól értettük. Utána remek reggeli. Most ott volt az egész ház. Reggeli után teaklub.
 
 "

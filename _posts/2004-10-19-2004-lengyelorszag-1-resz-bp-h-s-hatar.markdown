@@ -3,7 +3,7 @@ layout: post
 title: "2004 Lengyelország, 1. rész - Bp-H/S határ "
 permalink:  /437/ 
 date: 2004-10-19 10:00:00
-tags:  [ 2004 Lengyelország ] 
+categories:  [ 2004 Lengyelország ] 
 summary: "Elindultam szép hazámból...
 
 Hétfő 4 óra 30 perc. Szobámat éktelen ricsaj zavarta meg. Az ébresztőm szólt. Felébredtem. Félig. Egy pillanatra nem tudtam, hogy hol vagyok, de lassan ki tisztult a kép. Már csak az nem volt világos, hogy minek is vállalkoztam ilyen hülyeségekre. De csak azért is elindulok.

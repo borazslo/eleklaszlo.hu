@@ -3,7 +3,7 @@ layout: post
 title: "2004 Lengyelország, 2. rész - határ-határ"
 permalink:  /438/ 
 date: 2004-10-20 10:00:00
-tags:  [ 2004 Lengyelország ] 
+categories:  [ 2004 Lengyelország ] 
 summary: "Átléptük a határt. Kezdő stopposok voltunk. Honnan kezdjük? Mennyünk előrébb, ez mégis csak határ. Ott a benzinkút, a mögé. Itt ez a remek nagy tábla, hogy errefelé mennyivel lehet menni. Ide álljunk. Oda álltunk. Ez ég felhős lett, és kemény hideg szél fújt. Táblámra felírtam, hogy „Kosice” és kisebbel „Kassa”, meg hogy „Polski” és kisebbel „Lengyelország”. Kicsit bizonytalanul kitettem a kezem.
 
 "

@@ -3,7 +3,8 @@ layout: post
 title: "2004 Lengyelország, 6. rész"
 permalink:  /442/ 
 date: 2004-10-24 10:00:00
-tags:  [ stoppolás, 2004 Lengyelország ] 
+tags:  [ stoppolás ] 
+categories:  [ 2004 Lengyelország ] 
 summary: "Átléptük végre a szlovák-magyar határt is. Elmúlt éjfél. Azt hiszem.
 
 "

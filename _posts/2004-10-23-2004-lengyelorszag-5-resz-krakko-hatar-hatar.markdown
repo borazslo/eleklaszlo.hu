@@ -3,7 +3,7 @@ layout: post
 title: "2004 Lengyelország, 5. rész - Krakkó-határ-határ"
 permalink:  /441/ 
 date: 2004-10-23 10:00:00
-tags:  [ 2004 Lengyelország ] 
+categories:  [ 2004 Lengyelország ] 
 summary: "Csütörtök reggel lett. Még sötét volt amikor kissé bizonytalanul kiléptünk a folyosóra és elindultunk a misére. (Ilyenkor már a lengyelek elmélkedtek. A reggeli napirend azonos volt a sandomierzivel.) Leghátul kaptunk helyett. A mosolygós tolmácsunk látványa megnyugtatott. Lengyelül volt a mise. Nem sokat értettünk belőle, de pontosan ugyanúgy megy minden mint nálunk, így tudtuk mikor mi történik.
 
 "
