@@ -69,7 +69,7 @@ echo "☁️ Build branch ready to go. Pushing to Github..."
 git push --force $REMOTE_REPO master:gh-pages
 
 echo "☁️ Make Cpanel deploy the newest version..."
-curl -H'Authorization: cpanel eleklaszlo:${CPANEL}' 'https://eleklaszlo.hu:2083/execute/VersionControlDeployment/create?repository_root=%2fhome%2feleklaszlo%2fpublic_html%2feleklaszlo.hu'
+curl -H "Authorization: cpanel eleklaszlo:$CPANEL" 'https://eleklaszlo.hu:2083/execute/VersionControlDeployment/create?repository_root=%2fhome%2feleklaszlo%2fpublic_html%2feleklaszlo.hu'
 
 
 # Now everything is ready.
