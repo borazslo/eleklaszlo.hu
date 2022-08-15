@@ -3,7 +3,7 @@ layout: post
 title: "Portisch Lajos emléktúra - 2. nap"
 permalink:  /4501/ 
 date: 2005-06-26 19:55:52
-tags:  [ 2005 Szent Laci ] 
+categories: [ 2005 Szent Laci ]
 ---
 Korán kellett kelni. Valamit bekaptunk, aztán gyorsan csomagolni kellett. Dénes azt mondta, hogy a Ballák eredendően nem tudnak csomagolni. Ha álltalánosítanék, akkor igazat adnék neki, de én sohasenem álltalánosítok. Legalábbis általában nem. No. Végül mindenki összecsomagolt és elindultunk le, a templomba. Nem késtünk el. Résztvettünk egy szentmisén. Jöt tett az én lelkemnek. A nyugodt szentmise után kezdődött újra a meló. Cipelni kellett a táskát. Persze előbb megvártuk, amíg Gábor megszereli a szétesőfélben lévő táskáját. (Ezt még párszor megismételte aznap.)
 

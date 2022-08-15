@@ -3,7 +3,7 @@ layout: post
 title: "Portisch Lajos emléktúra - 3. nap"
 permalink:  /4502/ 
 date: 2005-06-27 19:55:52
-tags:  [ 2005 Szent Laci ] 
+categories: [ 2005 Szent Laci ]
 ---
 Éjjel volt. Felébredtem arra, hogy kopog az eső a hálózsákomon. Én nem akartam beengedni, de akkor is kopogott. Az ösztönök intettek, hogy fel kell kelni. Kapkodás. Ébredés. Most mi lesz? Húzzuk fel a ponyvát? Végül a passzivitás nyert. Azt mondtuk, hogy nem esik nagyon és talán lassan elmúlik. Abba is hagyta egy picit, de nem lehettünk biztosak abban, hogy nem fog rázendíteni újra. Azért mégiscsak visszafeküdtünk, és aludtunk reggelig. Én legalábbis nagyon jól aludtam tovább. (Többek panaszkodtak a kényelmetlen földre, vagy a hidegre.)
 

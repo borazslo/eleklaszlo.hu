@@ -3,7 +3,7 @@ layout: post
 title: "Portisch Lajos emléktúra - 4. nap"
 permalink:  /4503/ 
 date: 2005-06-28 19:55:52
-tags:  [ 2005 Szent Laci ] 
+categories: [ 2005 Szent Laci ]
 ---
 Gyönyörű reggelre ébredtünk. Szinte túl gyönyörűre. Igaz a szúnyogok és a hideg miatt nem mindenki aludt jól. Én jól aludtam. A hajnali turista sem esett átt a pokrócba burkolódzott öcsémen, de nagyot nézett.
 

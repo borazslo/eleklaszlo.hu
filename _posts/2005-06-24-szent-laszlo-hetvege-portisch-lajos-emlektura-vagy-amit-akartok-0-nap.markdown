@@ -3,7 +3,8 @@ layout: post
 title: "Szent László hétvége, Portisch Lajos emléktúra, vagy amit akartok. - 0. nap"
 permalink:  /4499/ 
 date: 2005-06-24 19:55:52
-tags:  [ 2005 Szent Laci ] 
+tags:  [ könyv ] 
+categories: [ 2005 Szent Laci ] 
 ---
 Történt egyszer, úgy 2005 tavasza táján, hogy kiderült a szomorú hír: nem lesz rendes Szent László túra. Szomorúan olvastam az e-mailt. Csak az mentett meg a teljes depressziótól, hogy Dénes megírta, egy hétvége azért lesz. Aztán lassan túltettem magamat az első sokkhatáson. Az életösztön kereledett felül. Élni kell, és táborozni is. Forrt bennem az élet. Nem lehet, hogy csak két napig lássam azt a néhány embert, akivel minden évben egyszer, egy egész héten együtt szoktam élni, valahol a világtól távol, a békés erdőben! Akkor sem lehet! De egyedül nem lehet megváltani a világot.
 

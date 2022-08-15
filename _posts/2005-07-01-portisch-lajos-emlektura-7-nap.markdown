@@ -3,7 +3,7 @@ layout: post
 title: "Portisch Lajos emléktúra - 7. nap"
 permalink:  /4506/ 
 date: 2005-07-01 19:55:52
-tags:  [ 2005 Szent Laci ] 
+categories: [ 2005 Szent Laci ]
 ---
 És igen. Eljött a július is. A hajnali levegőben is érződött a július szaga.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Portisch Lajos emléktúra - 5. nap"
 permalink:  /4504/ 
 date: 2005-06-29 19:55:52
-tags:  [ 2005 Szent Laci ] 
+categories: [ 2005 Szent Laci ]
 ---
 Kora reggel volt amikor - ismételten - mindenki arra ébredt, hogy a nap erőteljesen rásüt. Gyorsan elvonult mindenki valhova. Fal mellé, fa alá, ház mögé. Matyi még egy konnektort is talált, ami nagyon jól esett a mobiljának. Kanál és tányér helyett töltőt hozott. (És igaza volt.?!.) A tűző napsütésben 9 tájban mégis összeszedtük magunkat. Lassan ment az összepakolás, mert még az esőkabátom is égette a kezemet. A vizes sapka sem segített sokat. Gyilkos volt a napsugárzás. A reggeli örömét a nap sem tudta elvenni. Találtunk egy kis boltot, és némi árnyékot. Szeretem a friss kenyeret, kakaót, felvágottat. A már-már zöldülő szalámit kevésbé, de az is elfogyott. Még éppen nem mászott.
 
