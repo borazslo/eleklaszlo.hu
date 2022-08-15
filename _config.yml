@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Elek László SJ. Jezsuita. Szerzetes. Pap.
 baseurl: "" #"/jekyll-vagrant-setup" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
+locale: hu_HU
 
 date_format: "%Y. %b %-d."
 
@@ -75,7 +75,7 @@ jekyll-archives:
 #    month: '/:year/:month/'
 #    day: '/:year/:month/:day/'
     tag: '/cimke/:name/'
-#    category: '/category/:name/'
+    category: '/konyv/:name/'
 
 include:
     - _pages
