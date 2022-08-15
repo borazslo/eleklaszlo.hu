@@ -21,3 +21,12 @@ Az utóbbi években rákaptam a fényképezésre. Itt az oldalon is van pár bel
 
 Zenélek is. Néha már-már múlt időben. Sok-sok éve kezdtem furulyázni. Szoprán, alt, tenor furulya jöhet egymás után. Még a basszust is kipróbáltam. Egyszer, Molnár C. Pál emlékkiállításán egy órás furulya koncertet adtunk. Volt ott minden: reneszánsztól Brittenig és a ragtimeig. Aztán oboázni is tanultam. Az ám a hangszer. Sajnos szinte soha sincs kivel zenélni mostanában, pedig akkor kezd igazán zene lenni, amikor együtt játszunk. Gitározom is egy kicsit és volt a kezemben már kaval, népi furulya, tilinkó és perui quena is, de ezekhez nem igazán értek.
 
+
+## Továbbá:
+<ul>
+{% for post in site.tags["magamról"] %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | datehun }})
+  </li>
+{% endfor %}
+</ul>
