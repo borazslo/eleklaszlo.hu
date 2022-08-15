@@ -3,7 +3,8 @@ layout: post
 title: "Zarándoklat"
 permalink:  /6068/ 
 date: 2009-08-02 10:00:00
-tags:  [ 2009 Világi Tor Túra, TÚRÁK ] 
+tags: [ TÚRÁK, könyv ]
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Augusztus 4-én felülök a kerékpáromra és elmegyek. Hogy honnan indulok és hová érkezek majd, azt még nem tudom. A VIII. kerület egyik kapualján fogok kigurulni és a térkép sarkában Koppenhága lesz, de ez csak a földrajz. A névleges célom, hogy találkozzak egy barátommal Dánia fővárosában. Igazából nem ő a fontos és nem is az útba eső Prága, Drezda vagy Berlin. Az utazás a fontos.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Az Elba mentén"
 permalink:  /6079/ 
 date: 2009-08-10 12:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Volt vagy 150km. De nem tudom, mikor indultam és mikor érkeztem. Annyi biztos, hogy Németországban vagyok és már gusztustalanul koszos és büdös vagyok. Nem néztem ma órát, csak tekertem. Általában jól esett, bár a végén mintha lassultam volna.
 

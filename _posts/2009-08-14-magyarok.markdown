@@ -3,7 +3,7 @@ layout: post
 title: "Magyarok"
 permalink:  /6085/ 
 date: 2009-08-14 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Egy kavalra tűzve lobogott a magyar zászló a kerékpáromon. Jelezte minden arra járónak, hogy magyar vagyok; Magyarországról vagyok. A legtöbb embert persze nem izgatta, vagy legalábbis nem adott hangot neki. Utolértek, megelőztek, elmentek. Voltak azért, akik elismerésüknek adtak hangot. Ki-ki a maga módján. Magyarokkal is találkoztam.
 

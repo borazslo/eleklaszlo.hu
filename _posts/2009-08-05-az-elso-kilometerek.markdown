@@ -3,7 +3,7 @@ layout: post
 title: "Az első kilométerek"
 permalink:  /6070/ 
 date: 2009-08-05 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Eddig még jó. Furcsa dolog ilyen hírtelen a világ végére kerülni egy szál kerékpárral. Két óra van és már legalább 90km van mögöttem. Első napra jó ez. Lehet, hogy majd veszek valahol egy sebességmérőt, hogy tudjam mennyivel és mennyit megyek.
 

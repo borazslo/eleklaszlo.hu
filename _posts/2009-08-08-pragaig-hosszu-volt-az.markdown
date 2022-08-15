@@ -3,7 +3,7 @@ layout: post
 title: "Prágáig hosszú volt az"
 permalink:  /6075/ 
 date: 2009-08-08 11:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Prágáig hosszú volt az. Délben még csak 25km volt mögöttem. De most nem görcsöltem, nem izgultam.
 

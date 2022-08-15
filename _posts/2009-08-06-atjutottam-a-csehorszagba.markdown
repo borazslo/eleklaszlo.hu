@@ -3,7 +3,7 @@ layout: post
 title: "Átjutottam a Csehországba"
 permalink:  /6077/ 
 date: 2009-08-06 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Egy tarló szélén üldögélek és nézem három falu fényeit, miközben a szemembe süt a telihold fénye. Négy óra után még egy 70km-t hozzátettem a napi adaghoz. Csak a sötétség állított meg. Amilyen rosszul ment a délelőtt, annyira repültem az éjszakában.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Detoxikálás"
 permalink:  /6073/ 
 date: 2009-08-08 11:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Negyedik napja tekertem ma. Szép lassan kezd kiürülni a fejem. Elmarad minden, ami most éppen nem lényeges. Legyen az sok hülyeség, amit otthon akartam hagyni, de sok szép dolog is. Nem kapkodok, nem erőltetem. Tisztul minden. Szépen lassan. Csak semmi kapkodás.
 

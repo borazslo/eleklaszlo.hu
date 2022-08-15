@@ -3,7 +3,7 @@ layout: post
 title: "Dresda és azon túl"
 permalink:  /6080/ 
 date: 2009-08-11 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Kerékpárral érkezett az esőben. Még ott, az Elba mentén. Lassan sikerült megértenem, hogy mit akar: odaülni mellém, míg eláll az eső. Hozott sört is. Táskájában zörgött a többi. Nem értek németül. Ő nem ért, csak németül. Mutogattunk, magyaráztunk, nevettünk. Öt kilométerre lakik a völgyben, de nagyon esik, ezért inkább vár egy kicsit. Otthon várja az asszony a vacsorát, amit vett. Egyébként 58 éves és ács. Semmi különleges. Vagy két órát „beszélgettünk”. Megosztottuk amink volt: én adtam a kiflit, ő adta a májkrémszerű valamit. Fifti-fifti. Majd a második sört is elosztottuk. Rossz volt. Nagyon mondta, hogy majd érkezik a rendőrség, de van dokumentem, akkor nem lesz semmi gond. Nem jöttek. Tizenegy volt, mire hazaindult a szemerkélő esőben.
 

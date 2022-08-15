@@ -3,7 +3,7 @@ layout: post
 title: "Jaj nekem"
 permalink:  /6082/ 
 date: 2009-08-12 12:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 No most készülök ki. Egy kapualjban ülök és próbálok életben maradni. Nagy szenvedés ez a mai délután.
 

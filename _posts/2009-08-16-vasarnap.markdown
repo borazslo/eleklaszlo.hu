@@ -3,7 +3,7 @@ layout: post
 title: "Vasárnap"
 permalink:  /6088/ 
 date: 2009-08-16 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Az első pihenő nap. Újra belevethettem magam a modern világba. Volt fürdőm, ágyam, internetem, projektorom. Minden, ami kellhet. Nem biztos, hogy annyira kell.
 

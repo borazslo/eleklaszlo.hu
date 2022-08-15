@@ -3,7 +3,7 @@ layout: post
 title: "A harmadik nap szenvedése"
 permalink:  /6072/ 
 date: 2009-08-07 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Ez a hely nem olyan elegáns mint a tegnapi. Ráadásul nem is vagyok eléggé messze a tegnapi szállástól. És fázom is egy kicsit. No sebaj, mindjárt kész a teám és belebújok a hálózsákomba.   
 Furcsa volt ez a mai nap is. Kerekeztem, meg szenvedtem majd röpültem újra. Pedig a terep végig ugyan olyan volt. Hullámvasút. Fel és le. Le és fel. Kicsit fel, nagyot le. Nagyot fel, kicsit le. Rossz úton fel, jón le. Kanyargósan fel, egyenesen le. Falu volt fenn, vagy falu volt lenn. Erdőben fel, mezőn le. Változatlan változatosság: hullámvasút.

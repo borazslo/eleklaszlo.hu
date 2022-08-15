@@ -3,7 +3,7 @@ layout: post
 title: "Indulás előtt"
 permalink:  /6069/ 
 date: 2009-08-04 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 Minden készen áll. Nagyjából. Izgulok. Sok minden történhet az úton. Sok minden fog történni az úton. Velem. Bennem. Félek találkozni magammal, mert mi van, ha kiderül, hogy elrontottam.
 

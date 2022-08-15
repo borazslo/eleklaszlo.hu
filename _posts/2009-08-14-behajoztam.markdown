@@ -3,7 +3,7 @@ layout: post
 title: "Behajóztam"
 permalink:  /6086/ 
 date: 2009-08-14 10:00:00
-tags:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ] 
 ---
 A csillagokat nézve aludtam el. Most láttam először a csillagokat. Az első napokban a telihold fénye mindent elnyomott. Aztán vagy felhős volt az ég, vagy túl hamar elaludtam. Gyönyörűek a csillagok. Sok-sok millió fényévre vannak azok az izék, és mire ideért a fényük, már lehet, hogy nem is léteznek. Itt vagyunk egy piciny bolygón valahol a világmindenség egy részletében. Ezt az egészet valaki nagyon-nagyon jól kitalálta. Ennyire jól összerakni nem tudja a véletlen.
 
