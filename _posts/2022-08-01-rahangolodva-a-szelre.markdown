@@ -81,5 +81,6 @@ Kéredzkedjünk fel olykor egymás hajójának fedélzetére. Biztos vagyok abba
 
 Köszönjük a támogatást a Piarista Vitorlázó Egyesületnek, a Regnum Marianum Sport Egyesületnek, a Remetei Regnum Marianumnak és a Windworksnek.
 
-(*Megjelent a* [Magyar Kurír oldalán](https://www.magyarkurir.hu/hirek/rahangolodva-szel-sokkal-nagyobb-erejere-piarista-vitorlazo-egyesulet-kekszalagon)*. Fotók: Schmutzer Áron*)
+---
+Forrás: [https://www.magyarkurir.hu/hirek/rahangolodva-szel-sokkal-nagyobb-erejere-piarista-vitorlazo-egyesulet-kekszalagon](https://www.magyarkurir.hu/hirek/rahangolodva-szel-sokkal-nagyobb-erejere-piarista-vitorlazo-egyesulet-kekszalagon) ([lementet változat](/files/publications/2022-08-01-rahangolodva-a-szelre_MagyarKurir.pdf)). Fotók: Schmutzer Áron
 
