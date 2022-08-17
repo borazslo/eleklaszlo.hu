@@ -4,7 +4,7 @@ title: "Kis lépésekben formáljuk át a világot – Beszélgetés Elek Lászl
 permalink:  /7017/ 
 date: 2018-11-18 21:57:13
 image: /files/images/2018-11-18-kis-lepesekben-formaljuk-at-a-vilagot/img1.jpg
-tags:  [ magamról, másutt ] 
+tags:  [ magamról, másutt, Magyar Kurír ] 
 categories: [  ]
 ---
 Szentelésem kapcsán a Trauttwein Éva beszélgetettem velem a Magyar Kurírtól: Elek Lászlót nemrég szentelték pappá, és augusztusban ünnepelte elköteleződését. Kórházban és iskolában dolgozott tanulmányai alatt, több egyházi weboldal fejlesztője. Életútjáról kérdeztük.
