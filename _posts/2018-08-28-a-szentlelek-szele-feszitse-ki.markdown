@@ -1,0 +1,35 @@
+---
+layout: post
+title: "A Szentlélek szele feszítse ki vitorláidat! – Papszentelés Miskolcon"
+permalink:  /7018/ 
+date: 2018-08-28 15:40:13
+image: /files/images/2018-08-28-a-szentlelek-szele-feszitse-ki/img1.jpg
+tags:  [ másutt, szentelés, Magyar Kurír ] 
+categories: [  ]
+---
+Ezt nem én írtam. Bár van benne idézet tőlem. Szelenge Judit, aki a cikket írta, idézi Ternyák Csaba érsek atyát, aki engem szentelt, aki idézi a honlapomat, amit most olvasol, ahol bemutatkoztam. Jöjjön hát a szenelésemről szóló beszámoló a Magyar Kurír oldaláról.
+
+<!--break-->
+
+**Augusztus 25-én Ternyák Csaba egri érsek Miskolcon, az Isteni Ige-templomban pappá szentelte Elek László jezsuita szerzetest.**
+
+Elek László SJ kilenc éve a rend tagja, és másfél évtizede készült a papságra. „Laci az Egyház ölén nőtt fel – mutatta be Vízi Elemér SJ tartományfőnök a szentelendőt az ünnepi szentmise kezdetén –, hiszen családjában, a Regnum Marianum közösségben és a piaristáknál formálódott, majd az esztergomi szemináriumban és Rómában tanult. 2009-ben lépett be a jezsuitákhoz, magisztériumát Miskolcon végezte, majd Bostonban speciális tanulmányokat folytatott, 2017 óta pedig a Fényi Gyula Jezsuita Gimnázium és Kollégium iskolalelkészségén szolgál. Itt, a gimnázium mellett álló Isteni Ige-templomban kapta meg az egyházi rend szentségét.”
+
+Nagyon sokan mentek el Miskolcra, hogy részt vehessenek Elek László szentelésén. Jelen volt Jelenits István, aki a piaristáknál nemcsak Lacinak, de az édesapjának is tanára volt, és Kaposvárról Balás Béla püspök. Természetesen nagy számban érkeztek a rendtársak, a jezsuiták „apraja-nagyja”, aki csak el tudott jönni szolgálati helyéről. Sokan voltak ott régi és jelenlegi „jezsus” (Fényi Gyula Jezsuita Gimnázium és Kollégium) diákok, a középiskola tanárai és munkatársai, és számos padsort töltött meg László családja; szülei, testvérei és családtagjai, köztük pap nagybátyja, Kemenes Gábor, és szerzetes nagynénje, Kemenes Ágnes szociális nővér, több rendtársnővel együtt. Bár a templomot zsúfolásig megtöltötte az ünnepi ruhás gyülekezet, mégis családias és meghitt volt a hangulat, hiszen szinte mindenki rokon, barát, tanár, tanítvány vagy kolléga volt.
+
+Az egybegyűlteket Vízi Elemér köszöntötte, felidézve Elek László papi jelmondatát, melyet a Filippiekhez írt levélből választott: „Örüljetek az Úrban mindenkor! Ismét mondom: örüljetek! Jóságotok legyen ismert minden ember előtt! Az Úr közel van!” Az evangélium után, mely Szent Máté könyvéből kifejezetten a papokhoz szól, a provinciális szólította a szentelendőt, és e szavakkal tanúsította alkalmasságát az áldozópapságra: „Rengeteg próbatétel után, melyeket kiállt, és az őt ismerő illetékesek véleménye szerint is, mely hozzám eljutott, bebizonyosodott, hogy hűséges az elhívásához, és méltónak bizonyult az áldozópapságra.”
+
+Ternyák Csaba érsek homíliájában a szentelendő papi jelmondata kapcsán a keresztény örömről beszélt, mely sokkal több a szomorúság vagy reménytelenség hiányánál, hiszen örömünk Jézus Krisztusban van: Ő örömünk oka, Neki köszönhetjük megváltásunkat és életünket. Ez az öröm az, melyet Jézus ad nekünk, aki mindent elkér tőlünk, de sokkal többet ad cserébe. Az érsek kiemelte, hogy az életszentség útján, melyre Jézus meghívta, Laci is az életet és a boldogságot kereste. Nem azonnal talált rá jezsuita hivatására, hanem lelkében hosszasan érlelődött a döntés, új próbatételeket állt ki, és kész volt hivatásáért áldozatot hozni. Idézte László bemutatkozó szavait: „Találkoztam az Istennel, aki annak ellenére – sőt éppen azért és úgy – szeret és meghív, hogy gyenge és esetlen vagyok. Arról álmodom, hogy mások is találkozzanak vele. Talán munkáimon, sőt rajtam keresztül.” Ternyák Csaba méltatta Elek László munkáját, melyet a zsolozsma mobilalkalmazás fejlesztésével végzett, s megerősítette, hogy már eddigi tevékenységével sokakat hozzásegített az Istennel való találkozáshoz.
+
+Ternyák Csaba kifejtette, hogy Jézus kemény szavai a farizeusokhoz és az írástudókhoz szóltak, a papokhoz, akiktől elvárja a Mester, hogy ne legyenek képmutatók, hatalmaskodók, hanem éljenek testvériségben és kölcsönös szolgálatban. A keresztség által minden hívő részesül a királyi papságban, valamennyien papok vagyunk. Néhányan pedig – a diakónusok, áldozópapok és püspökök – meghívást kapnak a szolgáló papságra. Az ő feladatuk, hogy megújítsák a világmegváltó áldozatot, és szeretetben élve szolgálják, és az igével táplálják, a szentségekkel megerősítsék a királyi papság tagjait. Végül az egybegyűlt jezsuitákhoz is szólt: köszönetét fejezte ki, hogy a rend jelenlétével és szolgálatával, a plébánia és a gimnázium fenntartásával kiemelkedő missziós központtá fejlesztette a városnak ezt a részét. Az érsek végül hálát adott Istennek a felszentelendő jezsuitáért, hogy meghívta a papi életre, és megköszönte mindenkinek, hogy idáig segítették.
+
+A homíliát követően a Mindenszentek litániája következett, melynek során a szentelendő arccal a földre borulva feküdt, ezzel is kifejezve teljes önátadását, majd az érsek magához hívta, kedves fiának szólította, és megkérdezte szándéka felől, hogy valóban akarja-e az áldozópapság rendjét. László szilárd hangon válaszolta: „Akarom! Akarom, Isten segítségével!”, majd engedelmességet fogadott rendi elöljárójának és megyéspüspökének.
+
+A papszentelés csúcspontja a kézrátétel, a papság szentségének átadása, mely egészen az első apostolokig visszavezethető. Ternyák Csaba érseknek Szent II. János Pál pápa adta át ezt a lelki hatalmat és küldetést. A szentelési ima és a beöltöztetés után krizmával, azaz szent olajjal is megkenték az új pap kezét, valamint megkapta az eucharisztia bemutatásának eszközeit, a kenyeret a paténán, valamint a borral és vízzel előkészített kelyhet. Aztán az érsek köszöntötte őt békecsókkal, majd a tartományfőnök, és sorban a paptestvérek. Ezután az oltár mögött foglalta el a helyét, s koncelebrálásával folytatódott a szentmise, melyen a gimnázium Parázs lelkiségi csoportjának tagjai is segédkeztek.
+
+A szertartás során Bellovics Gábor SJ orgonált és a Rorate Schola férfikar működött közre, akik gimnazistakorukban a varázslatosan szép hajnali roráték hagyományát megalapozták.
+
+A szentmise zárásaként Vízi Elemér köszönetet mondott Ternyák Csabának, a jelenlévőknek, illetve mindenkinek, aki Lacit idáig elkísérte és segítette. Azt kívánta, hogy a papság által még jobban „kifeszítse vitorláit”, hogy a Szentlélek jól tudja őt előrevinni. Elek László a hála érzését e szavakkal tolmácsolta: „Köszönöm, hogy amikor nem láttam Istent, akkor ti imával, szeretettel mégis közvetítettétek”. Végezetül az új pap az érsekkel együtt áldotta meg a közösséget. Ternyák Csaba záróáldásában az kívánta, hogy a Szentlélek szele fújjon a jezsuita rend fölött, és vigye előre az egész magyar egyházat.
+
+---
+Forrás: [https://www.magyarkurir.hu/hirek/a-szentlelek-szele-feszitse-ki-vitorlaidat-papszenteles-miskolcon](https://www.magyarkurir.hu/hirek/a-szentlelek-szele-feszitse-ki-vitorlaidat-papszenteles-miskolcon) ([lementett változat](/files/publications/2018-08-28-a-szentlelek-szele-feszitse-ki_MagyarKurir.pdf))
