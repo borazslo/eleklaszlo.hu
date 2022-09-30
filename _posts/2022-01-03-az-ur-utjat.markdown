@@ -4,7 +4,7 @@ title: "II. fejezet: az Úr útját"
 permalink:  /7012/ 
 date: 2022-01-03 10:57:13
 tags:  [  ] 
-categories: [ Készítsétek az Út útját ]
+categories: [ Készítsétek az Úr útját ]
 ---
 Az Úr végig követte a munkálatokat. És amikor elérkezett az idő, lement a garázsba és elővette a biciklijét. Jó rétegesen öltözött fel, hiszen jöhetett hideg, meleg, eső vagy akár hó. Mert bár tőle származnak a természet minden törvényei, ő maga keveset törődött azzal, hogy milyen időre milyen szokott következni, és inkább a személyek és történetek foglalkoztatták. Tehát az esőkabát mellé, azért egy hószemüveget is berakott a táskájába, majd felült szeretett kerékpárjára, és útnak indult.
 

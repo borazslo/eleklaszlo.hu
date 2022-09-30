@@ -4,7 +4,7 @@ title: "3. Molnár Krisztina és a közösségi festés"
 permalink:  /7016/ 
 date: 2022-01-06 10:57:13
 tags:  [  ] 
-categories: [ Készítsétek az Út útját ]
+categories: [ Készítsétek az Úr útját ]
 ---
 Molnár Krisztina - így, újra leánykori nevén - éppen az új játszóteret festegette a közösségi ház kertjében, amikor az Úr lefékezett előtte és megszólította. Jól esett neki a hang, jól esett a kérdés. Óvatos szokott lenni, és bár általában még meg-megremeg a hangja, ha kérdezik, de most valahogy jó volt elmesélnie, ami vele történt. Végre biztonságban van ő is és a férje is. Ő itt a közösségi ház építkezésén. Férje meg a börtönben. Krisztina lassan épült újra, ahogy tégláról téglára épült fel az új közösségi ház. Hosszú évek bántalmazó kapcsolata állt mögötte. Egykor lassan épült le egész ereje tégláról téglára, és a végén már az Úrhoz sem tudott kiáltani, de még meghallani sem bírta többé őt. Mindig csak a félelem, a fájdalom, a megbocsátás, az újrakezdés, és az egész egyre ördögibb kör. Aztán jött az az Út, az építkezés. Az ő házukat is kisajátították. És jött a becsüs, Horváth Emil, hogy felmérje mennyit is ér az ingatlan. Többször is vissza kellett jönnie, és egy ilyen találkozón vette észre a lila foltokat akkor még Csatárné Krisztina arcán. Rögtön felajánlotta a segítségét, de Krisztina nem fogadta el. Még nem tudta elfogadni. Horváth Emil nem hagyta ennyiben, és jelezte a házasságon belüli erőszak és bántalmazás alapos gyanúját. A gépezet elindult, a rendőrség kiment, a férj elrendezte, a feleségét megverte, a becsüst kirúgták. 
 

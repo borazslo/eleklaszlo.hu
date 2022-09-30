@@ -4,7 +4,7 @@ title: "I. fejezet: Készítsétek"
 permalink:  /7011/ 
 date: 2022-01-02 10:57:13
 tags:  [  ] 
-categories: [ Készítsétek az Út útját ]
+categories: [ Készítsétek az Úr útját ]
 ---
 
 Készítsük elő az Úr útját - kaptuk meg a feladatot. Kijelöltük a projektvezetőt, meghatároztuk a mérföldköveket, megterveztük a költségvetést, összeállítottuk a csapatot, és meghívtuk az alvállalkozókat. Kezdődhetett a munka. 

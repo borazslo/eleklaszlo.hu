@@ -4,7 +4,7 @@ title: "1. Kelemen Sándor tiszteletes és a kőszívek"
 permalink:  /7014/ 
 date: 2022-01-04 10:57:13
 tags:  [  ] 
-categories: [ Készítsétek az Út útját ]
+categories: [ Készítsétek az Úr útját ]
 ---
 Kelemen Sándor tiszteletes még mindig az egykori közösségi ház ajtajára volt kötözve. Nem vágyott ő már mozdulni egy centit sem: elvesztette reményét a hatóságokban, az igazságban, Istenben. A jóságos hívek viszont ragaszkodtak a papjukhoz. Nélküle hogyan juthatnának az Úrhoz - gondolták - ezért fogták és ajtóstul elvitték a templomba, és mivel amúgy is elkopott a régi ajtó a sok jövéstől-menéstől, berakták a papot ajtóstul, kötelestül templomajtónak. Sándor atya meg ha kicsit kelletlenül is, de adta az áldást hol az egész falura - amikor éppen kinyitották az ajtót -, hol meg a templomi szertartás végén - amikor éppen csukva volt. Látványosan morgott Istenre is, a püspökére is, meg az emberekre is. Titokban mégis örült, hogy végre nem kell produkálnia magát, nem kell magasztos tetteket végrehajtania, csak elég áldania és ajtón állnia. 
 

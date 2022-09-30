@@ -4,7 +4,7 @@ title: "2. Özvegy Feketéné Soós Ágnes és a közösségi öregotthon"
 permalink:  /7015/ 
 date: 2022-01-05 10:57:13
 tags:  [  ] 
-categories: [ Készítsétek az Út útját ]
+categories: [ Készítsétek az Úr útját ]
 ---
 Özvegy Feketéné Soós Ágnes éppen átvette a borítékot. Csak semmi legális. De hát melyik öregotthonba lehet ma bejutni kapcsolatok vagy borítékok nélkül!? Megkapta a borítékot, ezért megtette, amit tudott. És sokat tudott, hiszen Soós Ágnes a falu legjobb öregotthonát vezette, a csilli-villi „Szépkorúak otthonát”. Állítólag az Út miatt készült. Egyesek szerint eredetileg közösségi háznak szánták. A faluban mindenki egyetértett abban, hogy közösségi ház csak olyan lehet, aminek az építésében mindenki részt vesz, legalábbis azok biztosan, akik nem gyüttmentek. Az igazaknak még az apjuk meg nagyapjuk építették az egykori kultúrt saját kezeikkel. Csak hát azt már lerombolta az az átkozott cég, és ezt a valamit építették helyette. Az új nem-is-közösségi házba soha nem tették be a lábukat. Üresen állt. Olykor kigyulladt. Mintha átok ült volna rajta. Egyesek szerint még szellemek is laktak benne. Özvegy Feketéné Soós Ágnes már nem hitt a szellemekben. „Pedig...” - kezdte gondolatát az Isten, de inkább visszatért dr. Pataki Tihamér, a már demens jóhírű bíró ágyának széléhez. 
 
