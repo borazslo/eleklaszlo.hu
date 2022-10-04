@@ -51,7 +51,7 @@ Ettől még persze ömlenek tovább a könnyek. Sírnak. Ők is, úgy egyen-kett
 
 <iframe
    frameborder="0"
-   width="500"
+   width="640"
    height="100"
-   src="https://drive.google.com/file/d/1GPZOzMtKyBP4AwroMz1QT4-DIJLgD4u1/view?usp=sharing">
+   src="https://drive.google.com/file/d/1GPZOzMtKyBP4AwroMz1QT4-DIJLgD4u1/preview">
 </iframe>
