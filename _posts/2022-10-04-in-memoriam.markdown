@@ -2,7 +2,7 @@
 layout: post
 title: "In Memoriam"
 permalink:  /7021/ 
-date: 2022-10-04 13:59:11
+date: 2022-10-04 10:59:11
 
 ---
 
