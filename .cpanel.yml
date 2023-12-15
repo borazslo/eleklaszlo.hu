@@ -1,0 +1,5 @@
+---
+deployment:
+    tasks:
+        - export DEPLOYPATH=/home/eleklaszlo/public_html/
+        - /bin/git --git-dir=/home/eleklaszlo/public_html/eleklaszlo.hu/.git --work-tree=/home/eleklaszlo/public_html/eleklaszlo.hu pull origin gh-pages
