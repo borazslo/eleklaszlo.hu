@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Megjelent: Semmit ​se vigyetek az útra"
-permalink:  /7023/ 
+permalink:  /7027/ 
 date: 2023-05-15 21:40:11
 tags:  [ zarándoklat, könyv ] 
 ---
