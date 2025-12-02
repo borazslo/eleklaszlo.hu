@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Életlehetőség"
-permalink:  /7022/ 
+permalink:  /7028/ 
 date: 2022-12-15 13:43:11
 
 ---
