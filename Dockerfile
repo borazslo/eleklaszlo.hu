@@ -1,5 +1,5 @@
 # Multi-stage build: Jekyll build stage
-FROM ruby:3.0-alpine AS builder
+FROM ruby:3.2-alpine AS builder
 
 WORKDIR /app
 
