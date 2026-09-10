@@ -1,7 +1,9 @@
 source "https://rubygems.org"
 
 # bundle exec jekyll serve --host 0.0.0.0
-gem "jekyll"
+gem "jekyll", "~> 4.3"
+gem "logger"
+gem "csv"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
