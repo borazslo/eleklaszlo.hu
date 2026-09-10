@@ -1,29 +1,38 @@
-name: deploy
+name: Build and Deploy to Azure VM
+
 on:
   push:
     branches:
       - master
 
 jobs:
-  build:
-    name: deploy
+  build-and-deploy:
     runs-on: ubuntu-22.04
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@v2
 
-      - name: Setup SSH-Agent
-        uses: webfactory/ssh-agent@v0.5.4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ssh-private-key: |
-            ${{ secrets.SSH_PRIVATE_KEY }}
-      
-          
-      - name: Build Dist Site 
-        uses: ./.github/actions/build-dist-site
+          ruby-version: '3.0'
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: |
+          bundle exec jekyll build --trace
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          PWD: ${{ secrets.PWD }}
-          CPANEL: ${{ secrets.CPANEL }}
-                    
+          JEKYLL_ENV: production
+
+      - name: Deploy to Azure VM
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.AZURE_VM_HOST }}
+          username: ${{ secrets.AZURE_VM_USER }}
+          key: ${{ secrets.AZURE_VM_SSH_KEY }}
+          port: 22
+          script: |
+            cd ~/eleklaszlo.hu
+            git pull origin master
+            bash deploy.sh
