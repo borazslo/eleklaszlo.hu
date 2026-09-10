@@ -9,6 +9,7 @@ services:
     restart: unless-stopped
     networks:
       - default
+      - ignacio-simple-server_default
     environment:
       - TZ=Europe/Budapest
     healthcheck:
@@ -26,3 +27,5 @@ services:
 networks:
   default:
     driver: bridge
+  ignacio-simple-server_default:
+    external: true
