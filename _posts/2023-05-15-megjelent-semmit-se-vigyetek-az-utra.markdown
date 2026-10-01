@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Megjelent: Semmit ​se vigyetek az útra"
-permalink:  /7027/ 
+permalink:  /7027/
 date: 2023-05-15 21:40:11
-tags:  [ zarándoklat, könyv ] 
+tags:  [ zarándoklat, könyv ]
+image: /files/images/2023-05-15-semmit-se-vigyetek/2023-05-15-konyvvel.jpg
 ---
 Itt a honlapon már régóta olvasható a 2011-es kunyerálós zarándoklatom története, ami most fényképekkel kiegészítve megjelent és megvásárolható a [Jezsuita Kiadónál](https://jezsuitakiado.hu/termek/semmit-se-vigyetek-az-utra/). 
 

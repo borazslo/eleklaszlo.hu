@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fülöp-szigetek: Tudtam, csak nem gondoltam"
-permalink: /7028/
+permalink: /7029/
 date: 2026-10-01 10:00:00
 tags: [ életjel, Fülöp-szigetek ]
 image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-manila-skyline.jpg

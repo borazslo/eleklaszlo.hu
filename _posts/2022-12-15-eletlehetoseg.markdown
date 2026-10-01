@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Életlehetőség"
-permalink:  /7028/ 
+permalink:  /7028/
 date: 2022-12-15 13:43:11
-
+image: /files/images/2022-12-15-eletlehetoseg/2022-12-15-vilagitotorony.jpg
 ---
 
 Micsoda munkalehetőség! Kanadában világítótornyok felügyelete és karbantartása évi $66,842 dollárért (havi 1,5 millió forint?). Kell hozzá némi karbantartói és műszaki tapasztalat, meg office ismeret. Meg persze kitartás és a (félig)magányos parti világ ámulata. 

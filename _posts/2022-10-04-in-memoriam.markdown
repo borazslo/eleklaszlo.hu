@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "In Memoriam"
-permalink:  /7021/ 
+permalink:  /7021/
 date: 2022-10-04 10:59:11
-
+image: /files/images/2022-10-04-in-memoriam/2022-10-04-folyopart.jpg
 ---
 
 A befejező imaóra végén ott van mindig: és a jó halál kegyelmét. De úgy egyébként nem sokat foglalkozunk vele. És ez így van jól: az életben az élet a fontos. Az Isten országa már itt a földön közöttünk van. Ha még nem is a maga teljességében. Teszünk-veszünk hát. Szeretünk, izzadunk, elfáradunk, haragszunk, hibázunk, szeretünk, és próbálunk szeretni. Lekuporodva Jézus lábához, vagy a konyhában. És jól van ez így.
