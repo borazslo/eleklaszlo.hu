@@ -120,6 +120,11 @@ title: "Bejegyzés címe"
 date: 2024-01-15 10:30:00 +0100
 categories: [kategória1, kategória2]
 tags: [tag1, tag2]
+image: /files/images/2024-01-15-title/featured.jpg
+gallery:
+  - image: /files/images/2024-01-15-title/image1.jpg
+  - image: /files/images/2024-01-15-title/image2.jpg
+    caption: "Másik kép felirata"
 ---
 
 Bejegyzés tartalma...
@@ -128,6 +133,8 @@ Bejegyzés tartalma...
 
 Folytatás az első oldal után...
 ```
+
+A `gallery:` mező opcionális - ha megadod, a képek automatikusan megjelennek a bejegyzés végén lightbox funkcióval. Az `image:` a kiemelt kép.
 
 ### Statikus oldal (`_pages/`)
 
