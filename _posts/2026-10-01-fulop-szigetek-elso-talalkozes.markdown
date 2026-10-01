@@ -8,13 +8,13 @@ image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-manila-skyline.jpg
 gallery:
   - image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-kapolna-ejszaka.jpg
   - image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-kapolna-naplemente.jpg
-    caption: "Naplemente előtt, amikor az elmélkedés időpontja közel van"
+    caption: "Az ötödik emeletről fényképezve a 2. és 3. emeleten lévő kápolnát, előtt a 2. emeleten lévő két étkező, közötte a másik képen látható kert."
   - image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-kapolna-belul.jpg
-    caption: "Kétszáz hely a közös imádkozáshoz"
+    caption: "Zsebkápolna"
   - image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-epulet.jpg
-    caption: "A közösség otthona, ahol a formálódás történik"
+    caption: "A két ebédlő közötti kiskert. Reggeli közben a kápolna oltáráig ellátni."
   - image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-jesuit-aid-association.jpg
-    caption: "A formálódás otthonában, ahol a szív iskolája folytatódik"
+    caption: "Ott fönn van a szobám."
 ---
 Három hete érkeztem a Fülöp-szigetekre, hogy a következő hat hónapban jezsuita formálódásom utolsó nagy szakaszát itt éljem meg, a szív iskoláját. Hétköznapibb nevén a harmadik probációt. Vagyis a terciát.
 
@@ -35,4 +35,4 @@ Az étkezőkhöz és a kápolnához is (amiben önmagában is elfér kétszáz e
 
 Így értem, hogy miért használunk mindenhol mikrofont és erősítést: kell a háttérzaj ellen. A hatalmas kápolnában minden oszlopon van egy kis zsinórral kapcsolható ventillátora. És a szentélyben van még három nagy. A mennyezeten pedig két hatalmas. Itt csak úgy lobog a miseruha és az oltárterítő is.
 
-Első pár nap nem is ment nagyon az alvás. A szobámban már van klíma, ami szigetelés híjján erőlködve lehűti a szobát, de zúg búg, és ha csak egy pillanatra kimozdulok, már párásodik be a szemüvegem is. Átszoktam hát én is a ventillátorra. És mire lefekszem aludni, már a hőmérséklet is lecsökken az elviselhető 25 fokra, és így már ventillátor sem kell. Csak a szomszéd jezsuita idősekotthonának hatalmas klímái ne zúgnának egész éjjel...
+Első pár nap nem is ment nagyon az alvás. A szobámban már van klíma, ami szigetelés híjján erőlködve lehűti a szobát, de zúg búg, és ha csak egy pillanatra kimozdulok, már párásodik be a szemüvegem is. Átszoktam hát én is a ventillátorra. És mire lefekszem aludni, már a hőmérséklet is lecsökken az elviselhető 25 fokra, és így már ventillátor sem kell. Csak a szomszédos jezsuita idősek otthonának hatalmas klímái ne zúgnának egész éjjel...
