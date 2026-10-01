@@ -1,0 +1,64 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+<script src="https://cdn.jsdelivr.net/npm/glightbox"></script>
+
+<style>
+  .gallery-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+    padding: 1rem 0;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  }
+
+  .gallery-item {
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    transition: transform 0.2s ease;
+  }
+
+  .gallery-item:hover {
+    transform: scale(1.05);
+  }
+
+  .gallery-item img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .gallery-item a {
+    display: block;
+    text-decoration: none;
+  }
+</style>
+
+<div class="gallery-grid">
+  {% if page.image %}
+    <div class="gallery-item">
+      <a href="{{ page.image }}" class="glightbox" data-glightbox="gallery" data-description="">
+        <img src="{{ page.image }}" alt="Featured image" loading="lazy">
+      </a>
+    </div>
+  {% endif %}
+  {% for item in include.images %}
+    <div class="gallery-item">
+      <a href="{{ item.image }}" class="glightbox" data-glightbox="gallery" data-description="{{ item.caption }}">
+        <img src="{{ item.image }}" alt="{{ item.caption }}" loading="lazy">
+      </a>
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+  GLightbox({
+    selector: '.glightbox',
+    touchNavigation: true,
+    loop: true,
+    descriptionPosition: 'bottom'
+  });
+</script>

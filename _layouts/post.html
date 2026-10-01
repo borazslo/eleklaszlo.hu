@@ -25,6 +25,12 @@ layout: default
     {{ page.content | remove: page.excerpt }}
   </div>
 
+  {% if page.gallery %}
+    <section class="post-gallery">
+      {% include gallery.html images=page.gallery %}
+    </section>
+  {% endif %}
+
   <!--<div class="tags">    
     {% for tag in page.tags %}
       <span class="tag"><a href="/tag/{{ tag | slugify }}/">#{{ tag }}</a></span>      
