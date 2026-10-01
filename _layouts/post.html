@@ -21,7 +21,11 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ page.excerpt }}
-    <img src="{{ page.image }}"/>
+    {% if page.image %}
+      <figure class="post-featured-image">
+        <img src="{{ page.image }}" alt="{{ page.title }}">
+      </figure>
+    {% endif %}
     {{ page.content | remove: page.excerpt }}
   </div>
 
@@ -45,9 +49,21 @@ layout: default
 </article>
 
 <style>
+  .post-featured-image {
+    margin: 2.5rem 0;
+    text-align: center;
+  }
+
+  .post-featured-image img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 12px;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+  }
+
   .next {
-        float: right;
-    }
+    float: right;
+  }
 </style>
 
 {% if page.categories.size < 1 %}
