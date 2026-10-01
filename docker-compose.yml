@@ -28,4 +28,4 @@ networks:
   default:
     driver: bridge
   ignacio-simple-server_default:
-    external: true
+    external: ${EXTERNAL_NETWORK:-false}

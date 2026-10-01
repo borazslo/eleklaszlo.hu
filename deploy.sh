@@ -12,13 +12,13 @@ echo "📅 Timestamp: $(date)"
 cd ~/eleklaszlo.hu || { echo "❌ Failed to navigate to ~/eleklaszlo.hu"; exit 1; }
 
 echo "📦 Building Docker image locally..."
-docker compose build || { echo "❌ Failed to build Docker image"; exit 1; }
+EXTERNAL_NETWORK=true docker compose build || { echo "❌ Failed to build Docker image"; exit 1; }
 
 echo "🛑 Stopping and removing old container..."
-docker compose down || true
+EXTERNAL_NETWORK=true docker compose down || true
 
 echo "🚀 Starting new container..."
-docker compose up -d || { echo "❌ Failed to start container"; exit 1; }
+EXTERNAL_NETWORK=true docker compose up -d || { echo "❌ Failed to start container"; exit 1; }
 
 echo "⏳ Waiting for container to be healthy..."
 sleep 5
@@ -28,7 +28,7 @@ if docker ps | grep -q eleklaszlo-web; then
     echo "✅ Container is running"
 else
     echo "❌ Container failed to start"
-    docker compose logs
+    EXTERNAL_NETWORK=true docker compose logs
     exit 1
 fi
 
@@ -37,7 +37,7 @@ if curl -f http://localhost:5001/ > /dev/null 2>&1; then
     echo "✅ Nginx is responding"
 else
     echo "⚠️  Nginx not responding yet, checking logs..."
-    docker compose logs
+    EXTERNAL_NETWORK=true docker compose logs
 fi
 
 echo "🎉 Deployment completed successfully!"
