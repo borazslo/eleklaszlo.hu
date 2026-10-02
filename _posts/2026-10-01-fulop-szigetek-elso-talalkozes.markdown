@@ -35,4 +35,6 @@ Az étkezőkhöz és a kápolnához is (amiben önmagában is elfér kétszáz e
 
 Így értem, hogy miért használunk mindenhol mikrofont és erősítést: kell a háttérzaj ellen. A hatalmas kápolnában minden oszlopon van egy kis zsinórral kapcsolható ventillátora. És a szentélyben van még három nagy. A mennyezeten pedig két hatalmas. Itt csak úgy lobog a miseruha és az oltárterítő is.
 
-Első pár nap nem is ment nagyon az alvás. A szobámban már van klíma, ami szigetelés híjján erőlködve lehűti a szobát, de zúg búg, és ha csak egy pillanatra kimozdulok, már párásodik be a szemüvegem is. Átszoktam hát én is a ventillátorra. És mire lefekszem aludni, már a hőmérséklet is lecsökken az elviselhető 25 fokra, és így már ventillátor sem kell. Csak a szomszédos jezsuita idősek otthonának hatalmas klímái ne zúgnának egész éjjel...
+Első pár nap nem is ment nagyon az alvás. A szobámban már van klíma, ami szigetelés híjján erőlködve lehűti a szobát, de zúg búg, és ha csak egy pillanatra kimozdulok, már párásodik be a szemüvegem is. Átszoktam hát én is a ventillátorra. És mire lefekszem aludni, már a hőmérséklet is lecsökken az elviselhető 25 fokra, és így már ventillátor sem kell. Sőt a szomszédos jezsuita idősek otthonának hatalmas klímáinak folyamatos zúgása sem zavar már...
+
+Jöhet az Élet!
