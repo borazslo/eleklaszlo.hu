@@ -3,19 +3,25 @@ layout: post
 title: "Montserrat A Szívben"
 permalink:  /4800/ 
 date: 2008-12-30 17:48:14
-tags:  [ életjel, jezsuita, Montserrat, A Szív ] 
+tags:  [ életjel, jezsuita, Montserrat, A Szív, másutt ] 
 image:  /files/images/100_1790.jpg 
+gallery:
+    - image: /files/images/100_1812.jpg
+    - image: /files/images/DSC_2832.jpg
+    - image: /files/images/DSC_3076.jpg
+    - image: /files/images/DSC_2860.jpg
+    - image: /files/images/DSC_2903(1).jpg
+    
 ---
 <a href="/4770">A Szív újság jubileumi számá</a>ban (2008. december) jelent meg rólunk - a Montserrat jezsuita jelöltközösségről egy cikkecske. Most közlöm az eredetit.
 
-
-
 <!--break-->  
-<p class="rtecenter">&nbsp;</p>  
-<p class="rtecenter"><strong>A Fűrészfogú-hegy lakói a harmadikon.</strong></p>  
+
+## A Fűrészfogú-hegy lakói a harmadikon.
+
 A jezsuita jelölt ritka mint a fehér holló, mi mégis öten vagyunk. Együtt készülünk a noviciátusra egy jezsuita rendház harmadik emeleten. Ugyanolyan emberek vagyunk, mint bárki más, nem marslakók. Saját erőnkből kifestettük, berendeztük az otthonunkat. Isten erejével &ndash; és elöljárónk irányításával &ndash; készülünk arra, hogy egészen Istennek éljünk.
 
-2008. augusztus 17-én reggel Budapest utcáin tűzött a nap. Leszálltam a négyes-hatos villamosról, még kissé álmosan megkerestem a Horánszky utca húsz számot. A felújítás alatt álló épületben jöttek-mentek a munkások. A portól félremenekülve álltak a társaim, akiket még nem ismertem. Munkára gyűltünk össze, hogy leendő közös szállásunkat kifessük és rendbe rakjuk.
+_2008. augusztus 17-én reggel Budapest utcáin tűzött a nap. Leszálltam a négyes-hatos villamosról, még kissé álmosan megkerestem a Horánszky utca húsz számot. A felújítás alatt álló épületben jöttek-mentek a munkások. A portól félremenekülve álltak a társaim, akiket még nem ismertem. Munkára gyűltünk össze, hogy leendő közös szállásunkat kifessük és rendbe rakjuk.
 
 Kissé félénken köszöntem nekik, bemutatkoztam, és fürkésztem a még ismeretlen arcokat, hogy vajon milyen embereket rejthetnek. Megjött Zoli is (Koronkai Zoltán SJ), a főnökünk, akikről béke és derű sugárzott, mert együtt voltunk. Hiba Gyuri &ndash; egyik jelölttársam &ndash; még Indiában volt, Mihalkov Feri pedig &ndash; aki szintén társam &ndash; eltűnt mintha a föld nyelte el. Lassan mindenki előkerült, és kiderült, hogy ismerik egymást, egyedül csak én lógtam ki a sorból.
 
@@ -46,5 +52,3 @@ A többi estén magunk vagyunk, de a vacsoraasztal körül szinte mindig találk
 Közösségi misénk minden héten van &ndash; az ebédlőnkben. Lelkiéletünket folyamatosan gazdagítjuk, csöndben, minden erőszak nélkül segít minket az Úr. Régebben elképzelhetetlennek tartottam, hogy naponta elmélkedjek és exament végezzek, manapság szinte nem is érzem jól magamat nélküle. Ha még mindig marad időnk, akkor van hogy azon kapjuk magunkat, hogy a kápolnában ülünk, s közösen rózsafüzért vagy zsolozsmát imádkozunk.
 
 &Iacute;gy élünk öten a Montserrat Jelöltközösségben. Napról-napra jobban látszik, hogy milyen különbözőek vagyunk, de egy cél vezet minket, egy vágy, egy közösség éltet. &Ouml;römben és bánatban, békében és haragban, munkában és szórakozásban igyekszünk az Úr felé, törekedve arra, hogy mindent Isten nagyobb dicsőségére és az emberek üdvösségére tennünk.
-
-<center><a rel="lightbox[m]" href="/files/images/100_1812.jpg"><img src="/files/images/100_1812.jpg" height="80" /></a> <a rel="lightbox[m]" href="/files/images/DSC_2832.jpg"><img src="/files/images/DSC_2832.jpg" height="80" /></a> <a rel="lightbox[m]" href="/files/images/DSC_3076.jpg"><img src="/files/images/DSC_3076.jpg" height="80" /></a> <a rel="lightbox[m]" href="/files/userfiles/image/DSC_2560.jpg"><img src="/files/images/DSC_2860.jpg" height="80" /></a> <a rel="lightbox[m]" href="/files/images/DSC_2903(1).jpg"><img src="/files/images/DSC_2903(1).jpg" height="80" /></a></center>

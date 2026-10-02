@@ -10,8 +10,6 @@ Főpásztoromtól kértem, hogy ne szenteljenek föl diakónussá ősszel az Esz
 
 Gondolom sokaknak (szinte mindenkinek) hirtelen meglepetés ez a hír. Talán túl hirtelen. Azt feltételezhetnétek, hogy hirtelen jött ötlet. Pedig nem. Már több mint két éve győzköd az Úr.
 
-
-
 <!--break-->
 
 Az utóbbi időben kikapcsoltam mindent. Szobámban egész nap csönd van. A csöndben lehet fürkészni az Urat. Vagy a szobámban, vagy még inkább a kápolnánkban.
@@ -36,4 +34,7 @@ Ha az Úr útján sikerül járnom, akkor minden mindegy. Csak az számít.
 
 Ha nem volt elég részletes (meggyőző) a beszámolóm, akkor jöjjön egy kis „ajánlott irodalom”:
 
-<ul><li><a href="node/4709">Hogyan győzött a jezsuitaság gondolata?</a></li><li><a href="node/4710">Mitől életem legcsodálatosabb napjai ezek?</a></li><li>&nbsp;</li><li><a href="http://www.jezsuita.hu/">A jezsuitákról</a></li><li>&nbsp;<a href="http://www.parbeszed.com/main.php?folderID=1866&amp;articleID=7453&amp;ctag=articlelist&amp;iid=1">A képzésről nagyvonalakban</a></li></ul>
+* [Hogyan győzött a jezsuitaság gondolata?](/4709)
+* [A jezsuitákról](http://www.jezsuita.hu/)
+* [A képzésről nagyvonalakban]() *(Halott link. A Párbeszéd Háza honlapján volt jó leírás. De már rég megszűnt.)*
+

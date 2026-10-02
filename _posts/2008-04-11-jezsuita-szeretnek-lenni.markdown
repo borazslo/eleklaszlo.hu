@@ -17,5 +17,5 @@ Szeretném befejezni ezt a tanévet, mert így befejezem a teológiai alapképz�
 
 Addig a legfontosabb marad az, ami eddig. (S marad mindig.) Az imádság és az Úr útjának keresése. Nap mint nap.
 
-Szívesen elmesélném döntésemet részletesebben is, és azt az örömöt amit után kaptam, de be kell látnom, ez a hely nem a legalkalmasabb erre. Ha valahogy tudunk beszélni személyesen, ezt-azt még szívesen elmesélek. (Ezt-azt, hiszen valamit nem lehet elmesélni.&nbsp;<img src="/sites/all/modules/fckeditor/fckeditor/editor/images/smiley/msn/wink_smile.gif"> )
+Szívesen elmesélném döntésemet részletesebben is, és azt az örömöt amit után kaptam, de be kell látnom, ez a hely nem a legalkalmasabb erre. Ha valahogy tudunk beszélni személyesen, ezt-azt még szívesen elmesélek. (Ezt-azt, hiszen valamit nem lehet elmesélni.&nbsp;;) )
 
