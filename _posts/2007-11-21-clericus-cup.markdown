@@ -4,14 +4,13 @@ title: "Clericus Cup"
 permalink:  /4540/ 
 date: 2007-11-21 06:43:28
 tags:  [ életjel, Clericus Cup, foci ] 
-summary: "Megkezdődött a második <a href=\"http://www.csi-net.it/clericus cup\">Clericus Cup</a>; a római egyházi szemináriumok és kollégiumok között focibajnokság. A nyitó mérközésen mi játszahattunk a Mater Ecclesiae ellen.
-
-Tavaly találták ki az egészet. Odáig jutottak, hogy el akarják ismertetni a FIFA-val. Szponzort találtak, így minden csapat saját mezt kapott. Már megint. (Tavaly is kaptak. Így a jobbak már két teljes felszereléssel rendelkeznek."
-
 ---
 Megkezdődött a második <a href="http://www.csi-net.it/clericus cup">Clericus Cup</a>; a római egyházi szemináriumok és kollégiumok között focibajnokság. A nyitó mérközésen mi játszahattunk a Mater Ecclesiae ellen.
 
-Tavaly találták ki az egészet. Odáig jutottak, hogy el akarják ismertetni a FIFA-val. Szponzort találtak, így minden csapat saját mezt kapott. Már megint. (Tavaly is kaptak. Így a jobbak már két teljes felszereléssel rendelkeznek.  
+Tavaly találták ki az egészet. Odáig jutottak, hogy el akarják ismertetni a FIFA-val. Szponzort találtak, így minden csapat saját mezt kapott. Már megint. (Tavaly is kaptak. Így a jobbak már két teljes felszereléssel rendelkeznek.
+
+<!--break-->
+
 A nyitó meccs a római "Márvány Stadion"-ban volt (Stadio dei Marmi), közvetlenül az Olimpiai Stadion lábánál.Van ám reklámja a Clericus Cupnak ezért a nyitó mérközésre kivonult a sajtó. Volt vagy 7 különféle kamera, és pár hivatásos fotós egész nagy fényképezőgéppel, A RAI2 (~MTV2) is kijött. Mérközés után többekkel riportot készítettek. Sajtó volt, néző sajnos jóval kevesebb. A mi drukkereink fele annyian voltak mint a másik csapatéi, de annál hangosabban aszólt a "mi vagyunk, mi vagyunk, a pápai szeminárium mi vagyunk". Kicsi, de minőségi szurkolótáborunk volt. A szeminárium színe-java kijött. A rektor és vicerektor is ott volt. Volt dobunk, trombitánk, lengyel zászlónk, csörgőnk is.  
 Tavalyi rózsaszín mezünket végre lecseréltük. Vágyunk a sárga-fehér pápai mez lett volna, de csak a piros-fehér lengyel színeket kaptuk meg. Ez legalább kinéz valahogy, a tavalyi nagyon durva volt.  
 A kétszer 30 perces meccs nagyon kemény volt. Tavaly 4:1-re kaptunk ki tőlük, most nem volt ilyen könnyű dolguk. Az első gólt mi rúgtuk. Sajnos mikor már csak 3 perc hiányzott a győzelemhez, beletaláltak a kapunkban. Igaz ugyan, hogy a teljes médiás stáb és szurkolótábor szerint lesen volt a góllövő. Sajnos a partjelző hibázott, így 1:1 lett. Mivel nem szeretik a döntetlent, ezért tizenegyesek következtek, ahol 5:3-ra kikaptunk. Szomorűan tértünk haza. Így kikapni nem túl örömteli.

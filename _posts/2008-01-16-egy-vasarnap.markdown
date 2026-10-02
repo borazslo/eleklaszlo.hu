@@ -4,11 +4,10 @@ title: "Egy vasárnap"
 permalink:  /4662/ 
 date: 2008-01-16 06:59:16
 tags:  [ film, kórház, életjel, foci ] 
-summary: "Regel még előbújt a map egy pillanatra, de aztán esett. Először a kórházban jártam. Ma Norbert atya nem tudott jönni, így kettőnké volt az egész kórház. Ebéd után nem mehettem úszni, pedig már nagyon jól esne. Fényképeznem kellett a focimeccsen. Szentségimádás előtt még be kellett suvasztanom egy furulya próbát. Este még két csoporttal közösen megnéztünk a 23 című filmet. Sok volt ez egy napra.  
-"
-
 ---
 Regel még előbújt a map egy pillanatra, de aztán esett. Először a kórházban jártam. Ma Norbert atya nem tudott jönni, így kettőnké volt az egész kórház. Ebéd után nem mehettem úszni, pedig már nagyon jól esne. Fényképeznem kellett a focimeccsen. Szentségimádás előtt még be kellett suvasztanom egy furulya próbát. Este még két csoporttal közösen megnéztünk a 23 című filmet. Sok volt ez egy napra.
+
+<!--break-->
 
 A kórház. Mivel Norbert atyának sok keresztelője volt, nem tudott eljönni a kórházba. Mi tartottunk igeliturgiát. Előtte viszont két-két emeletet kellett végiglátogatnunk. Sietni kellett.  
 Az egyik szobában találtam egy Rubic Ernő féle bűvös kockát. Meglepődtem. Egy román beteg hozta magával. A komunista párt kampányában már láttam a kockát; filmekben is szerepelt, de így kézben egy külföldinél még sosem. :) (Karácsonykor kiderült, hogy nálam jóval fiatalabb unokatesóim ki tudják rakni a rubic-kockát. Ez annyira letaglózott, hogy előkotortam egy régi-régi kockát és nekiálltam kirakni. Papír segítségével már megy. Az első két és fél sor anélkül is. Csak azért is megtanulom.)  

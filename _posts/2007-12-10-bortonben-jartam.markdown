@@ -4,11 +4,10 @@ title: "Börtönben jártam"
 permalink:  /4562/ 
 date: 2007-12-10 07:14:52
 tags:  [ életjel, börtön ] 
-summary: "Tegnap az ötödév közösen látogatást tett Róma legnagyobb börtönében (Rebbibia - Nuovo complesso). Maffiózókkal, gyilkosokkal imádkoztunk együtt a szentmisében. Mise után még váltottunk pár szót. Találkoztam egy magyarral is.  
-"
-
 ---
 Tegnap az ötödév közösen látogatást tett Róma legnagyobb börtönében (Rebbibia - Nuovo complesso). Maffiózókkal, gyilkosokkal imádkoztunk együtt a szentmisében. Mise után még váltottunk pár szót. Találkoztam egy magyarral is.
+
+<!--break-->
 
 Az ötödév az akolitátus éve. Az egység szolgálatának éve: az oltáriszentség szolgálata, és a legnhezebb sorsúak szolgálata. Minden akolitus valamiféle szeretet szolgálatot folytat, plébánia látogatás helyett. Vannak - mint én is - akik kórházakat látogatnak, mások leány anyák és AIDS-esek közösségével foglalkoznak. S vannak akik börtönbe járnak. Ketten közülük a fiatalkorúak börtönébe mennek.  
 A börtönbe járók hívták meg az egész évfolyamot. Legalább egyszer lássunk börtönt közelről. Egy 2 órás tapasztalat nem sok, de több mint a semmi. Kitűztük hát a napot, és elküldtük az adatainkat, hogy kaphassunk belépési engedélyt. Tegnap reggel - betegeimet magukra - hagyva elindultunk a börtönbe. (Dec. 8 itt munkaszüneti nap, sőt ünnepnap. Így szombaton látogattam meg a kórházban a betegeimet.) Sűrű fellegek borították Róma egét. Barátságtalanul hűvös volt a reggel. Charles (kispap Haitiből) már kesztyűt húzott. A börtön magas fala alatt gyülekeztünk. Az út túloldalán is (a börtönön kívül) szögesdrót húzódott. A fal tetején ott figyelt az őr. Barátságtalan idő, mogorva börtönépület. S alatta 17 vidám fickó várta a fő börtön káplánt. (Illetve velünk volt még az ötödév elöljárója és a rektorunk is.)

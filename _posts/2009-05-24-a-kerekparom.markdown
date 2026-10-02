@@ -6,19 +6,17 @@ date: 2009-05-24 22:01:37
 published: false
 tags:  [ kerékpár ] 
 image:  /files/images/flickr_3606821132.jpg 
-summary: "Mali Ironman kerékpár, Shimano Exage 300-as szett, Vuelta Airline felnik
-
-"
-
 ---
   
 <p class="rteleft">Mali Ironman kerékpár
 
 Shimano Exage 300-as szett
 
-Vuelta Airline felnik
+Vuelta Airline felnik</p>
 
-53-54-es vázméret
+<!--break-->
+
+<p class="rteleft">53-54-es vázméret
 
 pumpa, ülés alatti tároló, digitális km óra (Cateye)</p>  
 <p class="rtecenter"><a href="/files/userfiles/image/100_5904.JPG" rel="lightbox"><img src="/files/images/100_5904.JPG" alt="" /></a></p>  

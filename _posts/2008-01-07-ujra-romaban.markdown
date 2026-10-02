@@ -4,15 +4,12 @@ title: "Újra Rómában"
 permalink:  /4652/ 
 date: 2008-01-07 20:18:47
 tags:  [ életjel ] 
-summary: "Véget ért a szünet. Ma, január 7-én visszatértem Rómába. Folytatódik az év.
-
-Úgy 16 napot voltam otthon. Örülök, hogy otthon lehettem, hogy járhattam a Mátrában és a Budai-hegységben. Jó volt otthon lenni. Otthon a Kápolnában, a plébániámon, az ifi misén, Esztergomban. Volt, hogy az egész Elek család is együtt volt. (Papám ennek örömére felhúzta a zászlót a kertben.) Úgy örülök, hogy sokakkal sikerült találkoznom, beszélgetnem. Annyira jó volt az egész!!  
-"
-
 ---
 Véget ért a szünet. Ma, január 7-én visszatértem Rómába. Folytatódik az év.
 
 Úgy 16 napot voltam otthon. Örülök, hogy otthon lehettem, hogy járhattam a Mátrában és a Budai-hegységben. Jó volt otthon lenni. Otthon a Kápolnában, a plébániámon, az ifi misén, Esztergomban. Volt, hogy az egész Elek család is együtt volt. (Papám ennek örömére felhúzta a zászlót a kertben.) Úgy örülök, hogy sokakkal sikerült találkoznom, beszélgetnem. Annyira jó volt az egész!!
+
+<!--break-->
 
 Azt viszont sajnálom, hogy nem sikerült mindenkivel beszélgetnem akivel akartam, vagy aki velem akart. Sajnos nem mindig az idő volt kevés, hanem én is hibáztam. Bocsánat.
 

@@ -5,11 +5,13 @@ permalink:  /4797/
 date: 2009-01-20 11:25:31
 tags:  [ fényképezés, NKRemote, Nikon, szoftver ] 
 image:  /files/images/nkremote.JPG 
-summary: "<a href=\"http://www.breezesys.com/NKRemote/index.htm\">Új távvezérlő program</a>ot fejlesztett ki <a href=\"http://www.nikon.hu\">Nikon</a> DSRL gépekhez is a <a href=\"http://www.breezesys.com/\">Breeze System</a>. Végre van konkurenciája a <a href=\"http://www.europe-nikon.com/product/hu_HU/products/broad/1567/overview.html\">Nikon Camera Control Pro</a>-nak. Gyorsan összehasonlítottam a kettőt.
-
-"
 
 ---
+
+<a href=\"http://www.breezesys.com/NKRemote/index.htm\">Új távvezérlő program</a>ot fejlesztett ki <a href=\"http://www.nikon.hu\">Nikon</a> DSRL gépekhez is a <a href=\"http://www.breezesys.com/\">Breeze System</a>. Végre van konkurenciája a <a href=\"http://www.europe-nikon.com/product/hu_HU/products/broad/1567/overview.html\">Nikon Camera Control Pro</a>-nak. Gyorsan összehasonlítottam a kettőt.
+
+<!--break-->
+
 Kísérletezés közben jó, ha amikor elsütöm a gépet, rögtön láthatom az eredményt a monitoromon. Ehhez nem kell más mint egy fényképezőgép (esetemben <a href="http://www.europe-nikon.com/product/hu_HU/products/broad/1083/overview.html">Nikon D200</a>), egy USB kábel (jól meghosszabbítva) és egy szoftver. A Nikon gépekhez csak a <a href="http://www.europe-nikon.com/product/hu_HU/products/broad/1567/overview.html">Nikon Camera Control Pro</a> állt rendelkezésre (jelenleg a 2.4 verzió), eddig. Most itt van végre a <a href="http://www.breezesys.com/NKRemote/index.htm">NKRemote</a> a <a href="http://www.breezesys.com/">Breeze Systems</a>-től.
 
 Mindkettőnek van ingyenes próbaidős változata. Gyorsan letöltöttem azokat (<a href="http://support.nikontech.com/cgi-bin/nikonusa.cfg/php/enduser/std_adp.php?p_faqid=14428">Camera Control</a>, <a href="http://www.breezesys.com/downloads.htm#nkremote">NKRemote</a>) és kipróbáltam, hogy melyik a jobb. A második percben már nyert az NKRemote pedig még csak az 1.0-nál tartunk.

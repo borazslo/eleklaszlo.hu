@@ -4,15 +4,12 @@ title: "Admisszió, lektora avatás, akolitus avatás, szüleim Rómában, stb."
 permalink:  /4545/ 
 date: 2007-12-03 16:34:23
 tags:  [ életjel, lektor, akolitus, admisszió ] 
-summary: "A legutóbbi hétvége kissé sűrűre sikerült. Ám nagyon jó volt.
-
-A szombaton admisszió volt, vasárnap lektor és akolitus avatás. Egész hétvégén itt voltak a szüleim. Vasárnap természetesen a kórházba is elmentem. Ezeket fűszerezték a próbák: ének próba, liturgikus próba, fényképezés próba. Mindezt három napba sűrítettük bele. (Még a Clericus Cup egyik mérkőzése is lett volna, de azt mondtuk, hogy azt azért már mégsem. Fontosabb volt az akolitus avatás.)  
-"
-
 ---
 A legutóbbi hétvége kissé sűrűre sikerült. Ám nagyon jó volt.
 
 A szombaton admisszió volt, vasárnap lektor és akolitus avatás. Egész hétvégén itt voltak a szüleim. Vasárnap természetesen a kórházba is elmentem. Ezeket fűszerezték a próbák: ének próba, liturgikus próba, fényképezés próba. Mindezt három napba sűrítettük bele. (Még a Clericus Cup egyik mérkőzése is lett volna, de azt mondtuk, hogy azt azért már mégsem. Fontosabb volt az akolitus avatás.)
+
+<!--break-->
 
 Szüleim itt voltak a hétvégén. Most először jártak Olaszországban. Mamám életében először repült. Egy röpke hétvégét töltöttek itt. Föl s alá, bejártuk Rómát. No, nem mindent de amennyit be lehet járni ennyi idő alatt. Egész nap gyalogoltunk. (Egyszer kiszámolnám, hogy egy ilyen városnézés alatt hány kilométert gyalogolunk.) Azt hiszem a római káosz ellenére tetszett nekik ami itt van. De erről inkább őket kellene megkérdezni. Ma (hétfőn) kora reggel már haza is mentek.  
 Igaz, hogy erről alig írok pár sort, pedig a hétvége második legfontosabb pontját jelentették ők. Sok-sok órát töltöttünk együtt. Megnéztük együtt a várost. (Jártunk olyan helyeken is, ahol még én sem jártam.) Bemutattam a szemináriumot is.

@@ -5,10 +5,10 @@ permalink:  /6327/
 date: 2016-01-25 06:26:09
 tags:  [ hivatás, magamról, hajó ] 
 image:  /files/images/Z81dBADqxaLhz-RDgp3ySxyAHt4W2Lks2SJq2usR8RcFcpjRPlop4Bqp7o1o_effr1rVZmJOvsASaIftraws4AnSDuV0EbJwJIbdwwsLn5wn86UTFM0jm7YzBmc6VbwUJq9cNNfCQQ=w818-h542-no 
-summary: "Szkúnerek, klipperek és más szépséges vitorlások állnak indulásra készen. De én csak topogok a mólón: melyikre szállhatok fel? Lennék én vitorlamester (sailing master, nem boatswain) és kapitányom keze alatt elhajóznék Indiáig."
-
 ---
 Szkúnerek, klipperek és más szépséges vitorlások állnak indulásra készen. De én csak topogok a mólón: melyikre szállhatok fel? Lennék én vitorlamester (sailing master, nem boatswain) és kapitányom keze alatt elhajóznék Indiáig.
+
+<!--break-->
 
 Hiszen megtanultam a folyón vitorlázni. Tihanynál már átkeltem a Balatonon. A bostoni öbölben körbevitorláztam három világítótornyot. Májusban pedig százéves szkúnerre fogok szállni és négy héten át igazgatni fogom a vitorlákat, főzni a kávét, és sikálni a fedélzetet.
 

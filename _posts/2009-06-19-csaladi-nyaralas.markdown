@@ -5,11 +5,10 @@ permalink:  /4866/
 date: 2009-06-19 00:24:24
 tags:  [ család ] 
 image:  /files/images/3639854640_4c49063635_o.jpg 
-summary: "<p>Talán már tíz éve, hogy a családom utoljára több napot töltött együtt. Most újra együtt az egész család.  
-"
-
 ---
 Talán már tíz éve, hogy a családom utoljára több napot töltött együtt. Most újra együtt az egész család.
+
+<!--break-->
 
 Karácsonyi ajándékként kapták tőlünk a szüleink, hogy elmegyünk együtt nyaralni. Legalább néhány napra. A karácsonyi ígéret szép volt, a megvalósításával voltak gondok, hiszen már tíz évvel ezelőtt is nehezen ment az időpont egyeztetés. Azóta három testvéremnek már családja van. Némi áldozatok árán mégis sikerült.
 

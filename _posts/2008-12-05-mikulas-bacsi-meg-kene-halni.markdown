@@ -4,13 +4,14 @@ title: "Mikulás bácsi! Meg kéne halni"
 permalink:  /4771/ 
 date: 2008-12-05 19:44:01
 tags:  [ kórház, életjel, Mikulás ] 
-summary: "Szent Miklós püspök, a Mikulás, senkit nem hagy magára. Megkeres mindenkit, beteget egészségeset egyaránt, hogy puttonyából elővegyen egy kis vidámságot és erőt, amivel ez az életet át lehet vészelni.
-
-"
 
 ---
   
-Egyedül imádkozott a sötét kápolnában amikor megjelent előtte a Mikulás. A Mikulás kedvesen megszólította, de ő nem értett belőle szinte semmit. Törve dadogta, hogy ő nem érteni sokat, ő olász. Kellett egy pillanat mire kapcsolt, és a vattaszakállú öregember megszólalt olaszul. Itt a kórházban senki sem érti a nyelvét. A kis öregnek most felcsillant a szeme. Ezért volt értelme három évig Olaszországban élnem. Mondta, hogy szép magyar feleségre talált, azért él itt. Magyarul nem sokat tud de a kórteremben sokat szoktak mókázni.
+Egyedül imádkozott a sötét kápolnában amikor megjelent előtte a Mikulás. A Mikulás kedvesen megszólította, de ő nem értett belőle szinte semmit. Törve dadogta, hogy ő nem érteni sokat, 
+
+<!--break-->
+
+ő olász. Kellett egy pillanat mire kapcsolt, és a vattaszakállú öregember megszólalt olaszul. Itt a kórházban senki sem érti a nyelvét. A kis öregnek most felcsillant a szeme. Ezért volt értelme három évig Olaszországban élnem. Mondta, hogy szép magyar feleségre talált, azért él itt. Magyarul nem sokat tud de a kórteremben sokat szoktak mókázni.
 
 Kopogtak. Az ügyelete műtős fiú legszívesebben elzavarta volna a kopogót. Este fél nyolc van, mindjárt menni kell műteni. Most meg ez is. 
 

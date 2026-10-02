@@ -4,11 +4,10 @@ title: "A nagy készületben"
 permalink:  /4673/ 
 date: 2008-01-29 07:15:43
 tags:  [ szentelés, szeminárium, életjel, sport, foci, fiducia ] 
-summary: "Minden bizonnyal az év legnehezebb hetébe kezdtünk bele. Ráadásul a hétvége már jól megalapozota a káoszt. Szombaton diakónuszentelés volt minálunk. Vasárnap Clericus Cup. Közben már pénteken megkezdődött a Fiducia kilencede. Pénteken jön vecsernyére a pápa. Szombatra meghívtuk mind az 1050 exalunnónkat. Egyébként pedig vizsgaidőszak van.  
-"
-
 ---
 Minden bizonnyal az év legnehezebb hetébe kezdtünk bele. Ráadásul a hétvége már jól megalapozota a káoszt. Szombaton diakónuszentelés volt minálunk. Vasárnap Clericus Cup. Közben már pénteken megkezdődött a Fiducia kilencede. Pénteken jön vecsernyére a pápa. Szombatra meghívtuk mind az 1050 exalunnónkat. Egyébként pedig vizsgaidőszak van.
+
+<!--break-->
 
 Szombaton két salernói diakónust szenteltek Rómának, itt a szemináriumban. Barátaik egy közösségből valók. Megtöltötték a kápolnánkat. Még a karzatra sem fértek fel. Kisgyerekek, fiatalok, felnőttek és öregek. Jó pár mozgássérült és szellemifogyatékos is volt köztük. Vagy húsz kisministráns erősítette a kispapságot. Öröm volt nézni ilyen társaságot.  
 Mi persze tudtuk, hogyan kell segíteni az embereket a szentmisén való hívő részvételre: mindent latinul énekeltünk. A hiszekegyet is hosszan-hosszan "gregoriánul". A Miatyánkot is latinul énekeltük. Nem vagyok se a latin, se a gregorián ellen. Sőt, ha jól csinálják, kifejezetten szeretem. De egy amúgy is hosszú szertartást ezzel is nyújtani, ráadásul amikor a hívő közösség nagyrésze feltehetően nem érti? Minek? Persze a hívők nyertek. Kiderült, hogy sok mindent tudnak. A gyerekek ugyan hamar elunták a latin dicsőséget, kimentek a folyosóra játszani. Érthető. Az viszont meglepett amikor azon kaptam két ovodáskorú gyereket, hogy a papájukkal fenhangon, vidáman rózsafűzért imádkoznak az áldozá alatt a folyosón. (Korábban ők is ott hancúroztak.)  

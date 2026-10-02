@@ -4,13 +4,12 @@ title: "Eretnek gondolatok a tanulásról"
 permalink:  /4724/ 
 date: 2008-05-30 20:15:00
 tags:  [ tanulás, tudomány ] 
-summary: "Néha vannak zavaros gondolataim erről-arról, amikkel még magam sem értek teljesen egyet. Most mégis megpróbálok egyről írni, hátha van valami értelme.
-
-"
 
 ---
   
-<em>Az elkövetkező gondolatokkal még én sem értek teljesen egyet. Több benne az önellentmondás és a kifejtendő részlet. De, ha csak arra figyelnék, hogy tökéletes legyen az érvelés, elvesznék az apróságokban. Ezért arra kérlek kedves olvasó, hogy ne a hibáit keresd a gondolataimnak, hanem próbáld felfedezni azt a valamit, ami talán igaz.</em>
+Az elkövetkező gondolatokkal még én sem értek teljesen egyet. Több benne az önellentmondás és a kifejtendő részlet. De, ha csak arra figyelnék, hogy tökéletes legyen az érvelés, elvesznék az apróságokban. Ezért arra kérlek kedves olvasó, hogy ne a hibáit keresd a gondolataimnak, hanem próbáld felfedezni azt a valamit, ami talán igaz.
+
+<!--berak-->
 
 Valami, valahol nem stimmel a tanulás, tanítás vagy inkább a tudományok körül.
 

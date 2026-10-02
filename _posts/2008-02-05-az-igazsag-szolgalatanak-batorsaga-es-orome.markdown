@@ -4,16 +4,14 @@ title: "Az igazság szolgálatának  bátorsága és öröme"
 permalink:  /4678/ 
 date: 2008-02-05 07:15:03
 tags:  [ fiducia, pápa ] 
-summary: " *L'Osservatore Romano-nak \"Il coraggio e la gioia di servire la veritá\" című cikke 2008. február 2-án. Szabad, kissé igénytelen, néhol magyartalan fordítás tőlem.* 
-
-Róma püspöke a szemináriumában  
-[...]A Pontificio Seminario Romano Maggiore-ban [magyarul: Pápai Római Nagyszeminárium] tett látogatás végén a Pápa ezt a beszédet rögtönözte:"
-
 ---
  *L'Osservatore Romano-nak "Il coraggio e la gioia di servire la veritá" című cikke 2008. február 2-án. Szabad, kissé igénytelen, néhol magyartalan fordítás tőlem.* 
 
 Róma püspöke a szemináriumában  
-[...]A Pontificio Seminario Romano Maggiore-ban [magyarul: Pápai Római Nagyszeminárium] tett látogatás végén a Pápa ezt a beszédet rögtönözte:  
+[...]A Pontificio Seminario Romano Maggiore-ban [magyarul: Pápai Római Nagyszeminárium] tett látogatás végén a Pápa ezt a beszédet rögtönözte:
+
+<!--break-->
+
 Szeretnék köszönetet mondani a szószólótoknak ezekért a szép szavakért, köszönetet mondani ezért a lehetőségért, hogy köztetek lehetek. Igazán otthon érzem magamat itt, ahol sok fiatal készül arra, hogy Krisztus hírvivője, evangelizálója legyen ebben a mi világunkban.  
 Ma, az esti zsolozsmában, különösen megérintett a zsoltár szava, ahol Izaiás hálát ad Istennek a szó adományáért, ami leszáll mint a gyapjú. És azt mondja: nem adtad meg ezt mindenki másnak, csak nekünk adtat meg ezt a kegyelmet, hogy ismerhetjük az akaratodat, a te terveidet.  
 Az izraeliták nem tehernek, egy a vállukat terhelő igának tekintették azt, hogy ismerik Isten parancsait, hanem mint nagy ajándéknak: a világ éjszakájában tudják ki Isten és merre menjenek, melyik az életnek az útja.  
