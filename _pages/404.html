@@ -1,0 +1,84 @@
+---
+layout: default
+title: Az oldal nem található
+permalink: /404.html
+sitemap: false
+---
+
+<style>
+  .notfound {
+    max-width: 640px;
+    margin: 2rem auto 3rem;
+    text-align: center;
+  }
+  .notfound-code {
+    margin: 1rem 0 0.5rem;
+    font-size: 6em;
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -2px;
+    color: #bbb;
+  }
+  .notfound-lead {
+    font-size: 1.25em;
+    margin-bottom: 0.5rem;
+  }
+  .notfound-note {
+    color: #777;
+    margin-bottom: 2rem;
+  }
+  .notfound-home {
+    display: inline-block;
+    padding: 0.5rem 1.5rem;
+    border: 1px solid #2a7ae2;
+    border-radius: 6px;
+    text-decoration: none;
+  }
+  .notfound-home:hover {
+    background: #2a7ae2;
+    color: #fff;
+    text-decoration: none;
+  }
+  .notfound h2 {
+    margin-top: 2.5rem;
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: #777;
+  }
+  .notfound-latest {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .notfound-latest li {
+    margin: 0.4rem 0;
+  }
+  .notfound-latest .post-meta {
+    margin-left: 0.4rem;
+  }
+</style>
+
+<div class="notfound">
+  <div class="notfound-code">404</div>
+  <p class="notfound-lead"><strong>Ez az oldal nem található.</strong></p>
+  <p class="notfound-note">
+    Lehet, hogy elköltözött, vagy sosem létezett. A honlap az évek során többször átalakult,
+    ezért néhány régi link már nem működik.
+  </p>
+
+  <a class="notfound-home" href="{{ '/' | relative_url }}">Vissza a főoldalra</a>
+
+  <h2>Legutóbbi bejegyzések</h2>
+  <ul class="notfound-latest">
+    {% for post in site.posts limit:5 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="post-meta">{{ post.date | datehun }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <h2>Címkék</h2>
+  {% include tagcloud.html %}
+</div>
