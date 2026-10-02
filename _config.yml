@@ -89,6 +89,7 @@ exclude:
     - migrate.php
     - deploy.sh
     - publish.sh
+    - scripts
     - migration_log.txt
 #   - Gemfile
 #   - Gemfile.lock

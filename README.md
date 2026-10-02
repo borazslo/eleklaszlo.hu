@@ -167,6 +167,18 @@ docker compose logs -f
 docker compose exec web sh
 ```
 
+## 🖼️ Képhivatkozások ellenőrzése
+
+A `scripts/check_images.rb` megnézi, hogy a `_posts` és `_pages` fájlokban hivatkozott helyi képek (`image:`, `gallery:`, `<img>`, markdown-kép, képre mutató link) tényleg léteznek-e, és jelzi a kis-/nagybetű eltéréseket is (Macen működnek, élesben nem).
+
+```bash
+ruby scripts/check_images.rb
+# vagy Dockerből
+docker compose run --rm web ruby scripts/check_images.rb
+```
+
+GitHubon minden pushra és pull requestre lefut (`.github/workflows/check-images.yml`); hiba esetén piros ✗-et ad, de a deployt nem állítja meg.
+
 ## 🔍 Hibaelhárítás
 
 ### Az oldal nem jelenik meg lokálisan
