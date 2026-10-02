@@ -6,6 +6,7 @@ on:
 
 jobs:
   check-images:
+    name: Helyi képek
     runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
@@ -18,3 +19,19 @@ jobs:
 
       - name: Check local image references
         run: ruby scripts/check_images.rb
+
+  check-external-images:
+    name: Külső képek
+    runs-on: ubuntu-22.04
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Check external image references
+        run: ruby scripts/check_external_images.rb

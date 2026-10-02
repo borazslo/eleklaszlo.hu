@@ -177,7 +177,14 @@ ruby scripts/check_images.rb
 docker compose run --rm web ruby scripts/check_images.rb
 ```
 
-GitHubon minden pushra és pull requestre lefut (`.github/workflows/check-images.yml`); hiba esetén piros ✗-et ad, de a deployt nem állítja meg.
+A `scripts/check_external_images.rb` összegyűjti a külső képeket (`image:`, `gallery:`, `<img>`, markdown-kép), és lekérdezi, hogy elérhetők-e. Minden külső kép figyelmeztetés (mert ideálisan minden kép helyi), az elérhetetlenek hibák.
+
+```bash
+ruby scripts/check_external_images.rb              # listáz és ellenőriz
+ruby scripts/check_external_images.rb --no-check   # csak listáz, hálózat nélkül
+```
+
+Mindkettő GitHubon minden pushra és pull requestre lefut (`.github/workflows/check-images.yml`, két külön job). Hiba esetén piros ✗-et ad, a külső, de elérhető képek sárga figyelmeztetésként jelennek meg. A deployt egyik sem állítja meg.
 
 ## 🔍 Hibaelhárítás
 
