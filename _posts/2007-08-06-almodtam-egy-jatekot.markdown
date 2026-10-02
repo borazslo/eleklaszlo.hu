@@ -4,11 +4,11 @@ title: "Álmodtam egy játékot"
 permalink:  /73/ 
 date: 2007-08-06 16:52:10
 tags:  [ álom, játék ] 
-summary: "Rendszeresen álmodom, de nem szoktam az álmomban új dolgokat kitalálni. Most így adódott. Van az a bizalom játék, amikor a párok egyik tagjának bekötik a szemét, és látó vezeti kézenfogva az erdőben a világtalant. A látó nem vezeti fának a világtalant. Ezt tuningoltam fel.  
-"
 
 ---
 Rendszeresen álmodom, de nem szoktam az álmomban új dolgokat kitalálni. Most így adódott. Van az a bizalom játék, amikor a párok egyik tagjának bekötik a szemét, és látó vezeti kézenfogva az erdőben a világtalant. A látó nem vezeti fának a világtalant. Ezt tuningoltam fel.
+
+<!--break-->
 
 Az álmomban ez volt az alapja. Vakond tábor volt. A Góbor is ott volt ő adta az ötletet, de olyan gyorsan kellett mindent csinálni, hogy ott még nem sikerült teljesen megvalósítani a játékot. Ott helyben - az álomban - elkezdtem fejleszteni a dolgot. Majd rögtön felébredtem, hogy leírhassam idejében, mielőtt elfelejteném. Még vannak homályos pontjai, ti is segíthettek.
 

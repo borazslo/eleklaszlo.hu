@@ -4,16 +4,12 @@ title: "2004 Lengyelország, 1. rész - Bp-H/S határ "
 permalink:  /437/ 
 date: 2004-10-19 10:00:00
 categories:  [ 2004 Lengyelország ] 
-summary: "Elindultam szép hazámból...
-
-Hétfő 4 óra 30 perc. Szobámat éktelen ricsaj zavarta meg. Az ébresztőm szólt. Felébredtem. Félig. Egy pillanatra nem tudtam, hogy hol vagyok, de lassan ki tisztult a kép. Már csak az nem volt világos, hogy minek is vállalkoztam ilyen hülyeségekre. De csak azért is elindulok.
-
-"
-
 ---
 Elindultam szép hazámból...
 
 Hétfő 4 óra 30 perc. Szobámat éktelen ricsaj zavarta meg. Az ébresztőm szólt. Felébredtem. Félig. Egy pillanatra nem tudtam, hogy hol vagyok, de lassan ki tisztult a kép. Már csak az nem volt világos, hogy minek is vállalkoztam ilyen hülyeségekre. De csak azért is elindulok.
+
+<!--break-->
 
 A hajnali BKV járatokon meglepően sokan vannak. Mindenki megy dolgozni. Furán néznek rám. Nem tudják mire vállalkozom. Én sem. 5 óra 55. Megérkeztem a Keletibe. Várom Imrét. Biztos ide ér? Addig megkeresem a vonatot. Az megvan. Egy csövi pénzt kér. „Nincs apróm.” felelte. Most tényleg igaz. Csak euróm, zlotyim, koronám van a farzsebemben. Imre is megjött. Pontosan hatra. Eddig még jó. Megkerestük a 4. vágányt, meg lett. A vonat is.
 

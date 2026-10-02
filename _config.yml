@@ -88,6 +88,7 @@ exclude:
     - eleklaszloDump.sql
     - migrate.php
     - deploy.sh
+    - publish.sh
     - migration_log.txt
 #   - Gemfile
 #   - Gemfile.lock

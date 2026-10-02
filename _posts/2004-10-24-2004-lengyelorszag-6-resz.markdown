@@ -5,12 +5,11 @@ permalink:  /442/
 date: 2004-10-24 10:00:00
 tags:  [ stoppolás ] 
 categories:  [ 2004 Lengyelország ] 
-summary: "Átléptük végre a szlovák-magyar határt is. Elmúlt éjfél. Azt hiszem.
-
-"
 
 ---
 Átléptük végre a szlovák-magyar határt is. Elmúlt éjfél. Azt hiszem.
+
+<!--break-->
 
 A már ismert úton - keresztül Tornyosnémetin - gyalogoltunk Hidasnémeti felé. A két falu között jártunk amikor autó hangja hallatszott. Egy pillanatra ismerősnek hangzott: Lada Niva => rendőr/határőr. De épp csak átvillant az agyamon. Szép lassan megérkezett mellénk. Mellettünk ját amikor láttuk, hogy határőrökről van szó. Hirtelen, csikorogva fékeztek. Visszatolattak. Már készítettük az útlevelünket. Kedves kiszóltak és megtárgyaltuk merre-meddig. Azt mondták, minden rendben, de csak a váróteremben alhatunk. No, jó. Persze nem vittek el odáig minket. Nekünk kellett odáig is elgyalogolni.
 

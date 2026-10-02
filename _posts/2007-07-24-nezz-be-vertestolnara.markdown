@@ -4,13 +4,12 @@ title: "Nézz be Vértestolnára!"
 permalink:  /25/ 
 date: 2007-07-24 15:42:10
 tags:  [ pap, falu, táborozás ] 
-summary: "Nem sikerült papot szerezni a Vizicikányok táborába, ezért felkerestük a helyi atyát, Markó Gyula verbitát. A kapcsolatunk annyira meglepett, hogy eldöntöttem megírom nektek, hogy s mint történt.  
-A regnumi Táborozók könyvében is olvashatunk arról, hogy milyen fontos találkoznia egy közösségnek más közösségekkel vagy egy helyi templommal, plébánossal. Nem előre tervezetten, de találkoztunk a faluval. Kaptunk autót, friss tejet, korházba szállítást, buszt. Hmm. Megérte.  
-"
 
 ---
 Nem sikerült papot szerezni a Vizicikányok táborába, ezért felkerestük a helyi atyát, Markó Gyula verbitát. A kapcsolatunk annyira meglepett, hogy eldöntöttem megírom nektek, hogy s mint történt.  
 A regnumi Táborozók könyvében is olvashatunk arról, hogy milyen fontos találkoznia egy közösségnek más közösségekkel vagy egy helyi templommal, plébánossal. Nem előre tervezetten, de találkoztunk a faluval. Kaptunk autót, friss tejet, korházba szállítást, buszt. Hmm. Megérte.
+
+<!--break-->
 
 A Vizicickányok most voltak negyedikesek. Vértestolna mellett lévő Bunschu-kúthoz mentünk. Én csak az utolsó napokra néztem le, vannak nekik rendes vezetőik is.  
 A szervezés közben - mikor kiderült, hogy a felkért ferences atya mágsem tud lejutni a táborba - megkerestük a legközelebbi papot. Némi keresgelés után az interneten megtaláltuk, hogy Vértestolnát Markó Gyula verbita atya látja el. Két éve volt aranymisés! Ez kicsit megijesztett minket, hiszen ha már 52 éve pap, nem valószínű, hogy szívesen sétálna ki kisgyerekekhez az erdőben. Felhívtuk, hogy mikor van a faluban vasárnap és hétköznap mise. Meglepődtünk. A hangjában vidámság és frissesség volt. Kérdezte mikor megyünk, hova megyünk. De jó, hogy megyünk. Kérte, hogy ha arra járunk kopogjunk be hozzá.

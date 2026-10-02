@@ -4,12 +4,11 @@ title: "2004 Lengyelország, 3. rész - határ-Sandomierz"
 permalink:  /439/ 
 date: 2004-10-21 10:00:00
 categories:  [ 2004 Lengyelország ] 
-summary: "Hajnali ötkor felkeltünk. Gyorsan kimásztunk a hálózsákból. Új nap, új lelkesedés, új lendület. Hamar megtört. Olyan volt az idő mint amikor lefeküdtünk: sűrű nyálkás köd volt. A napnak sem volt kedve egyelőre fel kelni.
-
-"
 
 ---
 Hajnali ötkor felkeltünk. Gyorsan kimásztunk a hálózsákból. Új nap, új lelkesedés, új lendület. Hamar megtört. Olyan volt az idő mint amikor lefeküdtünk: sűrű nyálkás köd volt. A napnak sem volt kedve egyelőre fel kelni.
+
+<!--break-->
 
 Az ortodox sekrestyés már megjött, de nem is szóltunk egymáshoz. (Mi csak a mellékajtóban „aludtunk”.) Reggeli és bármi egyéb nélkül gyorsan visszamentünk éjjeli büfénkhez. A büfé 4-kor bezárt. Fáztunk. A furgon még mindig ott állt a parkolóban. Halkan búgott a ventilátoruk. Õk jó melegben aludtak egész este. Újra stoppoltunk. Senki. Csak a gyárba jöttek egymás után az emberek. Egyszer egy busz is jött, de valahogy elmagyarázta, hogy nem megy a határ felé.
 

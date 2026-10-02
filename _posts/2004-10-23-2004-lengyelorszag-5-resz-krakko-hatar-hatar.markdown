@@ -4,12 +4,11 @@ title: "2004 Lengyelország, 5. rész - Krakkó-határ-határ"
 permalink:  /441/ 
 date: 2004-10-23 10:00:00
 categories:  [ 2004 Lengyelország ] 
-summary: "Csütörtök reggel lett. Még sötét volt amikor kissé bizonytalanul kiléptünk a folyosóra és elindultunk a misére. (Ilyenkor már a lengyelek elmélkedtek. A reggeli napirend azonos volt a sandomierzivel.) Leghátul kaptunk helyett. A mosolygós tolmácsunk látványa megnyugtatott. Lengyelül volt a mise. Nem sokat értettünk belőle, de pontosan ugyanúgy megy minden mint nálunk, így tudtuk mikor mi történik.
-
-"
 
 ---
 Csütörtök reggel lett. Még sötét volt amikor kissé bizonytalanul kiléptünk a folyosóra és elindultunk a misére. (Ilyenkor már a lengyelek elmélkedtek. A reggeli napirend azonos volt a sandomierzivel.) Leghátul kaptunk helyett. A mosolygós tolmácsunk látványa megnyugtatott. Lengyelül volt a mise. Nem sokat értettünk belőle, de pontosan ugyanúgy megy minden mint nálunk, így tudtuk mikor mi történik.
+
+<!--break-->
 
 Mise után reggeliztünk. Megint együtt láttuk a teljes csapatot. Nem olyan családias a hangulat mint nálunk. Nagyokat néztek amikor közöltük, hogy nálunk az egész házban annyi kispap van mint náluk egyetlen évfolyamban. (Krakkóban is két egyházmegye kispapjai vannak együtt.) Kellemes beszélgetés alakult ki köztünk angol nyelven. Egymást tolmácsolták. Sorra jöttek a szokásos kérdések, de erről nem ők tehetnek. Mi meg vidáman meséltünk és ettünk közben. (Elképesztő milyen sebességgel eszik meg a szokásos reggelijüket.) Tolmácsunk még megkérdezte, hogy maradunk-e ebédre, de jobbnak láttuk, ha nemet mondunk. (Bár, ha nagyon barátságosan invitáltak volna minket ebédre, akkor is haza akartunk volna érni. Állandó érvünk volt: el kell mennünk mert véget ér a szünetünk. Reggeli után felmentünk a szobánkba. Gyorsan összepakoltunk és indultunk haza. A portásnak meg akartuk mondani, hogy ha látja a prefektust és a rektort, akkor mondja meg nekik, hogy nagyon-nagyon köszönjük a szállást. A portás nem tudott angolul... Egy kispap segítségével elrendeződött a dolog. Felhívták a rektort nekünk, megmondták, hogy köszönjük és elmegyünk. (A „nagyon köszönöm” szöveget lengyelül is megértettem már ekkor.) Elhagytuk a szemináriumot.
 

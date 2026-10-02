@@ -4,14 +4,14 @@ title: "Romaba erkeztem"
 permalink:  /4516/ 
 date: 2007-09-17 21:20:19
 tags:  [  ] 
-summary: "Megjöttem hát Rómába. Elkezdődött ez az év is. Az ötödik.
-
-Örültem is, meg nem is. Kicsit vártam is már. Újra együtt lenni a bolond olaszokkal. rühügni velük a hülyeségeiken. No meg már kiváncsi voltam kikkel leszek egy csoportban, hol lesz a szobám, kivel mi történt a nyáron."
 
 ---
 Megjöttem hát Rómába. Elkezdődött ez az év is. Az ötödik.
 
-Örültem is, meg nem is. Kicsit vártam is már. Újra együtt lenni a bolond olaszokkal. rühügni velük a hülyeségeiken. No meg már kiváncsi voltam kikkel leszek egy csoportban, hol lesz a szobám, kivel mi történt a nyáron.  
+Örültem is, meg nem is. Kicsit vártam is már. Újra együtt lenni a bolond olaszokkal. rühügni velük a hülyeségeiken. No meg már kiváncsi voltam kikkel leszek egy csoportban, hol lesz a szobám, kivel mi történt a nyáron.
+
+<!--break-->
+
 16-án, vasárnap szálltam repülőre. 1 óra 20 perc alatt itt voltam. Több mint 26 fok várt. Otthon milyen szép koraőszi napsütés volt. A Fiumicino reptérttől lassan lehet hazaérni. A vonaton a szomszéd négyes székeken szlovákok ültek. Egyszer csak jött egy ember és próbálta belőlük kiszedni, hogy hogyan juthat el az Anagnina állomásra. Kiderült, hogy ő lengyel. A szlovákok a lengyellel egész jól elbeszélgették. Megértették egymást. Én nem szóltam semmit. Ám amikor egy helyen szálltunk le, a sietős lengyel kitalálta, hogy segít nekem vinni a táskámat. Ó, erre igazán nem számítottam. Ennek örömére megpróbáltunk komunikálni. Kissé nehezen ment. Annyit még tudok lengyelül, hogy hogyan kell azt mondani, hogy nem beszélek lengyelül. A fickó persze nem tudott olaszul. Beszélgetésünk kissé kézzel lábbal folyt. Megértettem, hogy hova akar menni. Toll és papír segítségével útba is igazítottam. A Terminiig együtt metróztunk, és beszélgettünk. Sikerült elmagyaráznom, hogy magyar diák vagyok és teológiát tanulok. Ő meg azt mesélte, hogy Oroszországban csecseneket szokott lődözni. Pontosabban arrafelé valami rendőrféle. Mutatott is valami hivatalos okiratot, ahol ott van katona ruhában. Érdekes találkozás volt.  
 A többség már szombaton visszatért a szemináriumba. Már vártak. Amikor beléptem a könyvtárba, ahol éppen gyűlt a nép, hogy meghallgassuk rektorunkat, akkor kitört a tapsvihar és éljenzés. Tudom, egy ilyen üdvrivalgást nem kell olyan komolyan venni, mintha magyarok csinálták volna, de azért jól esett. Sok vicces olasz. Akármennyire is bolondok, azért jó újra köztük. (Majd karácsonyra elegem lesz belőlük, de még nicnsen karácsony.) Rögtön megtudtam, hogy hova kerültem. Első éves folyosómra kerültem vissza, csak 3 szobával arrébb mint két éve. A dolog nagy hátránya, hogy megint nagyon sokat kellett cipekedni. Innen nem fogom látni a napfelkeltét, kilátásom nem mondható szépnek. Itt nincs saját fürdőm. Viszont csöndes. Közel van a kápolna, a számítógép terem, a titkárság, a fotóarchívum (és a vicerektor). Egész jó hely. A szobámmal együtt megkaptam a csoportomat. Kis 6 fős csoportom van. A (leendő) diakónus horvát, a többiek olaszok, de ketten közülük most jöttek Rómába. Az olaszok között is "jobb félék" hiszen az egyik szárd (Szardíniáról), a másik pedig egészen északról van. A csoport tagja a tavalyi "főtitkár" (mindjárt elmagyarázom ki ő), számítógépes ügyekben már összebarátkoztam vele. Nem tűnik rossznak a csoport. (Majd meglátjuk.)  
 Vasárnap reggel hirdették ki, hogy kinek milyen munka jut erre az évre. Ezen még nem voltam ott, de természetesen elmondták. Nem lepett meg különösöbben, hogy szemináriumi fotós lettem. Kaptam magam mellé egy olaszt, aki - úgy tudom - képzett fotós. A meglepetés akkor jött, amikor megtudtam, hogy titkár is lettem. Nem elégednek meg egy dologgal, mintha nem csináltam volna semmit tavaly.  

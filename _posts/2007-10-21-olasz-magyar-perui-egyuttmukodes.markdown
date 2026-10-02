@@ -4,15 +4,13 @@ title: "Olasz-magyar(-perui) együttműködés"
 permalink:  /4525/ 
 date: 2007-10-21 15:07:37
 tags:  [ életjel ] 
-summary: "Oscar Cabrera Bautista Ascension perui származású, Magyarországot megjárta, római egyházmegyés, újsmisés káplán. Jóban vagyunk. HosszúTávúTervezés jellemzi.   
-3 éves tervet dolgozott ki. Célja egy olasz, átlag 15 éves, kb. 20-25 fős csoport közösséggé formálása. A terv szerint az első év végén a csapat együtt táborozik majd egy magyar hasonló közösséggel. Második nyáron cserélnének: Olaszországban lenne a közös tábor. Harmadik évben pendig mindenkit elvinne Peruba.  
-Ehhez kell egy magyar közösség is. (Hajrá Regnum!)  
-"
 
 ---
 Oscar Cabrera Bautista Ascension perui származású, Magyarországot megjárta, római egyházmegyés, újsmisés káplán. Jóban vagyunk. HosszúTávúTervezés jellemzi.   
 3 éves tervet dolgozott ki. Célja egy olasz, átlag 15 éves, kb. 20-25 fős csoport közösséggé formálása. A terv szerint az első év végén a csapat együtt táborozik majd egy magyar hasonló közösséggel. Második nyáron cserélnének: Olaszországban lenne a közös tábor. Harmadik évben pendig mindenkit elvinne Peruba.  
 Ehhez kell egy magyar közösség is. (Hajrá Regnum!)
+
+<!--break-->
 
 Először tavaly szólt az ötletéről az egyik északába nyúló (1/2 1-ig tartott) beszélgetésünkkor. Sokat kérdezett a Regnumról. Mit, hogyan, miért. Eléggé oda van értünk. Budapest-Róma-Lima. Komolyan mondta, de megszoktam már, hogy Olaszországban semmit sem szabad túl komolyan venni.   
 Felszentelték tavasszal. Nyáron otthon volt Peruban. Szeptemberben visszajött és nekilátott kidolgozni a három éves tervét. (Komoly regnumi vonásokkal rendelkezik az a terv.) Megbeszélte a plébánosával, aki mindezt jóváhagyta. Szerzett maga mellé segítőket. Szerdán volt az első találkozója a csapatnak. (Itt Rómában minden jóval később kezdődik mint otthon. Még csak két hét szorgalmi időszakot tudhatok magam mögött.)

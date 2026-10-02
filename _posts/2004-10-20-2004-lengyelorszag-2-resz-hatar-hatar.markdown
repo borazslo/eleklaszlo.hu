@@ -4,12 +4,11 @@ title: "2004 Lengyelország, 2. rész - határ-határ"
 permalink:  /438/ 
 date: 2004-10-20 10:00:00
 categories:  [ 2004 Lengyelország ] 
-summary: "Átléptük a határt. Kezdő stopposok voltunk. Honnan kezdjük? Mennyünk előrébb, ez mégis csak határ. Ott a benzinkút, a mögé. Itt ez a remek nagy tábla, hogy errefelé mennyivel lehet menni. Ide álljunk. Oda álltunk. Ez ég felhős lett, és kemény hideg szél fújt. Táblámra felírtam, hogy „Kosice” és kisebbel „Kassa”, meg hogy „Polski” és kisebbel „Lengyelország”. Kicsit bizonytalanul kitettem a kezem.
-
-"
 
 ---
 Átléptük a határt. Kezdő stopposok voltunk. Honnan kezdjük? Mennyünk előrébb, ez mégis csak határ. Ott a benzinkút, a mögé. Itt ez a remek nagy tábla, hogy errefelé mennyivel lehet menni. Ide álljunk. Oda álltunk. Ez ég felhős lett, és kemény hideg szél fújt. Táblámra felírtam, hogy „Kosice” és kisebbel „Kassa”, meg hogy „Polski” és kisebbel „Lengyelország”. Kicsit bizonytalanul kitettem a kezem.
+
+<!--break-->
 
 Stoppoltam. Ilyet se tettem sokszor. De számítottam rá, hogy gyakran kell majd. Autó nem jött sok. De volt, hogy egyszerre 2 kamiont és egy személyautót is láttunk. Ez volt a legtöbb. Kiraktam egyre jobban fázó kezemet. De jó, hogy a tábla szélárnyékába meghúzódhattunk. A kabát, sapka, sál, kesztyű is jó ötlet volt. Stoppoltunk. Néha fáradtabban. Néha vidámabban. De nem álltak meg. Nem tudom mire számítottunk, de nem pontosan erre. Zumm. Brrr. Elment mindenki. Egyre bátrabban stoppoltam... Azért volt olyan aki intett, hogy ide megy a szomszédba. Az mindig lelkesített. Tudtam, hogyha messzebb megy akkor sem biztos, hogy felvenne. De akkor is bíztatott. Elég egy darab autó ami felvesz. Az idő telt. Fél óra. Egy óra. Másfél óra. Kettőig várunk, utána el kezdünk izgulni. Imre már elkezdett. Szótlan volt. Én stoppoltam. Stoppoltam. Lelkesedtem, vagy csüggedtem. „Uram, mit akarsz?” Vártam. És lőn... Csoda...
 
