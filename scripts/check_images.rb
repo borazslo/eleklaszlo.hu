@@ -4,29 +4,11 @@
 
 require_relative 'lib/image_refs'
 
-$children = {}
-def children(dir)
-  return $children[dir] if $children.key?(dir)
-  $children[dir] = File.directory?(dir) ? Dir.children(dir) : nil
-end
-
 # Visszatér: [:ok] | [:missing] | [:case, létező_útvonal]
 def check(parts)
-  dir = ImageRefs::ROOT
-  actual = []
-  mismatch = false
-  parts.each do |part|
-    entries = children(dir)
-    return [:missing] unless entries
-    exact = entries.find { |e| e.unicode_normalize(:nfc) == part }
-    found = exact || entries.find { |e| e.unicode_normalize(:nfc).casecmp?(part) }
-    return [:missing] unless found
-    mismatch ||= exact.nil?
-    actual << found
-    dir = File.join(dir, found)
-  end
-  return [:missing] unless File.file?(dir)
-  mismatch ? [:case, '/' + actual.join('/')] : [:ok]
+  status, fs, existing = ImageRefs.resolve(ImageRefs::ROOT, parts)
+  return [:missing] if status == :missing || !File.file?(fs)
+  status == :case ? [:case, existing] : [:ok]
 end
 
 files = ImageRefs.files

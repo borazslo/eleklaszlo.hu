@@ -1,4 +1,4 @@
-# Képhivatkozások összegyűjtése a _posts és _pages fájlokból.
+# Közös segédek a _posts és _pages fájlok hivatkozásainak ellenőrzéséhez.
 
 module ImageRefs
   ROOT = File.expand_path('../..', __dir__)
@@ -23,21 +23,27 @@ module ImageRefs
     end
   end
 
-  def collect(file)
+  # Visszatér: [teljes szöveg (LF sorvégekkel), a szövegtörzs kezdőpozíciója]
+  def read(file)
     text = File.binread(File.join(ROOT, file)).force_encoding('UTF-8').scrub.gsub(/\r\n?/, "\n")
-    refs = []
-    body_start = 0
+    close = text.start_with?("---\n") ? text.index(/^---[ \t]*$/, 4) : nil
+    [text, close || 0]
+  end
 
-    if text.start_with?("---\n")
-      close = text.index(/^---[ \t]*$/, 4)
-      if close
-        text[0...close].scan(/^([ \t]*(?:-[ \t]+)?)image:[ \t]*(.+?)[ \t]*$/) do
-          m = Regexp.last_match
-          value = m[2].sub(/\A(["'])(.*)\1\z/, '\2')
-          refs << Ref.new(file, line_at(text, m.begin(0)), m[1].empty? ? 'image:' : 'gallery', value, false)
-        end
-        body_start = close
-      end
+  def front_matter_value(text, body_start, key)
+    m = text[0...body_start].match(/^#{Regexp.escape(key)}:[ \t]*(.*?)[ \t]*$/)
+    return nil unless m
+    [m[1].sub(/\A(["'])(.*)\1\z/, '\2'), line_at(text, m.begin(0))]
+  end
+
+  def collect(file)
+    text, body_start = read(file)
+    refs = []
+
+    text[0...body_start].scan(/^([ \t]*(?:-[ \t]+)?)image:[ \t]*(.+?)[ \t]*$/) do
+      m = Regexp.last_match
+      value = m[2].sub(/\A(["'])(.*)\1\z/, '\2')
+      refs << Ref.new(file, line_at(text, m.begin(0)), m[1].empty? ? 'image:' : 'gallery', value, false)
     end
 
     body = text[body_start..-1]
@@ -60,20 +66,25 @@ module ImageRefs
     url.to_s.strip.gsub('&amp;', '&')
   end
 
+  # Útvonal szétbontása részekre: query/hash levágása, %XX dekódolás, . és .. feloldása.
+  def split_path(path)
+    p = path.split(/[?#]/, 2).first.to_s
+    p = p.gsub(/%([0-9A-Fa-f]{2})/) { Regexp.last_match(1).hex.chr }
+    p = p.force_encoding('UTF-8').scrub.unicode_normalize(:nfc)
+    parts = []
+    p.split('/').each do |part|
+      next if part.empty? || part == '.'
+      part == '..' ? parts.pop : parts << part
+    end
+    parts
+  end
+
   # Helyi hivatkozás esetén az útvonal részei, egyébként nil.
   def local_path(url)
     u = clean(url)
     return nil if u.empty? || u.start_with?('#', '//', '{{', '{%')
     return nil if u =~ /\A[a-z][a-z0-9+.\-]*:/i
-
-    u = u.split(/[?#]/, 2).first.to_s
-    u = u.gsub(/%([0-9A-Fa-f]{2})/) { Regexp.last_match(1).hex.chr }
-    u = u.force_encoding('UTF-8').scrub.unicode_normalize(:nfc)
-    parts = []
-    u.split('/').each do |part|
-      next if part.empty? || part == '.'
-      part == '..' ? parts.pop : parts << part
-    end
+    parts = split_path(u)
     parts.empty? ? nil : parts
   end
 
@@ -82,6 +93,31 @@ module ImageRefs
     u = clean(url)
     return 'https:' + u if u.start_with?('//')
     u =~ %r{\Ahttps?://}i ? u : nil
+  end
+
+  def children(dir)
+    @children ||= {}
+    return @children[dir] if @children.key?(dir)
+    @children[dir] = File.directory?(dir) ? Dir.children(dir) : nil
+  end
+
+  # Útvonal keresése a fájlrendszerben, pontos kis-/nagybetűvel.
+  # Visszatér: [:ok, fs_útvonal] | [:case, fs_útvonal, létező_url_útvonal] | [:missing]
+  def resolve(root, parts)
+    dir = root
+    actual = []
+    mismatch = false
+    parts.each do |part|
+      entries = children(dir)
+      return [:missing] unless entries
+      exact = entries.find { |e| e.unicode_normalize(:nfc) == part }
+      found = exact || entries.find { |e| e.unicode_normalize(:nfc).casecmp?(part) }
+      return [:missing] unless found
+      mismatch ||= exact.nil?
+      actual << found
+      dir = File.join(dir, found)
+    end
+    mismatch ? [:case, dir, '/' + actual.join('/')] : [:ok, dir]
   end
 
   def gh_escape(s)

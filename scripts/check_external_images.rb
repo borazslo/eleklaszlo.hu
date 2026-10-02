@@ -4,66 +4,20 @@
 #   --no-check  csak listáz, nem kérdezi le az URL-eket
 # Kilépési kód: 1, ha van elérhetetlen kép; a pusztán külső (de elérhető) képek csak figyelmeztetések.
 
-require 'net/http'
-require 'uri'
-require 'openssl'
 require_relative 'lib/image_refs'
+require_relative 'lib/http_probe'
 
 CHECK = !ARGV.include?('--no-check')
-THREADS = 8
-MAX_REDIRECTS = 5
-HEADERS = {
-  'User-Agent' => 'Mozilla/5.0 (compatible; eleklaszlo.hu image check)',
-  'Accept' => 'image/*,*/*;q=0.8'
-}.freeze
-
-def encode(url)
-  url.gsub(/[^\x21-\x7e]/) { |c| c.bytes.map { |b| format('%%%02X', b) }.join }
-end
-
-def request(uri, method)
-  http = Net::HTTP.new(uri.host, uri.port)
-  http.use_ssl = uri.scheme == 'https'
-  http.open_timeout = 8
-  http.read_timeout = 15
-  req = method == :head ? Net::HTTP::Head.new(uri.request_uri, HEADERS) : Net::HTTP::Get.new(uri.request_uri, HEADERS.merge('Range' => 'bytes=0-1023'))
-  http.start { |h| h.request(req) }
-end
 
 # Visszatér: [:ok, leírás] | [:broken, ok]
-# HEAD-del kezd; ha az nem sikeres, GET-tel (Range: első 1 KB) próbálja újra.
-def probe(url)
-  uri = URI.parse(encode(url))
-  method = :head
-  MAX_REDIRECTS.times do
-    res = request(uri, method)
-    if res.is_a?(Net::HTTPRedirection) && res['location']
-      uri = URI.join(uri.to_s, encode(res['location']))
-      next
-    end
-    if !res.is_a?(Net::HTTPSuccess) && method == :head
-      method = :get
-      redo
-    end
-    return [:broken, "HTTP #{res.code}"] unless res.is_a?(Net::HTTPSuccess)
-
-    type = res['content-type'].to_s.split(';').first.to_s.strip.downcase
-    if !type.empty? && !type.start_with?('image/') && type != 'application/octet-stream'
-      return [:broken, "nem kép (#{type})"]
-    end
-    return [:ok, "HTTP #{res.code}#{type.empty? ? '' : ", #{type}"}"]
+def classify(result)
+  return [:broken, result[1]] if result.first == :error
+  _, code, type = result
+  return [:broken, "HTTP #{code}"] unless (200..299).cover?(code)
+  if !type.empty? && !type.start_with?('image/') && type != 'application/octet-stream'
+    return [:broken, "nem kép (#{type})"]
   end
-  [:broken, 'túl sok átirányítás']
-rescue Net::OpenTimeout, Net::ReadTimeout
-  [:broken, 'időtúllépés']
-rescue SocketError, Errno::ECONNREFUSED, Errno::EHOSTUNREACH, Errno::ECONNRESET => e
-  [:broken, "kapcsolódási hiba (#{e.class.name.split('::').last})"]
-rescue OpenSSL::SSL::SSLError
-  [:broken, 'SSL-hiba']
-rescue URI::Error, ArgumentError
-  [:broken, 'érvénytelen URL']
-rescue StandardError => e
-  [:broken, "hiba (#{e.class})"]
+  [:ok, "HTTP #{code}#{type.empty? ? '' : ", #{type}"}"]
 end
 
 started = Time.now
@@ -75,25 +29,7 @@ refs = files.flat_map { |f| ImageRefs.collect(f) }
 by_url = Hash.new { |h, k| h[k] = [] }
 refs.each { |r, url| by_url[url] << r }
 
-results = {}
-if CHECK
-  queue = Queue.new
-  by_url.keys.each { |u| queue << u }
-  lock = Mutex.new
-  Array.new(THREADS) do
-    Thread.new do
-      loop do
-        url = begin
-          queue.pop(true)
-        rescue ThreadError
-          break
-        end
-        result = probe(url)
-        lock.synchronize { results[url] = result }
-      end
-    end
-  end.each(&:join)
-end
+results = CHECK ? HttpProbe.probe_all(by_url.keys).transform_values { |r| classify(r) } : {}
 
 broken = by_url.keys.select { |u| results[u]&.first == :broken }.sort
 reachable = (by_url.keys - broken).sort

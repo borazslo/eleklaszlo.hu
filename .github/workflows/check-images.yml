@@ -1,37 +1,63 @@
-name: Képhivatkozások ellenőrzése
+name: Tartalomellenőrzés
 
 on:
   push:
   pull_request:
 
 jobs:
+  check-permalinks:
+    name: Permalinkek
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+      - run: ruby scripts/check_permalinks.rb
+
   check-images:
     name: Helyi képek
     runs-on: ubuntu-22.04
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@v5
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
-
-      - name: Check local image references
-        run: ruby scripts/check_images.rb
+      - run: ruby scripts/check_images.rb
 
   check-external-images:
     name: Külső képek
     runs-on: ubuntu-22.04
     timeout-minutes: 20
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v5
-
-      - name: Set up Ruby
-        uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@v5
+      - uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
+      - run: ruby scripts/check_external_images.rb
 
-      - name: Check external image references
-        run: ruby scripts/check_external_images.rb
+  check-internal-links:
+    name: Belső linkek
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v5
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+      - run: ruby scripts/check_internal_links.rb
+
+  check-external-links:
+    name: Külső linkek
+    runs-on: ubuntu-22.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v5
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+      - run: ruby scripts/check_external_links.rb

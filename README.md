@@ -167,7 +167,21 @@ docker compose logs -f
 docker compose exec web sh
 ```
 
-## 🖼️ Képhivatkozások ellenőrzése
+## ✅ Tartalomellenőrzés
+
+A `scripts/` mappában lévő ellenőrzők GitHubon minden pushra és pull requestre lefutnak (`.github/workflows/check-images.yml`, ellenőrzésenként külön job). Hiba esetén piros ✗-et adnak, a figyelmeztetések sárga annotációként jelennek meg. A deployt egyik sem állítja meg. Lokálisan bármelyik futtatható `ruby scripts/<név>.rb` paranccsal, vagy Dockerből: `docker compose run --rm web ruby scripts/<név>.rb`.
+
+| Szkript | Mit néz | Hiba (✗) | Figyelmeztetés |
+|---|---|---|---|
+| `check_permalinks.rb` | `permalink:` a `_posts`/`_pages` fájlokban | duplikált permalink | – |
+| `check_images.rb` | helyi képek | hiányzó fájl, kis-/nagybetű eltérés | – |
+| `check_external_images.rb` | külső képek | elérhetetlen kép | minden külső kép |
+| `check_internal_links.rb` | belső linkek a lefordított `_site`-ban | nem létező cél, kis-/nagybetű eltérés | – |
+| `check_external_links.rb` | külső linkek | 404, 5xx, DNS-/SSL-hiba, időtúllépés | 401/403/429/520/999, átirányítás-hurok |
+
+A belső linkekhez lefordított oldal kell: ha fut a `docker compose up`, a `_site` friss, egyébként `ruby scripts/check_internal_links.rb --build`. A külső ellenőrzőknek van `--no-check` kapcsolója (csak listáz, hálózat nélkül), a permalink-ellenőrzőnek `--list` (kiírja az összes permalinket).
+
+### Képhivatkozások
 
 A `scripts/check_images.rb` megnézi, hogy a `_posts` és `_pages` fájlokban hivatkozott helyi képek (`image:`, `gallery:`, `<img>`, markdown-kép, képre mutató link) tényleg léteznek-e, és jelzi a kis-/nagybetű eltéréseket is (Macen működnek, élesben nem).
 
@@ -183,8 +197,6 @@ A `scripts/check_external_images.rb` összegyűjti a külső képeket (`image:`,
 ruby scripts/check_external_images.rb              # listáz és ellenőriz
 ruby scripts/check_external_images.rb --no-check   # csak listáz, hálózat nélkül
 ```
-
-Mindkettő GitHubon minden pushra és pull requestre lefut (`.github/workflows/check-images.yml`, két külön job). Hiba esetén piros ✗-et ad, a külső, de elérhető képek sárga figyelmeztetésként jelennek meg. A deployt egyik sem állítja meg.
 
 ## 🔍 Hibaelhárítás
 
