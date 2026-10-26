@@ -15,8 +15,6 @@ image:  /files/images/flickr_2989891620.jpg
  s láttam, a törvény szövedéke  
  mindíg fölfeslik valahol.
 
-
-
 <!--break-->
 
-<p style="text-align: center; ">[flickr-photo:id=2989892716]</p><p style="text-align: center; ">József Attila: <a href="http://magyar-irodalom.elte.hu/sulinet/igyjo/setup/portrek/jozsefa/eszmelet.htm">Eszmélet</a>&nbsp;<span >–</span>&nbsp;Kőris rétegtábor, 2006 július 19.</p>
+József Attila: [Eszmélet](http://magyar-irodalom.elte.hu/sulinet/igyjo/setup/portrek/jozsefa/eszmelet.htm) – Kőris rétegtábor, 2006 július 19.
