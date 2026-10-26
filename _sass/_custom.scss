@@ -1,0 +1,125 @@
+// Custom homepage styles — additions and overrides
+
+// 1. Post teaser container and image sizing
+.post-teaser {
+  margin-bottom: $spacing-unit;
+  padding-bottom: $spacing-unit / 2;
+  border-bottom: 1px solid $grey-color-light;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.post-teaser .image {
+  margin: $spacing-unit / 2 0;
+  overflow: hidden;
+  border-radius: 8px;
+
+  img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+
+  @include media-query($on-palm) {
+    img {
+      aspect-ratio: 4 / 3;
+    }
+  }
+}
+
+// 2. Post teaser title — use h2 instead of h1
+.post-teaser h2 {
+  margin-bottom: 0.5rem;
+  font-size: $base-font-size * 1.5;
+  font-weight: 500;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $brand-color;
+      text-decoration: underline;
+    }
+  }
+}
+
+// 3. Post metadata (date, tags) — less top margin
+.post-teaser .author {
+  font-size: $small-font-size;
+  color: $grey-color;
+  margin: 0.5rem 0 1rem 0 !important;
+
+  a {
+    color: $brand-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+// 4. Tag chips
+.tag-chip {
+  display: inline-block;
+  background-color: $grey-color-light;
+  color: $text-color;
+  padding: 6px 12px;
+  border-radius: 20px;
+  margin: 0 4px 4px 0;
+  font-size: $small-font-size;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: all 200ms ease;
+
+  &:hover {
+    background-color: $brand-color;
+    color: white;
+    text-decoration: none;
+  }
+}
+
+.tagcloud {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: $spacing-unit * 2 0;
+}
+
+// 5. Pagination
+.pagination {
+  text-align: center;
+  margin: $spacing-unit * 2 0;
+
+  a,
+  span {
+    padding: 8px 16px;
+    border: 1px solid $grey-color-light;
+    margin: 0 2px;
+    background-color: #ffffff;
+    display: inline-block;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+
+  a {
+    color: $brand-color;
+
+    &:hover {
+      background-color: #f1f1f1;
+      color: $text-color;
+    }
+  }
+
+  span.page_number {
+    color: $grey-color;
+  }
+}

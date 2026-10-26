@@ -46,6 +46,10 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-archives
 
+sass:
+  quiet_deps: true
+  silence_deprecations: [color-functions, global-builtin, import]
+
 
 #https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#page-configuration
 pagination:

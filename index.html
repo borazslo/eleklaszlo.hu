@@ -21,38 +21,15 @@ pagination:
   {% else %}
     <!-- <span class="previous">Previous</span> -->
   {% endif %}
-  <span class="page_number ">
+  <span class="page_number">
     {{ paginator.page }} / {{ paginator.total_pages }}
   </span>
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Következő</a>
   {% else %}
-    <!-- <span class="next ">Következő</span> -->
+    <!-- <span class="next">Következő</span> -->
   {% endif %}
 </div>
-<!-- -->
-
-<style>
-.pagination a, .pagination span {
-    padding: 7px 18px;
-    border: 1px solid #eee;
-    margin-left: -2px;
-    margin-right: -2px;
-    background-color: #ffffff;
-    display: inline-block;
-  }
-
-.pagination a {    
-    &:hover {
-        background-color: #f1f1f1;
-        color: #333;
-    }
- }
-
-.pagination {
-    text-align: center;
- }
- </style>
 
 
 <br/><hr></hr>
