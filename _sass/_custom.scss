@@ -2,8 +2,8 @@
 
 // 1. Post teaser container and image sizing
 .post-teaser {
-  margin-bottom: $spacing-unit;
-  padding-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.75;
+  padding-bottom: $spacing-unit * 0.5;
   border-bottom: 1px solid $grey-color-light;
 
   &:last-child {
@@ -11,8 +11,15 @@
   }
 }
 
+// The teaser's last block (usually the excerpt paragraph) carries its own
+// margin-bottom from minima's base styles — left alone, it stacks with the
+// padding-bottom above, leaving an oddly large gap before the separator line.
+.post-teaser .content > *:last-child {
+  margin-bottom: 0;
+}
+
 .post-teaser .image {
-  margin: $spacing-unit / 2 0;
+  margin: $spacing-unit * 0.4 0;
   overflow: hidden;
   border-radius: 8px;
 
@@ -53,7 +60,7 @@
 .post-teaser .author {
   font-size: $small-font-size;
   color: $grey-color;
-  margin: 0.5rem 0 1rem 0 !important;
+  margin: 0.5rem 0 0.75rem 0 !important;
 
   a {
     color: $brand-color;
@@ -96,30 +103,210 @@
 
 // 5. Pagination
 .pagination {
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 6px;
+  flex-wrap: wrap;
   margin: $spacing-unit * 2 0;
 
-  a,
-  span {
+  > a {
     padding: 8px 16px;
     border: 1px solid $grey-color-light;
-    margin: 0 2px;
     background-color: #ffffff;
-    display: inline-block;
-    border-radius: 4px;
+    border-radius: 20px;
     text-decoration: none;
-  }
-
-  a {
     color: $brand-color;
+    white-space: nowrap;
 
     &:hover {
-      background-color: #f1f1f1;
+      background-color: $grey-color-light;
       color: $text-color;
     }
   }
+}
 
-  span.page_number {
+// Page-jump: a <details> dropdown styled like a tag chip, opening a
+// scrollable, chip-styled list of every page with its date range.
+.page-jump {
+  position: relative;
+
+  summary {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    border: 1px solid $grey-color-light;
+    background-color: $grey-color-light;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: $small-font-size;
+    color: $text-color;
+    white-space: nowrap;
+    list-style: none;
+    transition: border-color 150ms ease;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::after {
+      content: "";
+      width: 6px;
+      height: 6px;
+      margin-top: -3px;
+      border-right: 1.5px solid $grey-color-dark;
+      border-bottom: 1.5px solid $grey-color-dark;
+      transform: rotate(45deg);
+      transition: transform 150ms ease;
+    }
+
+    &:hover {
+      border-color: $grey-color-dark;
+    }
+
+    .num {
+      font-weight: 600;
+    }
+
+    .range {
+      color: $grey-color;
+    }
+  }
+
+  &[open] > summary {
+    border-color: $brand-color;
+
+    &::after {
+      margin-top: 3px;
+      transform: rotate(-135deg);
+    }
+  }
+}
+
+.page-jump-panel {
+  position: absolute;
+  z-index: 10;
+  top: calc(100% + 8px);
+  left: 50%;
+  transform: translateX(-50%);
+  width: max-content;
+  min-width: 240px;
+  max-width: 90vw;
+  max-height: 320px;
+  overflow-y: auto;
+  padding: 6px;
+  background-color: #ffffff;
+  border: 1px solid $grey-color-light;
+  border-radius: 14px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
+  text-align: left;
+}
+
+.page-jump-item {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 7px 12px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: $small-font-size;
+  white-space: nowrap;
+
+  .num {
+    min-width: 44px;
+    font-weight: 600;
+    color: $brand-color;
+  }
+
+  .range {
     color: $grey-color;
   }
+
+  &:hover {
+    background-color: $grey-color-light;
+  }
+
+  &.current {
+    background-color: $brand-color;
+
+    .num,
+    .range {
+      color: #ffffff;
+    }
+  }
+}
+
+// 6. Full archive page
+.year-jump {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  margin: $spacing-unit 0 $spacing-unit * 2;
+
+  .tag-chip {
+    padding: 4px 10px;
+  }
+}
+
+.archive-list {
+  list-style: none;
+  margin: 0 0 $spacing-unit;
+  padding: 0;
+
+  li {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    gap: 8px;
+    padding: 4px 0;
+    border-bottom: 1px solid $grey-color-light;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+
+  > li > a {
+    color: $text-color;
+    text-decoration: none;
+    flex: 1 1 auto;
+    min-width: 0; // allow the title to shrink and wrap onto a new line on narrow screens
+
+    &:hover {
+      color: $brand-color;
+      text-decoration: underline;
+    }
+  }
+
+  .archive-tags {
+    flex: 0 1 auto;
+    min-width: 0;
+    max-width: 70px; // hard cap — tags only ever get a small peek, title gets the rest of the room
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; // tags never push onto their own line — they get truncated instead
+    font-size: $small-font-size;
+    color: $grey-color;
+
+    a {
+      color: $brand-color;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  .archive-date {
+    color: $grey-color;
+    font-size: $small-font-size;
+    flex-shrink: 0;
+  }
+}
+
+.archive-link {
+  text-align: center;
 }

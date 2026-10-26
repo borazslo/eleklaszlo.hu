@@ -21,9 +21,44 @@ pagination:
   {% else %}
     <!-- <span class="previous">Previous</span> -->
   {% endif %}
-  <span class="page_number">
-    {{ paginator.page }} / {{ paginator.total_pages }}
-  </span>
+
+  {% assign per_page = site.pagination.per_page %}
+  {% assign all_posts = site.posts %}
+  {% assign last_idx = all_posts.size | minus: 1 %}
+
+  {% assign cur_start = paginator.page | minus: 1 | times: per_page %}
+  {% assign cur_end = cur_start | plus: per_page | minus: 1 %}
+  {% if cur_end > last_idx %}{% assign cur_end = last_idx %}{% endif %}
+  {% assign cur_from = all_posts[cur_end].date | datehunmonth %}
+  {% assign cur_to = all_posts[cur_start].date | datehunmonth %}
+
+  <details class="page-jump">
+    <summary>
+      <span class="num">{{ paginator.page }}/{{ paginator.total_pages }}</span>
+      <span class="range">{% if cur_from == cur_to %}{{ cur_from }}{% else %}{{ cur_from }} – {{ cur_to }}{% endif %}</span>
+    </summary>
+    <div class="page-jump-panel">
+      {% for i in (1..paginator.total_pages) %}
+        {% assign start_idx = i | minus: 1 | times: per_page %}
+        {% assign end_idx = start_idx | plus: per_page | minus: 1 %}
+        {% if end_idx > last_idx %}{% assign end_idx = last_idx %}{% endif %}
+        {% assign newer_post = all_posts[start_idx] %}
+        {% assign older_post = all_posts[end_idx] %}
+        {% assign label_from = older_post.date | datehunmonth %}
+        {% assign label_to = newer_post.date | datehunmonth %}
+        {% if i == 1 %}
+          {% assign path = "/" %}
+        {% else %}
+          {% assign path = "/oldal/" | append: i | append: "/" %}
+        {% endif %}
+        <a href="{{ path | relative_url }}" class="page-jump-item{% if i == paginator.page %} current{% endif %}">
+          <span class="num">{{ i }}/{{ paginator.total_pages }}</span>
+          <span class="range">{% if label_from == label_to %}{{ label_from }}{% else %}{{ label_from }} – {{ label_to }}{% endif %}</span>
+        </a>
+      {% endfor %}
+    </div>
+  </details>
+
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path }}" class="next">Következő</a>
   {% else %}
@@ -31,6 +66,24 @@ pagination:
   {% endif %}
 </div>
 
+<script>
+  // Scroll the current page into view when the jump panel opens, and close it on an outside click.
+  document.querySelectorAll('.page-jump').forEach(function (details) {
+    details.addEventListener('toggle', function () {
+      if (details.open) {
+        var current = details.querySelector('.current');
+        if (current) current.scrollIntoView({ block: 'center' });
+      }
+    });
+    document.addEventListener('click', function (e) {
+      if (details.open && !details.contains(e.target)) details.open = false;
+    });
+  });
+</script>
+
+<br/><hr></hr>
+
+<p class="archive-link"><a href="{{ "/archivum/" | relative_url }}" class="tag-chip">Teljes archívum →</a></p>
 
 <br/><hr></hr>
 
