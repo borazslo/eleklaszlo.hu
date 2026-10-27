@@ -17,5 +17,7 @@ Egy évvel korábban is voltak vadkanok, mikor a Király-réten (Pilis) táboroz
 
 Amikor pedig misére mentünk Pilisszentkeresztre, akkor az egyik kanyarban furcsa bűzt éreztünk. Egy vadkan maradéka rohadt az árokban. Visszafelé is megnéztük miközben énekelve meneteltünk a szakadó esőben.
 
+(Történt 1993-1994 körül.)
+
 &nbsp;
 
