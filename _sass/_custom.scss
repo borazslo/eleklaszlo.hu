@@ -296,6 +296,13 @@
     }
   }
 
+  .archive-image-icon {
+    flex-shrink: 0;
+    width: 14px;
+    display: inline-flex;
+    color: $grey-color;
+  }
+
   .archive-tags {
     flex: 0 1 auto;
     min-width: 0;

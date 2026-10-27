@@ -18,6 +18,11 @@ published: true
   <ul class="archive-list">
     {% for post in year.items %}
       <li>
+        <span class="archive-image-icon">
+          {% if post.image %}
+            <svg viewBox="0 0 24 24" width="14" height="14" aria-hidden="true" focusable="false"><path fill="currentColor" d="M5 4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H5Zm0 2h14v8.17l-3.1-3.1a1 1 0 0 0-1.4 0L11 14.59l-2.09-2.1a1 1 0 0 0-1.42 0L5 14.9V6Zm3.5 3a1.5 1.5 0 1 1 0-3 1.5 1.5 0 0 1 0 3Z"/></svg>
+          {% endif %}
+        </span>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         {% if post.tags.size > 0 %}
           <span class="archive-tags">
