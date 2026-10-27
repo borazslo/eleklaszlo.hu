@@ -98,7 +98,23 @@
   flex-wrap: wrap;
   justify-content: center;
   gap: 8px;
-  margin: $spacing-unit * 2 0;
+  margin: 0;
+}
+
+.tag-count {
+  font-size: 0.85em;
+  opacity: 0.65;
+  margin-left: 2px;
+}
+
+.tag-chip-featured {
+  background-color: $brand-color;
+  color: #ffffff;
+  font-weight: 600;
+
+  &:hover {
+    background-color: $text-color;
+  }
 }
 
 // 5. Pagination
