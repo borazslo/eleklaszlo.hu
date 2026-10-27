@@ -3,7 +3,7 @@ layout: post
 title: "Ötödéves lettem"
 permalink:  /4522/ 
 date: 2007-10-10 12:23:38
-tags:  [ szeminárium, életjel ] 
+tags:  [ szeminárium, hivatás, kispap, életjel ]
 
 ---
 Mint már említettem, ötödéves lettem. A hatéves képzés ötödik évét taposom. Furcsa, nagyon furcsa. Egyrészt mert nagyon gyorsan telt el ez az öt év (legalábbis visszafele nézve). 

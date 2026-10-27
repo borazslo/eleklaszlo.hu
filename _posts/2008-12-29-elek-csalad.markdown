@@ -3,7 +3,7 @@ layout: post
 title: "Elek család"
 permalink:  /4783/ 
 date: 2008-12-29 20:01:19
-tags:  [ család, karácsony ] 
+tags:  [ család, karácsony, életjel, öröm ]
 image:  /files/images/DSC_3969.jpg 
 ---
 December 26-án végre újra együtt volt az egész család. Papa, mama, hat testvér, férjek és egy feleség, valamint három plusz egy kis gyerek.

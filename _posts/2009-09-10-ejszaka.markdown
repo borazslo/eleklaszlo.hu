@@ -3,7 +3,7 @@ layout: post
 title: "Éjszaka"
 permalink:  /4884/ 
 date: 2009-09-10 01:30:37
-tags:  [ éjszaka, emlék ] 
+tags:  [ emlék, zene, gondolat ]
 image:  /files/images/flickr_2922592488.jpg 
 ---
 Akkor is ugyan ilyen éjjel volt. Már jól esően hűvös volt. A Holdat el-eltakarta egy-egy felhő. Csak akkor nem ismertük az utat.

@@ -3,7 +3,8 @@ layout: post
 title: "2003 Erdély, 5. nap - Naskalat"
 permalink:  /429/ 
 date: 2003-08-08 10:00:00
-categories:  [ 2003 Erdély ] 
+categories:  [ 2003 Erdély ]
+tags:  [ kirándulás, Erdély, eső ]
 image:  /files/images/flickr_2922604732.jpg 
 ---
 András bácsi még figyelmeztetett, hogy a Naskalaton hamisak a kutyák.

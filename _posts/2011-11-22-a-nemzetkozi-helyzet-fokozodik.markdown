@@ -3,7 +3,7 @@ layout: post
 title: "A nemzetközi helyzet fokozódik"
 permalink:  /5350/ 
 date: 2011-11-22 22:22:05
-tags:  [ jezsuita ] 
+tags:  [ jezsuita, Erdély, mise, egyház ]
 image:  /files/images/DSC_0804.jpg 
 ---
 A <a href="http://jezsuita.blog.hu/api/trackback/id/3353134  ">pozsonyi szlovák jezsuiták után</a> meglátogattuk Szatmárnémetiben a román jezsuitákat is. Itt is előkaptuk minden nyelvtudásunkat, így gabalyodott össze francia, spanyol, olasz, román és magyar szó. Végül a magyarok mondták, hogy <em>mulţumesc</em>, amire a románok felelték, hogy <em>szívesen</em>.

@@ -3,7 +3,7 @@ layout: post
 title: "Zene"
 permalink:  /5566/ 
 date: 2012-01-29 09:15:54
-tags:  [ zene, hivatás ] 
+tags:  [ zene, hivatás, gondolat ]
 image-error:  http://a1.sphotos.ak.fbcdn.net/hphotos-ak-ash4/310594_1981490636476_1819502454_1327209_1281883922_n.jpg 
 ---
 Zene. Gitáros zenekarban. Zene diák kamara együttessel. Zene. Duettek zenetanárral.

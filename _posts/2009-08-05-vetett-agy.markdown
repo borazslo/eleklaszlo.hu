@@ -3,7 +3,8 @@ layout: post
 title: "Vetett ágy"
 permalink:  /6071/ 
 date: 2009-08-05 10:00:00
-categories:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ]
+tags:  [ zarándoklat, kirándulás, kerékpár, mise ]
 ---
 Nové Zámky után tovább romlott a helyzet. A végtelen síkságot ugyan sűrűbben szakította meg egy-egy falu, cserébe viszont felerősödött a szél, fekete fellegek gyülekeztek és a lábam is belefáradt a munkába. Végül mégis messzire jutottam és ágyban alszom.
 

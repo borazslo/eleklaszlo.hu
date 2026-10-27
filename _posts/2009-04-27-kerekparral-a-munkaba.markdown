@@ -3,7 +3,7 @@ layout: post
 title: "Kerékpárral a munkába"
 permalink:  /4837/ 
 date: 2009-04-27 19:45:44
-tags:  [ életjel, kerékpár ] 
+tags:  [ kerékpár, életjel, Budapest, BKV ]
 image:  /files/images/flickr_3456459330.jpg 
 ---
 Korábban <a href="/4792">már írtam</a>&nbsp;a próbálkozásról, hogy a munkába kerékpárral járjak. Akkor elég gyorsan befulladt. De életem első <a href="http://www.criticalmass.hu">Critical Mass</a>-ja után újabb lendületet és társat kaptam az akcióhoz.

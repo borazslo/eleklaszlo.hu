@@ -3,7 +3,7 @@ layout: post
 title: "Csillog-e a szemedben az életöröm? – Beszélgetés Elek László jezsuita szerzetessel"
 permalink:  /7033/
 date: 2025-05-01 19:40:00
-tags:  [ másutt, Magyar Kurír ]
+tags:  [ másutt, lelkigyakorlat, Magyar Kurír, iskola, hivatás ]
 image:  /files/images/2025-05-01-csillog-e-szemedben-az-eletorom/img1.jpg
 
 ---

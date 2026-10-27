@@ -3,7 +3,7 @@ layout: post
 title: "Rorate reform"
 permalink:  /6014/ 
 date: 2013-12-07 22:36:47
-tags:  [ jezsuita blog, imádság, mise, másutt ] 
+tags:  [ mise, imádság, iskola, jezsuita blog ]
 ---
 A miskolci különleges, azaz igazán hagyományos ádventi hajnali misékről írtam a <a href="http://jezsuita.blog.hu/2013/12/06/rorate_reform">jezsuita.blog.hu</a>-ra:
 

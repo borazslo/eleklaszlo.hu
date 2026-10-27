@@ -3,7 +3,7 @@ layout: post
 title: "Életjel II/6."
 permalink:  /14/ 
 date: 2007-04-02 10:00:00
-tags:  [ életjel ] 
+tags:  [ életjel, szeminárium, foci, imádság ]
 ---
 <b>Kedves Mindenki!</b>
 

@@ -3,7 +3,7 @@ layout: post
 title: "Csak pár kép"
 permalink:  /6013/ 
 date: 2013-12-15 00:02:02
-tags:  [ fényképezés ] 
+tags:  [ fényképezés, kirándulás, emlék ]
 ---
 <p style="text-align: center;"><a href="http://www.flickr.com/photos/borazslo/"><img src="http://farm3.staticflickr.com/2836/11373050705_06b55ec371.jpg" style="width: 265px; height: 400px;"></a></p><p >A <a href="http://solyomkoiodu.tumblr.com">Három-kúti odú</a> mosolygós arca.  
 Éjszakázni is lehet. Van ágy, asztal, edény. Bankkártya elfogadóhely.</p>

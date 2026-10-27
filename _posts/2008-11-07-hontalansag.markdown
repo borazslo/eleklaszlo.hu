@@ -3,7 +3,7 @@ layout: post
 title: "Hontalanság"
 permalink:  /4761/ 
 date: 2008-11-07 23:02:09
-tags:  [ éjszaka, eső, kirándulás, nyár, Szent Laci, Ábrahámhegy, emlék, "2003", Balaton-felvidék ] 
+tags:  [ kirándulás, emlék, eső, "2003" ]
 
 ---
 Sötét éjjel volt már. Tombolt a zivatar. Huszonhét elázott árny menetelt a Balaton felé. &quot;Ott csak találunk valami szállást&quot; - gondolták.

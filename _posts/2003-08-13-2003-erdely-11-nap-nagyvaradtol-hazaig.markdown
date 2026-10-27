@@ -3,7 +3,8 @@ layout: post
 title: "2003 Erdély, 11. nap - Nagyváradtól hazáig"
 permalink:  /435/ 
 date: 2003-08-13 10:00:00
-categories:  [ 2003 Erdély ] 
+categories:  [ 2003 Erdély ]
+tags:  [ kirándulás, Erdély, vonatozás ]
 image:  /files/images/flickr_4602767827.jpg 
 ---
 Valami végetért.

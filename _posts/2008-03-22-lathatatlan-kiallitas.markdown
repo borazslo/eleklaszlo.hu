@@ -3,7 +3,7 @@ layout: post
 title: "Láthatatlan kiállítás"
 permalink:  /4706/ 
 date: 2008-03-22 16:28:26
-tags:  [ életjel, vakság, kiállítás ] 
+tags:  [ életjel, vakság, gondolat ]
 ---
 Életem egyik legjobb kiállításán voltam a múltkor. A kiállításon, ahol vak vezet világtalant. A teljesen sötét bárban vehetsz a vak pultostól igazi pénzért igazi kávét. S mint minden vak, meg is ihatod azt, amit megvettél.
 

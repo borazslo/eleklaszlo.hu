@@ -3,7 +3,7 @@ layout: post
 title: "28 új római egyházmegyés pap"
 permalink:  /4717/ 
 date: 2008-04-29 06:09:51
-tags:  [ szentelés, pápa ] 
+tags:  [ szentelés, pápa, pap, egyház ]
 image:  /files/images/DSC_4369.jpg 
 ---
 Vasárnap (április huszonhetedikén) Róma püspöke, XVI. Benedek pápa huszonkilenc diakónust szentelt pappá a Szent Péter bazilikában. Huszonnyolcukat a Római Egyházmegye számára szentelték, bár köztük ha tízen voltak római származásúak. (Tízen pedig még csak nem is olaszok.) A huszonkilencedik újmisés iraki származású iraki pap. Tizenhárom szentelt a Római Nagyszemináriumból került ki.

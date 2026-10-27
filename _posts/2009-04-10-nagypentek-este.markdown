@@ -3,7 +3,7 @@ layout: post
 title: "Nagypéntek este"
 permalink:  /4830/ 
 date: 2009-04-10 20:27:53
-tags:  [  ] 
+tags:  [ mise, nagyböjt, húsvét, gondolat ]
 ---
 Meghalt a pásztor, szétfutott a nyáj.
 

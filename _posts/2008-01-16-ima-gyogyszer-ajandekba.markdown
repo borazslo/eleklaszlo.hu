@@ -3,7 +3,7 @@ layout: post
 title: "Ima-gyógyszer, ajándékba"
 permalink:  /4664/ 
 date: 2008-01-16 07:05:28
-tags:  [ imádság, gyógyszer, gyufa, ajándék ] 
+tags:  [ imádság, ajándék, gondolat ]
 image-error:  20509366 
 ---
 Részlet a mellékelt betegtájékoztatóból:&nbsp;  

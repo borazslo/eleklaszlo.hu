@@ -3,7 +3,7 @@ layout: post
 title: "Vendéglő a Világ Végén"
 permalink:  /5536/ 
 date: 2012-01-01 04:19:05
-tags:  [ másutt, életjel ] 
+tags:  [ másutt, életjel, média ]
 image:  /files/images/vaw.jpg 
 ---
 Egy vasárnap esténként kilenctől hallható internetes rádió vendége voltam:

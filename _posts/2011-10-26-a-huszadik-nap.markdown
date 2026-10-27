@@ -3,7 +3,8 @@ layout: post
 title: "a huszadik nap"
 permalink:  /5236/ 
 date: 2011-10-26 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, bizalom ]
 ---
 Kővágószőlős ~ Pécs ~ Pécsvárad ~ Szekszárd ~ Paks ~ Budapest ~ Dobogókő = 0 km
 

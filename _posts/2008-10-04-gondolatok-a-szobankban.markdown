@@ -3,7 +3,7 @@ layout: post
 title: "Gondolatok a szobánkban"
 permalink:  /4743/ 
 date: 2008-10-04 00:09:40
-tags:  [ Montserrat ] 
+tags:  [ Montserrat, gondolat, jezsuita, életjel ]
 ---
 Fú de lelkes vagyok. És mennyire álmos.
 

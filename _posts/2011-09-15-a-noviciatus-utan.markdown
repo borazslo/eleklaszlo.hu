@@ -3,7 +3,7 @@ layout: post
 title: "A noviciátus után"
 permalink:  /5346/ 
 date: 2011-09-15 08:00:00
-tags:  [ életjel ] 
+tags:  [ noviciátus, hivatás, jezsuita, életjel ]
 ---
 Véget ért a noviciátus, a próbaidő. Megpróbált rendesen.
 

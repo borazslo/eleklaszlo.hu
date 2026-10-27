@@ -3,7 +3,7 @@ layout: post
 title: "Hochschwab"
 permalink:  /5347/ 
 date: 2011-11-09 19:24:46
-tags:  [ kirándulás, fényképezés ] 
+tags:  [ kirándulás, fényképezés, hegyek, ősz ]
 image:  /files/images/flickr_6329824250.jpg 
 ---
 Reggel felmentünk, másnap lejöttünk. Volt napsütés, naplemente, köd és sötét. No meg rengeteg szél. Ötezer forint.

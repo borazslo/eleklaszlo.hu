@@ -3,7 +3,7 @@ layout: post
 title: "Barkácsolással és programozással építi a közösségeket Elek László"
 permalink:  /7038/
 date: 2024-05-27 13:00:00
-tags:  [ másutt, Delmagyar ]
+tags:  [ digitális, egyház, munka, Delmagyar, másutt ]
 image:  /files/images/2024-05-27-barkacsolassal-es-programozassal/img1.jpg
 
 ---

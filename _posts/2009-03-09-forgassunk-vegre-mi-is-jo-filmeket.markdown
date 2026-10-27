@@ -3,7 +3,7 @@ layout: post
 title: "Forgassunk végre mi is jó filmeket"
 permalink:  /4810/ 
 date: 2009-03-09 00:54:05
-tags:  [ film ] 
+tags:  [ film, egyház, gondolat ]
 image:  /files/images/196151232 
 ---
 Kell 15 millió dollár alaptőke (de az Egyházban ne lenne ennyi?), kell pár ember aki tényleg érti a szakmát, meg egy értelmes ötlet/téma (de abból nincs nagy hiány). Ennyi kellene, s akkor lehetne jó keresztény filmeket készíteni. (És nem csak szájbarágósan, csöpögősen keresztény filmeket, hanem olyan filmet is, amire bemegy akármelyik hétköznapi ember és élvezettel végignézi.)

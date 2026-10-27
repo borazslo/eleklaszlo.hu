@@ -4,8 +4,7 @@ title: "Fogadalomtétel - KéVá"
 permalink:  /5340/ 
 date: 2011-08-04 12:58:48
 published: false
-tags:  [  ] 
-
+tags:  [ hivatás, jezsuita, noviciátus ]
 ---
 Kérdések és Válaszok a fogadalomtételről. Kérdezz!
 

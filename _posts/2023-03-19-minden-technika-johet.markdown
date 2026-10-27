@@ -3,7 +3,7 @@ layout: post
 title: "Minden technika jöhet, amíg közelebb visz Istenhez"
 permalink:  /7039/
 date: 2023-03-19 10:00:00
-tags:  [ másutt, Telex ]
+tags:  [ digitális, egyház, mesterséges intelligencia, Telex, másutt ]
 image:  /files/images/2023-03-19-minden-technika-johet/img1.jpg
 
 ---

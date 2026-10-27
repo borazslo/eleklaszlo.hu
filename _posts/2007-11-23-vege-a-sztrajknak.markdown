@@ -3,7 +3,7 @@ layout: post
 title: "Vége a sztrájknak"
 permalink:  /4542/ 
 date: 2007-11-23 08:18:22
-tags:  [ fényképezés ] 
+tags:  [ fényképezés, szeminárium, életjel ]
 image:  /files/images/flickr_2211468656.jpg 
 ---
 Több heti sztrájk után a szeminárium vett végre egy fényképezőgépet. Tudom, hogy lehet üdvözülni nagy digitális fényképezőgépek nélkül is. Ettől még nekem fontos a fényképezés.

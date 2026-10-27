@@ -3,7 +3,7 @@ layout: post
 title: "Egy óra múlva indul a vonat"
 permalink:  /4807/ 
 date: 2009-02-22 21:06:41
-tags:  [ életjel, fényképezés, kirándulás, kerékpár, Velencei-tó ] 
+tags:  [ fényképezés, kerékpár, kirándulás ]
 image:  /files/images/flickr_3300879435.jpg 
 ---
 Éppen olvadozik az arcom. A többi részem Dinnyés és Budapest között felolvadt a vonaton. Ma reggel, másfél órával a vonat indulása előtt, még nem tudtam, hogy fotókerékpározást fogok csinálni. A Velencei-tavat tekertem körbe a fényképezőgépemmel.

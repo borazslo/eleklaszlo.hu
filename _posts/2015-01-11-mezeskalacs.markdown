@@ -3,7 +3,7 @@ layout: post
 title: "Mézeskalács"
 permalink:  /6062/ 
 date: 2015-01-11 02:12:10
-tags:  [  ] 
+tags:  [ karácsony, ajándék ]
 ---
 Logikusnak tűnt, hogy most nem lesz csomag. Lényegében lemondtam róla; úgyis túl messze élek. Pedig hiányzott. Hozzánőtt már a karácsonyomhoz a különöleges mézeskalácsok elrágcsálása.
 

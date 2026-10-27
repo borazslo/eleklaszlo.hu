@@ -3,7 +3,8 @@ layout: post
 title: "a tizenharmadik nap"
 permalink:  /5228/ 
 date: 2011-10-12 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, vendégszeretet, humor ]
 ---
 Magyarlukafa – Somogyhárságy ~ Szulimán – Mozsgó – Szigetvár = 19,2 km
 

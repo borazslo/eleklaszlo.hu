@@ -3,7 +3,7 @@ layout: post
 title: "NKRemote vs Camera Control Pro"
 permalink:  /4797/ 
 date: 2009-01-20 11:25:31
-tags:  [ fényképezés, NKRemote, Nikon, szoftver ] 
+tags:  [ fényképezés, digitális ]
 image:  /files/images/nkremote.JPG 
 
 ---

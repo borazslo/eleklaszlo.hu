@@ -3,7 +3,7 @@ layout: post
 title: "Bemutatkozás"
 permalink:  /5339/ 
 date: 2011-11-07 09:00:00
-tags:  [ hivatás, magamról ] 
+tags:  [ hivatás, magamról, jezsuita, noviciátus ]
 summary: "Készült a noviciátus kezdetén (2009) a magyar jezsuiták számára."
 
 ---

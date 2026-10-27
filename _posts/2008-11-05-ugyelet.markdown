@@ -3,7 +3,7 @@ layout: post
 title: "Ügyelet"
 permalink:  /4759/ 
 date: 2008-11-05 21:10:11
-tags:  [ kórház, életjel, halál, ügyelet ] 
+tags:  [ kórház, életjel, halál ]
 ---
 Hajnali négykor a kórház sötét udvarán ócska vasszékeket pakoltunk ki egy teherautóból. Csupán azért, hogy az elhunytat ne kelljen több száz méteren a budai utcák macskakövén szállítani.&nbsp;
 

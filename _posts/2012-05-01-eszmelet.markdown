@@ -3,7 +3,7 @@ layout: post
 title: "Eszmélet"
 permalink:  /5662/ 
 date: 2012-05-01 15:49:40
-tags:  [ emlék, "2006", Ráróspuszta, táborozás ] 
+tags:  [ emlék, táborozás, vers, Regnum ]
 image:  /files/images/flickr_2989891620.jpg 
 ---
 Én fölnéztem az est alól  

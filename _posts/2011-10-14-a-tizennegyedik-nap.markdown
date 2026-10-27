@@ -3,7 +3,8 @@ layout: post
 title: "a tizennegyedik nap"
 permalink:  /5229/ 
 date: 2011-10-14 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, szenvedés, vendégszeretet ]
 ---
 Szigetvár – Dencsháza – Katádfa – Bánfa – Szentdénes – Királyegyháza = 32,8 km
 

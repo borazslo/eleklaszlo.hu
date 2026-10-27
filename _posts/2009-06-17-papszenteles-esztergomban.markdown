@@ -3,7 +3,7 @@ layout: post
 title: "Papszentelés Esztergomban"
 permalink:  /4865/ 
 date: 2009-06-17 20:28:45
-tags:  [ pap, életjel ] 
+tags:  [ szentelés, pap, fényképezés, egyház ]
 image:  /files/images/flickr_3636728588.jpg 
 ---
 <a href="/4864#kelemenimre">Kelemen Imrét</a>, <a href="/4864#lukacsjozsef">Lukács Józsefet</a> és <a href="/4864#paduraruiulian">Păduraru Iulián</a>t pappá szentelték. Szentelhettek volna engem is.

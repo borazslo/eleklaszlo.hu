@@ -3,7 +3,7 @@ layout: post
 title: "Digitális kütyük a szentmisén "
 permalink:  /5749/ 
 date: 2012-09-02 09:48:13
-tags:  [ zsolozsma, egyház, digitális ] 
+tags:  [ digitális, mise, egyház, zsolozsma ]
 ---
 Az új-zélandi püspöki kar <a href="http://cathnews.co.nz/wp-content/uploads/2012/04/Ipads-at-Mass.pdf">megtiltotta</a>, hogy a papok (Új-Zélandon) kütyükkel (iPad, Tablet, stb.) misézzenek, zsolozsmázzanak. Antonio Spadaro jezsuita (a Tömegkommunikáció Pápai Tanácsa konzultora) <a href="http://www.cyberteologia.it/2012/08/si-puo-celebrare-la-messa-con-lipad/">ismertette a tiltást</a> és hozott egy-két érvet mellette kérdés feltevésként, amiből<a href="http://www.cyberteologia.it/2012/08/la-messa-e-lipad-il-dibattito/">&nbsp;érdekes vita</a> lett, bár a Magyar Kurír talán kicsit másképp <a href="http://magyarkurir.hu/hirek/ciberteologus-miert-nem-lehet-misekonyv-helyett-ipadet-hasznalni">tálalta</a>. Íme az én megjegyzésem/véleményem.
 

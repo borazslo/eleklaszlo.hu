@@ -4,7 +4,7 @@ title: "Őszi túra"
 permalink:  /6012/
 date: 2013-11-18 00:07:27
 image: /files/images/2013-11-18-oszi-tura/DSC_0829.jpg
-tags:  [ kirándulás ]
+tags:  [ kirándulás, hegyek, ősz, emlék ]
 ---
 A múltkor a Biharban jártam: Boga-telep, N. Phaeton-vízesés, Saua Bohodei, Galabina-kőköz, Ponor-rét. Mondják, szép volt. Gyönyörűséges. – Elhiszem.
 

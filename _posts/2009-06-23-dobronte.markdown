@@ -3,7 +3,7 @@ layout: post
 title: "Döbrönte"
 permalink:  /4867/ 
 date: 2009-06-23 12:54:56
-tags:  [ fényképezés ] 
+tags:  [ fényképezés, nyár, kirándulás ]
 image:  /files/images/flickr_3653822580.jpg 
 ---
 <a href="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=hu&amp;geocode=&amp;q=d%C3%B6br%C3%B6nte&amp;sll=37.509726,-95.712891&amp;sspn=33.943456,79.101563&amp;ie=UTF8&amp;ll=47.241949,17.547226&amp;spn=0.228422,0.617981&amp;z=11&amp;iwloc=A">Döbröntén</a> voltam és fényképeztem naplementekor és napkeltekor. Ezt sikerült.

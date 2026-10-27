@@ -3,7 +3,7 @@ layout: post
 title: "Éjszakai szentségimádás"
 permalink:  /4549/ 
 date: 2007-12-07 07:07:18
-tags:  [ életjel, szentségimádás, imádság, éjjel ] 
+tags:  [ szentségimádás, imádság, éjjel, hivatás ]
 image:  /files/images/flickr_2961639415.jpg 
 ---
 Minden első csütörtökön szentségimádás van itt a szemináriumban az egész éjjelen át. A hivatásokért imádkozunk. A sajátunkért, a többi kispapéért, a nullad évért (propedeutikus év), azokért akik érdeklődnek a szeminárium iránt, és mindenki másért. Egy éjjel imádságban.

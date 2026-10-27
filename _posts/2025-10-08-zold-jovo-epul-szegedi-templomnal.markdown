@@ -3,7 +3,7 @@ layout: post
 title: "Zöld jövő épül a szegedi templomnál"
 permalink:  /7036/
 date: 2025-10-08 10:24:00
-tags:  [ másutt, Magyar Kurír ]
+tags:  [ másutt, Magyar Kurír, egyház, ökológia ]
 image:  /files/images/2025-10-08-zold-jovo-epul-szegedi-templomnal/img1.jpg
 
 ---

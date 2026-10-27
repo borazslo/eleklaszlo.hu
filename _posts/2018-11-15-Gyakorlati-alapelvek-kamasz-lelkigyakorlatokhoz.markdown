@@ -4,7 +4,7 @@ title: "Gyakorlati alapelvek kamasz-lelkigyakorlatokhoz a hitstruktúra fejlőd�
 "
 permalink:  /7005/ 
 date: 2018-11-15 21:11:45
-tags:  [ publikáció, másutt, Embertárs ] 
+tags:  [ publikáció, lelkigyakorlat, Embertárs, iskola, másutt ]
 image: /files/images/2018-11-15-Gyakorlati-alapelvek-kamasz-lelkigyakorlatokhoz/GOPR0982.JPG
 ---
 Megjelent az [Embetárs](https://jezsuitakiado.hu/tipus/embertars/) folyóiratban [szakdolgozatom](/6343) második felének magyar fordításának rövidített változata:

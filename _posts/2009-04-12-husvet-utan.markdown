@@ -3,7 +3,7 @@ layout: post
 title: "Húsvét után"
 permalink:  /4833/ 
 date: 2009-04-12 20:37:47
-tags:  [ életjel ] 
+tags:  [ életjel, jezsuita, Montserrat, húsvét ]
 ---
 A Montserrat jezsuita jelöltközösség nagy részével Mátraszőlősön töltöttük az ünnepeket. Néha rámjött az írhatnék, amiket csak most tettem közzé. Tudom, már nem aktuálisak, csak majd jövőre. Ha mégis érdekel, lapozz vissza!
 

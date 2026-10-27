@@ -3,7 +3,7 @@ layout: post
 title: "Zsolozsma - online"
 permalink:  /4805/ 
 date: 2009-02-12 08:21:14
-tags:  [ honlap, imádság, zsolozsma, Liturgia Horarum ] 
+tags:  [ zsolozsma, imádság, honlap, digitális ]
 image:  /files/images/flickr_2961588869.jpg 
 ---
 Örömmel adom hírül, hogy megjelent az interneten az első (és egyetlen)<a href="http://breviar.sk/hu"> magyar zsolozsma generátor</a>. Lényege, hogy bármelyik napra összeállítja neked a zsolozsmát, anélkül, hogy sokat kéne lapozgatnod és gondolkodnod, hogy kinek is van az ünnepe.  

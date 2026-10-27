@@ -3,7 +3,7 @@ layout: post
 title: "Liturgia Horarum"
 permalink:  /4778/ 
 date: 2008-12-23 15:08:25
-tags:  [ álom, életjel, honlap, imádság, zsolozsma, Liturgia Horarum ] 
+tags:  [ életjel, honlap, imádság, zsolozsma ]
 image:  /files/images/icon_256.png 
 ---
 Van egy régi álmom: a letölthető hallgatható zsolozsma.&nbsp;

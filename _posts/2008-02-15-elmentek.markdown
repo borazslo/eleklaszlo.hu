@@ -3,7 +3,7 @@ layout: post
 title: "Elmentek"
 permalink:  /4685/ 
 date: 2008-02-15 07:31:45
-tags:  [ szentelés, szeminárium, hivatás ] 
+tags:  [ hivatás, szeminárium, szentelés ]
 image-error:  460622183 
 ---
 Tegnap ketten hagyták itt a szemináriumot. Tavaly júniustól máig vagy 15-en mentek el. Több mint 10%. Egy-egy évfolyamban legalább 40%-os a lemorzsolódás a szemináriumi hat év alatt. Baj ez, vagy ennek így kell lennie? 

@@ -3,7 +3,7 @@ layout: post
 title: "A Vatikán és a twitter"
 permalink:  /4850/ 
 date: 2009-05-26 20:08:31
-tags:  [ média, egyház ] 
+tags:  [ média, egyház, pápa, digitális ]
 image:  /files/images/Capture.PNG 
 ---
 Ma reggel ránéztem a <a href="http://turulcsirip.hu">turulcsiripre </a>és láss csodát, a vatikáni zászló nézett vissza rám több csiripelés mellől. Hát ez mi? A Vatikán is benézett a <a href="http://twitter.com">twitterre</a>? (Ráadásul Magyarországról vagy magyarul?) Hírtelen nagyon lelkes lettem, aztán rá kellett jönnöm, hogy a <a href="http://vatican.va">Vatikánban </a>talán nem is tudnak róla.

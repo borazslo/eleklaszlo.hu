@@ -3,7 +3,7 @@ layout: post
 title: "Egy kis tél"
 permalink:  /4660/ 
 date: 2008-01-12 08:48:54
-tags:  [ életjel, kirándulás, tél, hegyek ] 
+tags:  [ kirándulás, tél, hegyek, életjel ]
 image:  /files/images/2962493778_69d657ffe4_b.jpg 
 ---
 2007\ utolsó napjaiban sikerült elmenekülnöm a városból. Találkozhattam egy kis téllel. A barátommal beköltöztünk két napra Jobbágyi plébániájára. Az első látásra világvégi faluban két-háromszáz éves könyveket olvasgattunk, vasárnap pedig meleg ebédet kaptunk a falubeliektől. Mégsem lennék falusi plébános.

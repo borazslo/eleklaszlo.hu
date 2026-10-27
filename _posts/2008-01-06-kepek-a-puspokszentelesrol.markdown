@@ -3,7 +3,7 @@ layout: post
 title: "Képek a püspökszentelésről"
 permalink:  /4650/ 
 date: 2008-01-06 21:07:20
-tags:  [  ] 
+tags:  [ fényképezés, szentelés, egyház ]
 ---
 Szombaton az esztergomi bazilikában Erdő Péter bíboros prímás püspökké szentelte Székely János atyát.
 

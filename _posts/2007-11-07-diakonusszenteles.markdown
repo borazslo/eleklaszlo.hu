@@ -3,7 +3,7 @@ layout: post
 title: "Diakónusszentelés"
 permalink:  /4536/ 
 date: 2007-11-07 11:21:01
-tags:  [ szentelés, életjel ] 
+tags:  [ szentelés, fényképezés, szeminárium, életjel ]
 ---
 Szombaton nagy ünnep volt itt a szemináriumban. 18 hatodéves kispapot diakónussá szentelt Ruini bíboros a lateráni bazilikában. Én - mint mindig - fényképeztem.
 

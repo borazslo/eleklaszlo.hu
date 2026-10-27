@@ -3,7 +3,7 @@ layout: post
 title: "Ferenc pápa bemutatkozása"
 permalink:  /5919/ 
 date: 2013-03-14 00:58:57
-tags:  [ egyház, pápa ] 
+tags:  [ pápa, egyház, Róma, imádság ]
 image-error:  https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-ash3/600258_4000859159427_1665315357_n.jpg 
 ---
 Testvérek, jó estét!

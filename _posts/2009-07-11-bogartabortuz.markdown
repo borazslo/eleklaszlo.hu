@@ -3,7 +3,7 @@ layout: post
 title: "Bogártábortűz"
 permalink:  /4876/ 
 date: 2009-07-11 21:33:07
-tags:  [  ] 
+tags:  [ táborozás, A Szív, öröm, gyerekek ]
 image:  /files/images/flickr_2962462824.jpg 
 ---
 Ilyen volt a sitkei Szentjánosbogár tábortűz belülről.

@@ -3,7 +3,7 @@ layout: post
 title: "Repülőjeggyel vonatoztam"
 permalink:  /4720/ 
 date: 2008-05-21 13:42:10
-tags:  [ életjel, repülés, vonatozás, átvertek ] 
+tags:  [ utazás, vonatozás, szentelés, életjel ]
 ---
 Hiába vettem meg több hónappal korábban a repülőjegyet. Hiába mentem ki a reptérre a gép indulása előtt két órával. Hiába álltam másfél órát a sorban. Nem vitt haza a Wizz Air. Egyszerűen Rómában hagyott. Vonatozás lett belőle.
 

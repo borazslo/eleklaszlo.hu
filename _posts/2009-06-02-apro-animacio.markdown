@@ -3,7 +3,7 @@ layout: post
 title: "Apró animáció"
 permalink:  /4859/ 
 date: 2009-06-02 18:51:46
-tags:  [ fényképezés ] 
+tags:  [ fényképezés, iskola, film ]
 image:  /files/images/flickr_3590063178.jpg 
 ---
 <a href="/4855">Elékészült</a>. A nyolcadikosok bemutatták évvégi, úgynevezett mestermunkájukat. &Iacute;me:

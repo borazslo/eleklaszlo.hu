@@ -3,7 +3,7 @@ layout: post
 title: "Szólistává lettem"
 permalink:  /4702/ 
 date: 2008-03-10 07:07:25
-tags:  [ ének, életjel, zene ] 
+tags:  [ zene, ének, életjel, szeminárium ]
 ---
 Az elmúlt héten a zenei életem megugrott. Sajnos errefelé nem sok van belőle, így minden változásnak örülünk.
 

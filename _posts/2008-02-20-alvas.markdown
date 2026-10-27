@@ -3,7 +3,7 @@ layout: post
 title: "Alvás"
 permalink:  /4687/ 
 date: 2008-02-20 10:29:45
-tags:  [ szeminárium, szentségimádás, imádság, alvás ] 
+tags:  [ szentségimádás, imádság, szeminárium ]
 image:  /files/images/rolam_nomadsag.jpg 
 ---
 A dolog egyszerű: alvás nélkül se tanulni, se imádkozni nem lehet.

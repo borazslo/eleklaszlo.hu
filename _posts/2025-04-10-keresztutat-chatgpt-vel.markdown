@@ -3,7 +3,7 @@ layout: post
 title: "„Keresztutat is írtak már ChatGPT-vel” – Elek László jezsuita a mesterséges intelligenciáról"
 permalink:  /7034/
 date: 2025-04-10 07:35:19
-tags:  [ másutt, Szemlélek ]
+tags:  [ mesterséges intelligencia, másutt, digitális, Szemlélek, egyház ]
 image:  /files/images/2025-04-10-keresztutat-chatgpt-vel/img1.jpg
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Montserrat jelöltségi ház"
 permalink:  /4739/ 
 date: 2008-09-18 08:32:36
-tags:  [ életjel, jezsuita, Montserrat ] 
+tags:  [ jezsuita, Montserrat, hivatás, életjel ]
 ---
 A jezsuita Montserrat jelöltségi ház 2008. szeptember 12-én, Szűz Mária névnapján, végre megnyitotta kapuit. Először az év során összegyűlt mind az öt jelölt. Először egy szentmisére, majd egy vacsorára. Azóta itt lakunk.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Sörös teológia"
 permalink:  /4755/ 
 date: 2008-10-29 00:07:37
-tags:  [ életjel, Montserrat, teológia ] 
+tags:  [ életjel, Montserrat, teológia, gondolat ]
 ---
 &bdquo;A megváltás úgy-e cserét jelent!? De akkor most mit adtunk mit, és mit Jézus?&rdquo; - kérdezte a társam és rendelt még egy sört.
 

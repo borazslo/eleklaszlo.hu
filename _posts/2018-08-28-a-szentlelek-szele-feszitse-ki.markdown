@@ -4,7 +4,7 @@ title: "A Szentlélek szele feszítse ki vitorláidat! – Papszentelés Miskolc
 permalink:  /7018/ 
 date: 2018-08-28 15:40:13
 image: /files/images/2018-08-28-a-szentlelek-szele-feszitse-ki/img1.jpg
-tags:  [ másutt, szentelés, Magyar Kurír ] 
+tags:  [ szentelés, Magyar Kurír, jezsuita, pap, hivatás ]
 categories: [  ]
 ---
 Ezt nem én írtam. Bár van benne idézet tőlem. Szelenge Judit, aki a cikket írta, idézi Ternyák Csaba érsek atyát, aki engem szentelt, aki idézi a honlapomat, amit most olvasol, ahol bemutatkoztam. Jöjjön hát a szenelésemről szóló beszámoló a Magyar Kurír oldaláról.

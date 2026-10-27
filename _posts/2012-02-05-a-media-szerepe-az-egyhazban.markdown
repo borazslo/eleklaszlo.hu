@@ -3,7 +3,7 @@ layout: post
 title: "A média szerepe az egyházban"
 permalink:  /5574/ 
 date: 2012-02-05 22:10:13
-tags:  [ média ] 
+tags:  [ média, egyház, jezsuita ]
 image-error:  http://a6.sphotos.ak.fbcdn.net/hphotos-ak-ash4/406541_163017640479903_143579799090354_241025_1622167037_n.jpg 
 summary: "Egy konferencián hangzott el egy igen szórakoztató kerekasztal-beszélgetés arról, hogy „ne keseregjetek, hanem mondjátok meg mit kell csinálni”. Most (még) meghallgatható:"
 

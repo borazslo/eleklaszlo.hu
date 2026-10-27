@@ -3,7 +3,7 @@ layout: post
 title: "Első napom az első munkahelyemen"
 permalink:  /4741/ 
 date: 2008-09-22 21:21:34
-tags:  [ kórház, életjel, munka, betegszállítás ] 
+tags:  [ kórház, munka, életjel ]
 ---
 Ma reggel, életemben először munkába indultam. Kórházi betegszállító lettem. Reggel még a munkaügyön és az üzemorvosnál el kellett intéznem ezt-azt, így csak kilenckor tudtam ténylegesen munkába állni. Na majd holnap... (Rendesen hétkor kezdek.)
 

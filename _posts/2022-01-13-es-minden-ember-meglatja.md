@@ -3,7 +3,7 @@ layout: post
 title: "III. fejezet - és minden ember meglátja az Isten üdvösségét"
 permalink:  /7025/ 
 date: 2022-01-13 11:57:13
-tags:  [  ] 
+tags:  [ advent, portré, imádság ] 
 categories: [ Készítsétek az Úr útját ]
 ---
 Szerda délután volt, amikor becsöngetett hozzám. Ott állt a kapum előtt azzal a rozzant kerékpárjával. Persze hogy felismertem, vagyunk azért olyan kapcsolatban. Megláttam és akkor megértettem: biciklivel jött, és nem az Úton. Nem elektromos autóval és nem az Úton. Elsőre a harag kezdett bennem nőni, hogy akkor minek és miért és egyébként is… De gyorsan magam ellen fordultam: „Tehát én rontottam el, tehát nem is az ő kérése volt az Út, tehát valamit nagyon benéztem, tehát ezt is egészen elrontottam! Ezért romboltattam le templomokat, közösségi házakat, falvakat, erdőt-mezőt?! Hogy lehet ilyen… És miért nem szólt senki? És miért… És hogy lehet…” - Még nincs egy perce, hogy megpillantottam az Urat a kapuban és már mindent és mindenkit utálok, leginkább magamat, és az utálat éppen a teljes összetörtségbe és összeomlásba húz le. Megszólal: „Bejöhetek?” Az Isten kérdezi. Tőlem. Hogy bejöhet-e. Aki mindent megalkotott, aki ura a viharoknak és földrengéseknek, aki... és engem kérdez. Hogy esetleg leszek-e szíves és behívom. És megint csak elővesz a kétségbeesés:  „Hogyan lehetek ilyen szerencsétlen?!” Meg: „Szedjem össze magamat, mégis csak az Úr ő! Hát nem erre vártam!? Nem ezért építettem az Utat!? Még ha nem is azon jött, meg … ”

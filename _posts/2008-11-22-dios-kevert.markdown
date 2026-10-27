@@ -3,7 +3,7 @@ layout: post
 title: "Diós kevert"
 permalink:  /4764/ 
 date: 2008-11-22 12:07:59
-tags:  [ sütés ] 
+tags:  [ sütés, életjel, humor ]
 ---
 Újra próbálkoztam a sütéssel. Persze már megvettem a diót, mikor rájöttem, hogy még darálónk sincs.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Exit"
 permalink:  /4760/ 
 date: 2008-11-07 16:44:44
-tags:  [ halál, Örkény ] 
+tags:  [ halál, kórház, könyv ]
 ---
 <em>&nbsp;&quot;Fogtam az ütőerét. Üt. Nem üt. Üt. Azt hittem, néhány perce van hátra, de ő még ötnegyed órát élt. Emberfölötti erő volt benne. Vasakarat volt a sejtjeiben, valami ősi életvágy a szöveteiben; én meg, mint egy porszem, úgy ültem ott. Mint egy semmi, egy senki. Egy tárgy.</em>
 

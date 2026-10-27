@@ -3,7 +3,7 @@ layout: post
 title: "Visszatérőben a Szemináriumban"
 permalink:  /4753/ 
 date: 2008-10-28 11:14:08
-tags:  [ szeminárium, PSRM, Róma ] 
+tags:  [ szeminárium, PSRM, Róma, szentelés ]
 ---
 Fájt a szívem Rómában. Nem az elmaradt szentelésem miatt, hanem az otthagyott banda miatt.
 

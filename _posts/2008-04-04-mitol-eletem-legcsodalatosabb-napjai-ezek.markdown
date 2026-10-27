@@ -3,7 +3,7 @@ layout: post
 title: "Mitől életem legcsodálatosabb napjai ezek?"
 permalink:  /4710/ 
 date: 2008-04-04 06:29:20
-tags:  [ életjel, imádság, öröm ] 
+tags:  [ öröm, imádság, hivatás, jezsuita ]
 ---
 Hosszas dulakodás után, azt mondtam az Úrnak, hogy jó. Legyen, ahogy szeretnéd, még ha ez hirtelen nagy váltással is jár. Nem azon folyt a vita, hogy hív-e vagy sem. Az csak látszat kötözködés volt, hogy ne kelljen változtatni. De végül kimondtam.
 

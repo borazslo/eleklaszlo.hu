@@ -3,7 +3,7 @@ layout: post
 title: "Jezsuita szeretnék lenni"
 permalink:  /4708/ 
 date: 2008-04-04 06:19:31
-tags:  [ szentelés, életjel, hivatás, jezsuita ] 
+tags:  [ hivatás, jezsuita, szentelés, életjel ]
 image-error:  258458630 
 ---
 Főpásztoromtól kértem, hogy ne szenteljenek föl diakónussá ősszel az Esztergom-Budapesti Főegyházmegye számára, mert szeretnék belépni a jezsuita rendbe.

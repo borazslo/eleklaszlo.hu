@@ -3,7 +3,8 @@ layout: post
 title: "a negyedik nap"
 permalink:  /5159/ 
 date: 2011-09-24 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, szenvedés ]
 ---
 Bodajk – Gúttamási –~ Bakonykúti – Várpalota ~ Pétfürdő – Királyszentistván = 30,5 km
 

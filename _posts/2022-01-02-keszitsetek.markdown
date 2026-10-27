@@ -3,7 +3,7 @@ layout: post
 title: "I. fejezet: Készítsétek"
 permalink:  /7011/ 
 date: 2022-01-02 10:57:13
-tags:  [  ] 
+tags:  [ advent, portré, egyház ]
 categories: [ Készítsétek az Úr útját ]
 ---
 

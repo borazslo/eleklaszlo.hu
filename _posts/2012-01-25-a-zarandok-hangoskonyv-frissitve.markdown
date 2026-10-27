@@ -3,7 +3,7 @@ layout: post
 title: "A Zarándok - hangoskönyv (frissítve)"
 permalink:  /5561/ 
 date: 2012-01-25 01:34:48
-tags:  [ hang, zarándoklat ] 
+tags:  [ zarándoklat, imádság, könyv ]
 ---
 Első, játék próbálkozásom a hangtechnikával. Majd még csiszolom, de talán jobb a buta valami, mint az okos semmi.
 

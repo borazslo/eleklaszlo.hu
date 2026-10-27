@@ -4,7 +4,7 @@ title: "Doktor Placébó, avagy a kék habostorta"
 permalink:  /4893/ 
 date: 2011-02-07 20:27:23
 published: false
-tags:  [  ] 
+tags:  [ emlék, zene, média ]
 ---
 <p align="left">&quot;A hisztérikus Szupertónia királylány nem akar férjhez menni. Dr. Placebo megmondja a frankót: megannyi veszélyen át meg kell szereznie a kérőnek a Kék Csodatortát. Innentől annyi baromság jön, hogy ide se írjuk.&quot; (<a href="http://www.freeweb.hu/musztydoba/mese_placebo.html">Muszty-Dobay</a>)</p>  
 

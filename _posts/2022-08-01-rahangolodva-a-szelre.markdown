@@ -3,7 +3,7 @@ layout: post
 title: "Ráhangolódva a Szél sokkal nagyobb erejére – Piarista Vitorlázó Egyesület a Kékszalagon"
 permalink:  /7001/ 
 date: 2022-08-01 22:40:11
-tags:  [ másutt, Magyar Kurír ] 
+tags:  [ másutt, vitorlázás, Magyar Kurír, Regnum, hajó ]
 image:  /files/images/2022-08-01-rahangolodva-a-szelre/img1.jpg
 
 ---

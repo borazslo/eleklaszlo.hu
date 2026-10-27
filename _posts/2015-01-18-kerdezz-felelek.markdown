@@ -3,7 +3,7 @@ layout: post
 title: "Kérdezz-felelek"
 permalink:  /6063/ 
 date: 2015-01-18 02:58:10
-tags:  [ másutt, Szemlélek ] 
+tags:  [ Szemlélek, jezsuita, USA, másutt ]
 ---
 A múltkor megkérdeztek arról, hogy itt mit is gondolnak a francia mészárlásról. Én meg válaszoltam. Csak nem pont a kérdésre. 
 

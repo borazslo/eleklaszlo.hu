@@ -3,7 +3,7 @@ layout: post
 title: "A nagy készületben"
 permalink:  /4673/ 
 date: 2008-01-29 07:15:43
-tags:  [ szentelés, szeminárium, életjel, sport, foci, fiducia ] 
+tags:  [ szentelés, fiducia, foci, szeminárium, életjel ]
 ---
 Minden bizonnyal az év legnehezebb hetébe kezdtünk bele. Ráadásul a hétvége már jól megalapozota a káoszt. Szombaton diakónuszentelés volt minálunk. Vasárnap Clericus Cup. Közben már pénteken megkezdődött a Fiducia kilencede. Pénteken jön vecsernyére a pápa. Szombatra meghívtuk mind az 1050 exalunnónkat. Egyébként pedig vizsgaidőszak van.
 

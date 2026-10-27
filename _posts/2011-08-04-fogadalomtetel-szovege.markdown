@@ -3,8 +3,7 @@ layout: post
 title: "Fogadalomtétel - szövege"
 permalink:  /5342/ 
 date: 2011-08-04 13:41:28
-tags:  [ hivatás ] 
-
+tags:  [ hivatás, jezsuita, imádság ]
 ---
 Így szól a fogadalomtételem szövege:
 

@@ -3,7 +3,7 @@ layout: post
 title: "Mikulás bácsi! Meg kéne halni"
 permalink:  /4771/ 
 date: 2008-12-05 19:44:01
-tags:  [ kórház, életjel, Mikulás ] 
+tags:  [ kórház, életjel, Mikulás, halál, munka ]
 
 ---
   

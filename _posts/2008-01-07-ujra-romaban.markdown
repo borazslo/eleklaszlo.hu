@@ -3,7 +3,7 @@ layout: post
 title: "Újra Rómában"
 permalink:  /4652/ 
 date: 2008-01-07 20:18:47
-tags:  [ életjel ] 
+tags:  [ szeminárium, Róma, család, életjel ]
 ---
 Véget ért a szünet. Ma, január 7-én visszatértem Rómába. Folytatódik az év.
 

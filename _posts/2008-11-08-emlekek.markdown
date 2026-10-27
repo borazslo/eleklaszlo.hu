@@ -3,7 +3,7 @@ layout: post
 title: "Emlékek"
 permalink:  /4762/ 
 date: 2008-11-08 00:01:12
-tags:  [ emlék ] 
+tags:  [ emlék, táborozás, gondolat ]
 ---
 Alig vagyok huszonhárom éves, de annyi szép élményben volt már részem &ndash; legfőképpen a nyári táborokban &ndash; hogy több könyvbe sem férne bele. Most elhatároztam, hogy időről időre megírom egy-egy régi élményemet, vagy legalább egy rövid részletét.
 

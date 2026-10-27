@@ -3,7 +3,7 @@ layout: post
 title: "Az első kijáratom"
 permalink:  /4751/ 
 date: 2008-10-21 19:52:58
-tags:  [ kórház, életjel, halál ] 
+tags:  [ kórház, életjel, halál, munka ]
 ---
 Exit. Annyit tesz mint &bdquo;kijárat&rdquo;. A kórházi szakzsargonban az örök kijárat; a halottat nevezik exitnek. Tegnap, életemben először, halottat is cipeltem. Még sosem láttam halottat ilyen közelről.
 

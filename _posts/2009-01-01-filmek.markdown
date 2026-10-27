@@ -4,7 +4,7 @@ title: "Filmek"
 permalink:  /4785/ 
 date: 2009-01-01 15:37:36
 published: false
-tags:  [  ] 
+tags:  [ film, egyház, gondolat ]
 ---
 Ezekre vágyom itten:
 

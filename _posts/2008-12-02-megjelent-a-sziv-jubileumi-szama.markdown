@@ -3,7 +3,7 @@ layout: post
 title: "Megjelent A Szív jubileumi száma"
 permalink:  /4770/ 
 date: 2008-12-02 21:32:46
-tags:  [ életjel, jezsuita, A Szív ] 
+tags:  [ életjel, jezsuita, A Szív, Montserrat, publikáció ]
 summary: "<a href=\"http://jezsuita.hu/main.php?folderID=1518&amp;articleID=8419&amp;ctag=articlelist&amp;iid=1\"><img src=\"/files/images/asziv_0812_300.jpg\" width=\"100\" height=\"141\" vspace=\"0\" hspace=\"0\" border=\"2\" align=\"left\" /></a>A tartalomból:
 
 <p >...

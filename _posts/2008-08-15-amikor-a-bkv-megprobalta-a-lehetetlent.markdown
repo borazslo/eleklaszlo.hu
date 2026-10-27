@@ -3,7 +3,7 @@ layout: post
 title: "Amikor  a BKV megpróbálta a lehetetlent"
 permalink:  /4731/ 
 date: 2008-08-15 13:43:50
-tags:  [ jó hír, BKV ] 
+tags:  [ jó hír, BKV, Budapest ]
 ---
 Tegnap (2008.08.11.) a BKV megpróbálta a lehetetlent: utasokat szállítani Hűvösvölgy és a Moszkva tér között. Ez normális körülmények között nem okozna különösebb problémát. Ám épp most újítják fel a villamospályát, így csak az 56-os busz közlekedik. Viszont még nem fejezték be a csatornázást az amúgy is igen tőlterhelt útvonalon. Ráadásul tegnap baleset történt a Hűvösvölgy úton.
 

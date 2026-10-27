@@ -3,7 +3,7 @@ layout: post
 title: "Csodálatos internet"
 permalink:  /4827/ 
 date: 2009-04-10 19:04:32
-tags:  [ csoda ] 
+tags:  [ mise, húsvét, csoda, digitális ]
 ---
 Az<a href="http://www.parbeszed.com/main.php?folderID=1518&amp;articleID=8797&amp;ctag=articlelist&amp;iid=1"> áprilisi A Szív</a> újság a csodáról szól. Még nem olvastam, de nem lehet rossz. Velem is megesett egy csoda. Megint.
 

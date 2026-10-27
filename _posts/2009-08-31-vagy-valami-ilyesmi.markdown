@@ -3,7 +3,7 @@ layout: post
 title: "Vagy valami ilyesmi"
 permalink:  /4882/ 
 date: 2009-08-31 00:48:50
-tags:  [ "2040" ] 
+tags:  [ jezsuita, noviciátus, hivatás, "2040" ]
 ---
 2040\ közel van. Egyszerre indul több szép projekt. Én meg nem lehetek benne, mert <a href="http://aftermodern.hu/blog/2040/trackback/">két évre elmegyek meditálni, rápihenek a pápaságra, vagy valami ilyesmi</a>.
 

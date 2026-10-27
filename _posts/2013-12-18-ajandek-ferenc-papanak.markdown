@@ -3,7 +3,7 @@ layout: post
 title: "Ajándék Ferenc pápának"
 permalink:  /6016/ 
 date: 2013-12-18 08:36:35
-tags:  [ jezsuita blog, pápa, ajándék, másutt ] 
+tags:  [ pápa, ajándék, jezsuita blog, iskola, másutt ]
 ---
 Egy jezsuita ötletére ajándékot készítettünk a miskolci diákjainkkal a Szentatya 77. születésnapjára. No, nem csak jó kívánságok voltak benne, hanem sok-sok ádventi jófeltétel is.
 

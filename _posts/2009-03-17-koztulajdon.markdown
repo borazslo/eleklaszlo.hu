@@ -3,7 +3,7 @@ layout: post
 title: "Köztulajdon"
 permalink:  /4818/ 
 date: 2009-03-17 21:54:27
-tags:  [ szegénység ] 
+tags:  [ sütés, szegénység, jezsuita ]
 image:  /files/images/flickr_2337090321.jpg 
 ---
 A szerzeteseknek ugyebár nem igazán van magántulajdonuk. (Szegénységi fogadalom.) Én még csak jelölt vagyok, így még sok minden az enyém. De most beleszagoltam egy kicsit a köztulajdon gyönyörűségébe.

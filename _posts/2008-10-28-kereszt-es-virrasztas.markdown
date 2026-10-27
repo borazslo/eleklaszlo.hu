@@ -3,7 +3,7 @@ layout: post
 title: "Kereszt és virrasztás"
 permalink:  /4752/ 
 date: 2008-10-28 10:55:47
-tags:  [ szentelés, kereszt ] 
+tags:  [ szentelés, szeminárium, Róma ]
 ---
 Te is el akarsz hagyni engem? - szólt Jézus hangja a szeminárium kápolnájában. A leendő diakónusok a kereszttel néztek szembe. Nem mondta senki, hogy könnyű lesz majd diakónusnak. Nem biztatták őket, hogy &bdquo;meg tudjátok csinálni&rdquo;. Jézus is belehalt az önátadásba.
 

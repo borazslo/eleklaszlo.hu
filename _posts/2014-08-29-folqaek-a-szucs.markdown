@@ -3,7 +3,7 @@ layout: post
 title: "Folqáék: a Szűcs"
 permalink:  /6055/ 
 date: 2014-08-29 19:11:23
-tags:  [  ] 
+tags:  [ USA, emlék ]
 ---
 Mire bejutottam már kezdődött a beszállás a frankfurti járatra, de a sor jó hosszú volt. Reméltem, hogy ennyi még belefér: futottam egy kört. Nem találtam és a helyiek sem ismerték. Talán nincs is. A sor egyre fogyott. A mobilból próbáltam kicsikarni a választ. Döcögve, de csak meglett a <a href="http://www.folqa.com/fooldal">Folqa</a> stand. Gyorsan: hátha van még annyi időm. És forintom.&nbsp;
 

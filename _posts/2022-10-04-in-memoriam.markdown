@@ -3,6 +3,7 @@ layout: post
 title: "In Memoriam"
 permalink:  /7021/
 date: 2022-10-04 10:59:11
+tags:  [ halál, imádság, kórház, család ]
 image: /files/images/2022-10-04-in-memoriam/2022-10-04-folyopart.jpg
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "300 méter, két óra alatt - A mentőszolgálat..."
 permalink:  /4769/ 
 date: 2008-11-28 22:40:33
-tags:  [ kórház, életjel, Magyarország, egészségügy ] 
+tags:  [ kórház, életjel, Magyarország ]
 ---
 &quot;<a href="http://www.mtv.hu/videotar/?id=33862">300 méter, két óra alatt - A mentőszolgálat...</a>&quot; - így az MTV egyik hírének címe. Talán megvolt a 200 méter, közel 3,5 óra alatt. Ott voltam.
 

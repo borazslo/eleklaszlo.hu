@@ -3,7 +3,7 @@ layout: post
 title: "Virtuális osztálytalálkozó"
 permalink:  /4815/ 
 date: 2009-03-12 22:55:35
-tags:  [ életjel ] 
+tags:  [ életjel, emlék, iskola ]
 image-error:  94028954 
 ---
 &bdquo;Mivel önhibámon kívül én sem tudtam eljutni nemrég az osztálytalálkozóra, ezért azt az ötletet vetném föl, hogy mindenki írhatna magáról pár szót, hogy mit végzett, mit csinál mostanában...&bdquo; - kezdte levelét egy régi osztálytársam, akit nem láttam már vagy öt éve.

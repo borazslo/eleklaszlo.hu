@@ -3,7 +3,7 @@ layout: post
 title: "Szentmise helyett, avagy a vasárnapok családi megszentelése"
 permalink:  /7006/ 
 date: 2020-11-17 08:14:10
-tags:  [ másutt, jezsuita blog ] 
+tags:  [ egyház, imádság, család, mise, jezsuita blog, másutt ]
 image: /files/images/post_7006.jpg
 ---
 A covid miatt nem mehettünk misére, ez mégis vezethetett (volna) megújuláshoz például a családon belüli imádság terén. Erről írtam a [jezsuita blogon](https://jezsuita.blog.hu/2020/11/17/szentmise_helyett). 

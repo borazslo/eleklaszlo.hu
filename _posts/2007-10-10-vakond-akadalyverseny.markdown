@@ -3,7 +3,7 @@ layout: post
 title: "Vakond akadályverseny"
 permalink:  /4521/ 
 date: 2007-10-10 12:22:19
-tags:  [  ] 
+tags:  [ Regnum, táborozás, kirándulás, eső ]
 ---
 A nyári vakondtáborban, ahogy mindig, most is volt akadályverseny. Csakhogy szakadó esőben. Tudom sok-sok akadályverseny volt már szakadó esőben. Nem szoktam megijedni egy kis esőtől, de aznap reggel bennem komolyan felmerült, hogy valami "B tervet" kéne felállítani. Mondjuk zsebakadályversennyé módosítani az eredeti tervet. Nem lehetett. Jobb is így.
 

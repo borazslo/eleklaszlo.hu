@@ -3,7 +3,7 @@ layout: post
 title: "A Vatikán és a facebook"
 permalink:  /4843/ 
 date: 2009-05-21 11:21:52
-tags:  [ média ] 
+tags:  [ média, egyház, pápa, digitális ]
 image:  /files/images/flickr_2922557546.jpg 
 ---
 A tömegtájékoztatási világnapra (május 24.) végre alkotott valamit a <a href="http://vatican.va">Vatikán</a>. Még januárban elindították a<a href="http://youtube.com/vatican"> youtube-on a vatikáni csatornát</a>, most pedig iPhone-on is nézegethetjük a <a href="http://www.h2onews.org">h2onews </a>legfrissebb pápás híreit.

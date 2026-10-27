@@ -3,7 +3,7 @@ layout: post
 title: "Az elmúlt három nap"
 permalink:  /4563/ 
 date: 2007-12-12 08:16:34
-tags:  [  ] 
+tags:  [ életjel, börtön, kirándulás ]
 ---
 Van, hogy három napig nem történik semmi különleges, semmi egetrengető. Az elmúlt három nap nem ilyen volt. Sok dolog sűrűsödött bele. Nem győzöm feldolgozni magamban. Nem győzőm leírni ide.
 

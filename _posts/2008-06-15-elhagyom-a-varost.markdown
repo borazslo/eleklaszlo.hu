@@ -3,7 +3,7 @@ layout: post
 title: "Elhagyom a várost"
 permalink:  /4726/ 
 date: 2008-06-15 20:04:38
-tags:  [ életjel, Róma ] 
+tags:  [ életjel, Róma, szeminárium ]
 ---
 <span lang="HU"><o:p></o:p></span><span lang="HU">Akármennyire is várom már az ismeretlen következő évet, amikor is új utakon próbálom követni ugyan azt az Istent, azért kicsit nehéz itthagyni Rómát. Az olaszok rémesen tudnak idegesíteni. Különösen mikor én is fáradt vagyok és folyton tanulnom kéne. Elküldtem őket már ide-oda; &bdquo;a quel paese&rdquo;. Azért mégis csak három évig együtt voltunk.</span>
 

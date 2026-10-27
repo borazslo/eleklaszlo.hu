@@ -3,7 +3,7 @@ layout: post
 title: "Bogártábor"
 permalink:  /4872/ 
 date: 2009-07-03 16:10:50
-tags:  [ életjel ] 
+tags:  [ táborozás, életjel, A Szív ]
 image:  /files/images/flickr_3684717495.jpg 
 ---
 Most értem haza. Még szokom. Bogaras lettem.

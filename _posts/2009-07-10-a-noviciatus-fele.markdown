@@ -3,7 +3,7 @@ layout: post
 title: "A novíciátus felé"
 permalink:  /4875/ 
 date: 2009-07-10 21:50:44
-tags:  [ életjel, hivatás, noviciátus ] 
+tags:  [ noviciátus, hivatás, jezsuita, kerékpár ]
 image:  /files/images/flickr_3509052792.jpg 
 ---
 Hetven nap múlva eltűnök a világból. Marad Isten és a többi novícius.

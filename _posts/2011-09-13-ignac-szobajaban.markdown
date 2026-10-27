@@ -3,7 +3,7 @@ layout: post
 title: "Ignác szobájában"
 permalink:  /5345/ 
 date: 2011-09-13 14:05:26
-tags:  [ imádság ] 
+tags:  [ imádság, jezsuita, Róma ]
 image:  /files/images/flickr_4466241576.jpg 
 ---
 Szent Ignác visszament az olajfák hegyére, mert nem emlékezett pontosan arra, hogy Krisztus urunk hogyan tarthatta a lábát.  

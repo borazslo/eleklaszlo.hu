@@ -3,7 +3,7 @@ layout: post
 title: "Regnum Majális előkészületek"
 permalink:  /4853/ 
 date: 2009-05-30 00:23:20
-tags:  [ életjel, regnum ] 
+tags:  [ Regnum, életjel, táborozás, kerékpár ]
 image:  /files/images/3586725042_8085c8d00a_o.jpg 
 ---
 Éjfél van. Hideg van. Itt ülök egy hálózsákban a színpadon, ahol holnap a dobos lesz. A rét szélén már állnak a sátrak. Viszont nincs itt áram és az útjelző táblák sincsenek a helyükön. Már csak kilenc óra és kezdődik a <a href="http://majalis.regnum.hu">Regnum Majális</a>.A mormoták vál

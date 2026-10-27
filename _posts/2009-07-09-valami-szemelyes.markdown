@@ -3,7 +3,7 @@ layout: post
 title: "Valami személyes"
 permalink:  /4874/ 
 date: 2009-07-09 01:14:09
-tags:  [  ] 
+tags:  [ hivatás, gondolat, jezsuita ]
 image:  /files/images/2536358399_88e6544fa9_o.jpg 
 ---
 Persze, hogy kérdezhetsz.

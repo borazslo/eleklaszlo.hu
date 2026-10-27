@@ -3,7 +3,7 @@ layout: post
 title: "mielőtt megöregszem"
 permalink:  /5335/ 
 date: 2011-11-01 09:00:00
-tags:  [  ] 
+tags:  [ gondolat, élet, vers, idézet ]
 ---
 Kaptam két idézetet születésnapomra. Nikosz Kazantzakisz (ismergetem), Ingrid Sjöstrand (nem ismergetem).
 

@@ -3,7 +3,7 @@ layout: post
 title: "Föld Órája, vagy micsoda"
 permalink:  /4823/ 
 date: 2009-03-28 21:53:34
-tags:  [ fényképezés ] 
+tags:  [ fényképezés, Budapest, gondolat ]
 image:  /files/images/flickr_3393390314.jpg 
 ---
 Ma volt a <a href="http://wwf.hu/foldoraja/">Föld Órája</a>. Engem inkább csak idegesített ez az egész hajcihő. A <a href="http://www.topfoto.hu/blog/?p=521">topfotó </a>kedvéért kimentem a rakpartra fényképezni. <em>(Nagyképek a hajtás után.)</em>

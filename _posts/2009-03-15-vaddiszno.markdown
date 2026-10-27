@@ -3,7 +3,7 @@ layout: post
 title: "Vaddisznó"
 permalink:  /4817/ 
 date: 2009-03-15 00:19:43
-tags:  [ mormoták, emlék, "1994", "1993" ] 
+tags:  [ mormoták, emlék, táborozás ]
 image-error:  138732264 
 ---
 Egy éjszaka arra ébredtem, hogy valami röfög a közelemben. Feltehetően egy vaddisznó. Nem mertem kinyitni a szememet, inkább hálózsákostul visszagurultam a sátorba. Könnyű így járni, ha a &bdquo;cseh&rdquo; sátraknak nincs elég cöveke.

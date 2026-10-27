@@ -3,7 +3,7 @@ layout: post
 title: "Betegség, szenvedés, halál?"
 permalink:  /5336/ 
 date: 2011-10-30 09:00:00
-tags:  [  ] 
+tags:  [ szenvedés, halál, jezsuita, teológia ]
 ---
 Aki válaszol: <a href="http://hu.wikipedia.org/wiki/Nemeshegyi_P%C3%A9ter">Nemeshegyi Péter SJ</a>
 

@@ -3,7 +3,7 @@ layout: post
 title: "Minots Ledge Light"
 permalink:  /6302/ 
 date: 2015-06-02 16:10:16
-tags:  [  ] 
+tags:  [ digitális, USA, gondolat ]
 image:  /files/images/DSC_5601.jpg 
 ---
 A 22-es szobából panorámás kilátás nyílik a cohasset-i öbölre és a bejárat szikláit messze őrző Minots Ledge világítótoronyra. Beleszerettem, na meg egy téli hobbi is jól jött, úgy hogy elintéztem, hogy az óráimon is a torony lábát mosó hullámokat nézhessem.

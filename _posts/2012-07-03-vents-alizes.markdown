@@ -3,7 +3,7 @@ layout: post
 title: "Vents Alizés"
 permalink:  /5725/ 
 date: 2012-07-03 08:56:25
-tags:  [ magamról, másutt ] 
+tags:  [ magamról, másutt, publikáció ]
 ---
 A <a href="http://ventsalizes.wix.com/revue">Vents Alizés 2012 tavaszi számában</a> megjelent egy fénykép sorozat tőlem is, aminek a bevezetőjeként a következő francia nyelvű bemutatkozás áll:
 

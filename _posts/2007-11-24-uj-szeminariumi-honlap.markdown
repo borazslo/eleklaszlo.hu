@@ -3,7 +3,7 @@ layout: post
 title: "Új szemináriumi honlap"
 permalink:  /4543/ 
 date: 2007-11-24 14:33:28
-tags:  [ szeminárium, PSRM, honlap ] 
+tags:  [ honlap, szeminárium, PSRM ]
 ---
 http://www.seminarioromano.it  
 A várva várt pillanat. Még kicsit döcög, de sok-sok küzdelem után végre elérhető a Pápai Római Nagyszeminárium (Pontificio Seminario Romano Maggiore), vagyis a szemináriumom új honlapja!!  

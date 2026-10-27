@@ -3,7 +3,7 @@ layout: post
 title: "Így vagyok"
 permalink:  /6058/ 
 date: 2014-09-24 04:03:07
-tags:  [ életjel, usa ] 
+tags:  [ életjel, USA ]
 ---
  *Nagyon boldog vagyok: testem, lelkem, elmém a helyén van, és megfelelő mértékben meg is dolgoztatik. Nagyon kivagyok: testem, lelkem, elmém idegen helyen van, és erején felül meg is dolgoztatik.* 
 

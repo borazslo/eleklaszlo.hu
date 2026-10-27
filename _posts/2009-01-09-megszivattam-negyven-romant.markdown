@@ -3,7 +3,7 @@ layout: post
 title: "Megszívattam negyven románt"
 permalink:  /4793/ 
 date: 2009-01-09 23:23:53
-tags:  [ életjel, sütés, fáradtság ] 
+tags:  [ életjel, sütés, BHTCS ]
 ---
 A legtöbb ismerősöm szerint minden jól megy. Legalábbis a felszínen. Pedig mélyebben csúnya gondok voltak/vannak az elmúlt hetekben. Azért nem esünk pánikba, mert egész mélyen minden teljesen stabil és szép. Középtájon van a baj.
 

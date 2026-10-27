@@ -3,7 +3,7 @@ layout: post
 title: "Kirándulás"
 permalink:  /4530/ 
 date: 2007-11-02 11:35:18
-tags:  [ életjel, ősz ] 
+tags:  [ kirándulás, ősz, szeminárium, életjel ]
 ---
 Az évfolyam kirándulás nem lelkigyakorlat, nem zarándoklat, nem turistáskodás. Mondta az elöljárónk. Hát akkor mi? Közös együtt lét.  
 Minden évben minden szentek ünnepén minden évfolyam együtt tölt egy napot. Ki itt, ki ott. Minden november elsején esik az eső.

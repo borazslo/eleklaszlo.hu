@@ -3,7 +3,7 @@ layout: post
 title: "Jezsuita szeretnék lenni"
 permalink:  /4713/ 
 date: 2008-04-11 06:33:37
-tags:  [ hivatás, jezsuita ] 
+tags:  [ hivatás, jezsuita, szentelés ]
 image:  /files/images/flickr_3090208570.jpg 
 ---
 Ugyan októberre ki volt tűzve a diakónusszentelésem, de előreláthatólag nem fognak szentelni, mert szeretnék jezsuita lenni. Ez bizony többeket meglepett.

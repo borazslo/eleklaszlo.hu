@@ -3,7 +3,7 @@ layout: post
 title: "érdekes katolikus internetes munkálkodások"
 permalink:  /5854/ 
 date: 2012-12-27 08:45:20
-tags:  [ digitális, egyház, szentírás, zsolozsma ] 
+tags:  [ digitális, szentírás, zsolozsma, honlap ]
 ---
 Az online világban egyre több katolikus dologba beleártottam magamat. Mindegyiket fejlesztgetjük, mindegyikhez keresünk segítőket és támogatókat. A napokban megint többen megkerestek, így összeszedtem mindent, hogy ki-ki megtalálhassa benne a helyét. (Ráadásul kiderült, hogy nem én vagyok az egyetlen szinte mindegyikkel összekötő közös pont.)
 

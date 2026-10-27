@@ -3,7 +3,7 @@ layout: post
 title: "Bemutatkozik a miskolci gimnázium iskolalelkészsége "
 permalink:  /5348/ 
 date: 2011-11-11 09:02:03
-tags:  [ jezsuita, Jezsu, életjel ] 
+tags:  [ jezsuita, iskola, hivatás, életjel ]
 ---
 A miskolci Iskolalelkészség készülő munkaköri leírásából:
 

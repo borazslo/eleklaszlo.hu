@@ -3,7 +3,7 @@ layout: post
 title: "Egy péntek"
 permalink:  /4694/ 
 date: 2008-03-01 14:27:06
-tags:  [ életjel, koncert, zene ] 
+tags:  [ életjel, zene, keresztút, szeminárium ]
 image:  /files/images/DSC_3685.JPG 
 ---
 Egy szinte átlagos péntekemen beszámolója következik. Hideg vízzel, keresztúttal, böjttel, misszionáriussal és János pápára morgó karmesterrel.

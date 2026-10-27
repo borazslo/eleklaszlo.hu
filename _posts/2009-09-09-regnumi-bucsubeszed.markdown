@@ -3,7 +3,7 @@ layout: post
 title: "Regnumi búcsúbeszéd"
 permalink:  /4883/ 
 date: 2009-09-09 00:51:15
-tags:  [ honlap, regnum ] 
+tags:  [ Regnum, honlap, hivatás, jezsuita ]
 image:  /files/images/3709825629_98355cc640_o.jpg 
 ---
 Oly rég óta vártuk, íme itt van. Én meg pont most megyek el.

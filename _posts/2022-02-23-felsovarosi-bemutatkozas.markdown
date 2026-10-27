@@ -3,7 +3,7 @@ layout: post
 title: "Felsővárosi bemutatkozás"
 permalink:  /7009/ 
 date: 2022-02-23 10:57:13
-tags:  [ magamról ] 
+tags:  [ magamról, kerékpár, digitális, zene, hivatás ]
 ---
 A [Szeged-Felsővárosi Szent Miklós (minorita) plébánián](http://szegedfelsovaros.hu/) így mutatkoztam be érkezésemkor:
 

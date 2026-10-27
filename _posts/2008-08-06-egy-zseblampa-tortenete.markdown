@@ -3,7 +3,7 @@ layout: post
 title: "Egy zseblámpa története"
 permalink:  /4730/ 
 date: 2008-08-06 18:55:43
-tags:  [ éjjel, fény, lámpa, szolgálat ] 
+tags:  [ táborozás, Regnum, emlék ]
 ---
 <meta http-equiv="CONTENT-TYPE" content="text/html; charset=utf-8"> 	<title></title> 	<meta name="GENERATOR" content="OpenOffice.org 2.4  (Linux)"> 	<style type="text/css">  
 	<!--  

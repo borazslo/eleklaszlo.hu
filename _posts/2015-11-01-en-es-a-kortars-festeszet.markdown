@@ -3,7 +3,7 @@ layout: post
 title: "Én és a kortárs festészet"
 permalink:  /6316/ 
 date: 2015-11-01 06:48:11
-tags:  [  ] 
+tags:  [ USA, iskola, gondolat ]
 image:  /files/images/PollockN10_IMG_4921.jpg 
 ---
 <a href="https://www.mfa.org/give/gifts-art/heritage-fund/slideshow#3">Fehér alapon két széles zöld háromszög</a>. <a href="http://www.markrothko.org/orange-and-yellow/">Narancs és sárga három négyzetméteren</a>. <a  href="http://www.mfa.org/collections/object/number-10-1949-34114">Össze-vissza mozdulatok</a>. <a href="http://www.mfa.org/collections/object/oxidation-painting-35593">No meg a levizelt rézlemez</a>. 

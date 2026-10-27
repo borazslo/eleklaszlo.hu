@@ -3,7 +3,7 @@ layout: post
 title: "Nemeshegyi Péter SJ – élő közvetítés"
 permalink:  /4840/ 
 date: 2009-05-05 20:18:08
-tags:  [ jezsuita ] 
+tags:  [ jezsuita, média, digitális, egyház ]
 image-error:  3924573950 
 ---
 Örömmel <a href="http://jezsuita.hu/main.php?folderID=1851&amp;articleID=8599&amp;ctag=articlelist&amp;iid=1">továbbítom a hírt</a>, hogy a <a href="http://www.jezsuita.hu">jezsuiták</a>&nbsp;megpróbálnak haladni a korral és kipróbálják milyen is az élő közvetítés az <a href="http://www.ustream.tv">Ustream </a>segítségével.  

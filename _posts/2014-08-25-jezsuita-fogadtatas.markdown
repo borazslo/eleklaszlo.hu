@@ -3,7 +3,7 @@ layout: post
 title: "Jezsuita fogadtatás"
 permalink:  /6054/ 
 date: 2014-08-25 07:37:31
-tags:  [ jezsuita, usa ] 
+tags:  [ jezsuita, USA, utazás ]
 ---
 Hiába vagyok jezsuita, hiába tudják, mikor érkezem, hiába ígérik, hogy várni fognak. Egy rendházba az első bejutás — legyen az a világ bármely pontján — mindig körülményes. Nem hallják, nincsenek otthon, nem figyelnek. Bármi előfordulhat. És elő is fordul. Itt kijöttek ugyan elém a repülőtérre, csak se táblát nem tartottak, sem nem kerestek fennhangon kiabálva.&nbsp;
 

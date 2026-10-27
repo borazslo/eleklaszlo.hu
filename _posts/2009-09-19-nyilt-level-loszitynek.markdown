@@ -3,7 +3,7 @@ layout: post
 title: "Nyílt levél Loszitynek"
 permalink:  /4887/ 
 date: 2009-09-19 01:14:25
-tags:  [  ] 
+tags:  [ Regnum, táborozás, hivatás, emlék ]
 ---
 <strong>Loszity minden kedves polgárának!</strong>
 

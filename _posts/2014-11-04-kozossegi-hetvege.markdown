@@ -3,7 +3,7 @@ layout: post
 title: "Közösségi hétvége"
 permalink:  /6061/ 
 date: 2014-11-04 04:55:46
-tags:  [ életjel ] 
+tags:  [ életjel, USA, jezsuita, mise ]
 ---
 A sötétben a hullámok át-átcsaptak a korláton. Az eső és az óceán eggyé válva áztatta a télikabátomat. Hamar bemenekültünk a Piros Papagájba vacsorázni. Így töltöttük a hétvégét a (szűken vett) közösséggel, Cohassetben.
 

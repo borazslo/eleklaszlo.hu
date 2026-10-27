@@ -3,7 +3,7 @@ layout: post
 title: "Admisszió, lektora avatás, akolitus avatás, szüleim Rómában, stb."
 permalink:  /4545/ 
 date: 2007-12-03 16:34:23
-tags:  [ életjel, lektor, akolitus, admisszió ] 
+tags:  [ akolitus, család, életjel ]
 ---
 A legutóbbi hétvége kissé sűrűre sikerült. Ám nagyon jó volt.
 

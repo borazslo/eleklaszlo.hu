@@ -3,7 +3,7 @@ layout: post
 title: "Drégely vára sötét éjjel"
 permalink:  /4728/ 
 date: 2008-08-01 19:17:55
-tags:  [ kirándulás, éjjel ] 
+tags:  [ táborozás, kirándulás, éjjel, Regnum ]
 ---
 Mindig is féltem egyedül a sötét erdőben. Kettesben már szeretem éjjel is az erdőt. Egyedül viszont többször inkább lefeküdtem aludni sötétedés után, hogy ne kelljen az éjjeli erdőben barangolni.
 

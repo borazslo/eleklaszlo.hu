@@ -3,7 +3,7 @@ layout: post
 title: "A fotós karrierem"
 permalink:  /4744/ 
 date: 2008-10-06 21:09:08
-tags:  [ fényképezés ] 
+tags:  [ fényképezés, Montserrat, publikáció, Regnum ]
 image:  /files/images/DSC_3093.jpg 
 ---
 Ez nem önajnározás kíván lenni, csak szeretném megosztani örömömet.

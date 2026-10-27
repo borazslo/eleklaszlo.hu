@@ -3,7 +3,7 @@ layout: post
 title: "5. Faragó testvérek és amíg a halál össze nem köt"
 permalink:  /7022/ 
 date: 2022-01-08 11:57:13
-tags:  [  ] 
+tags:  [ advent, portré, megbocsátás, halál ]
 categories: [ Készítsétek az Úr útját ]
 ---
 Az Úr megállt a temetőnél. Szereti a temetőket: sok-sok csodaszép emlék jön elő olyankor benne. „Életek, küzdelmek, sok-sok szeretet, majd a halál. És aztán... - olyan jóízű nevetés jön rá mindig amikor ez eszébe jut -  ... aztán szembe kerülnek Velem. Ítélet, vagy hogyan is szokták hívni a papok. Pedig inkább találkozás az. Ahol már időn túl együtt van múlt és jelen, minden amit tett és leginkább ami ő, és aki ő (mármint az elhunyt), és én aki én vagyok (mármint az Isten), és hirtelen mindenre fény derül, és … és az a bamba kép, ahogy rájön, hogy … Oh, olyan jó dolog Istennek lenni.” - engedte el magát az Úr. Most viszont nem a már élő halottak miatt jött, hanem megnézni Mészáros Gabriellát (ifjúkori nevén Faragót) és Szentmihályi Gábort (született Faragót). Oh, hogy micsoda gyűlölet tudott bennük lenni! Féltestvérek. Nem vér szerint, hanem úgy valójában. 

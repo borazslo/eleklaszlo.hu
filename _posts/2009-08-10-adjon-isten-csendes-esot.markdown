@@ -3,7 +3,8 @@ layout: post
 title: "Adjon Isten csendes esőt"
 permalink:  /6078/ 
 date: 2009-08-10 10:00:00
-categories:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ]
+tags:  [ kirándulás, kerékpár, eső ]
 ---
 „Adjon Isten csendes esőt,  
 Szerencsét az úton.  

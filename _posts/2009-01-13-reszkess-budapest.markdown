@@ -3,7 +3,7 @@ layout: post
 title: "Reszkess Budapest"
 permalink:  /4794/ 
 date: 2009-01-13 20:22:27
-tags:  [ életjel, autó, vezetés, jogosítvány ] 
+tags:  [ életjel, gondolat, munka ]
 image:  /files/images/jogsi.jpg 
 ---
 Ma végre a kezembe kaptam. Már december 16 óta úton volt. Most itt van a zsebembe. Bármikor kocsiba ülhetek és uzsgyi: irány a nagyvilág.

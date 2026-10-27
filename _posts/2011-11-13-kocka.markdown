@@ -3,7 +3,7 @@ layout: post
 title: "Kocka"
 permalink:  /5349/ 
 date: 2011-11-13 13:36:13
-tags:  [ jezsuita ] 
+tags:  [ jezsuita, szentek, könyv ]
 image-error:  http://kostka.deon.pl/wp-content/uploads/2011/03/tapeta2szer.jpg 
 ---
 Szaniszló otthagyta nemesi rokonait és családja ellenére Lengyelországból Rómáig gyalogolt, hogy jezsuita lehessen. Testvére dühösen nyomába eredt, de mire utolérte, meghalt.

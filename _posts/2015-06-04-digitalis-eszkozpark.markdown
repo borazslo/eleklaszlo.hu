@@ -4,7 +4,7 @@ title: "Digitális eszközpark"
 permalink:  /6074/ 
 date: 2015-06-04 07:35:41
 published: false
-tags:  [ A Szív ] 
+tags:  [ A Szív, digitális, zsolozsma, szentírás ]
 ---
 Akár lelkesedünk az internetért, akár a veszélyeit látjuk nagyobbnak, az internet és a digitalitás a mindennapjaink része. És ahogy nemcsak vasárnap a templomban vagyunk keresztények, hanem otthon, a munkában, és még álmunkban is, ugyanúgy nemcsak a kávézóban vagyunk hívők, hanem az internet mindenféle bugyraiban is.
 

@@ -3,7 +3,8 @@ layout: post
 title: "a hetedik nap"
 permalink:  /5222/ 
 date: 2011-09-30 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, vendégszeretet, pap ]
 ---
 Balatonszabadi – Siójut – Ságvár – Ecseny – Tab = 28,0 km
 

@@ -3,7 +3,7 @@ layout: post
 title: "Akolitus avatásom"
 permalink:  /4547/ 
 date: 2007-12-03 16:39:17
-tags:  [ életjel, akolitus ] 
+tags:  [ akolitus, hivatás, életjel ]
 ---
 
 

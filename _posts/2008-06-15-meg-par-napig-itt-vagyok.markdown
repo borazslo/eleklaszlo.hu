@@ -3,7 +3,7 @@ layout: post
 title: "Még pár napig itt vagyok"
 permalink:  /4725/ 
 date: 2008-06-15 20:02:40
-tags:  [ életjel, Róma ] 
+tags:  [ életjel, Róma, foci, szeminárium ]
 ---
 Közeleg az vizsgaidőszak vége. A szeminárium már véget ért. Volt itt minden az elmúlt két hétben.
 

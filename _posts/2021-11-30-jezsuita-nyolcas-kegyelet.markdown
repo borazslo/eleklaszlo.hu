@@ -3,7 +3,7 @@ layout: post
 title: "Kegyelet"
 permalink:  /7004/ 
 date: 2021-11-30 19:40:11
-tags:  [ másutt, A Szív ] 
+tags:  [ másutt, jezsuita, lelkigyakorlat, A Szív ]
 ---
 Tudom, hogy ez a hó nem az a hó. Tudom, hogy nincs itt: elvitték, elhamvasztották. Tudom, hogy egy lépéssel se vagyok hozzá közelebb itt a hegyen, mint bárhol másutt a világban. Tudom, hogy feltámad. Tudom, hogy az Úrral van együtt. És végre igazán boldog.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Családi nyaralás"
 permalink:  /4866/ 
 date: 2009-06-19 00:24:24
-tags:  [ család ] 
+tags:  [ család, nyár, életjel ]
 image:  /files/images/3639854640_4c49063635_o.jpg 
 ---
 Talán már tíz éve, hogy a családom utoljára több napot töltött együtt. Most újra együtt az egész család.

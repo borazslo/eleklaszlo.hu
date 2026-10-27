@@ -3,7 +3,7 @@ layout: post
 title: "Bukósisak"
 permalink:  /4784/ 
 date: 2008-12-30 05:13:45
-tags:  [ nyár, emlék, "2003", kerékpár, baleset, Szlovénia, bukósisak ] 
+tags:  [ kerékpár, kirándulás, baleset, emlék ]
 ---
 Egymás hegyén-hátán álltak a kerékpárok. A fél útpályát elfoglaltuk. Tényleg csak Istennek köszönhető, hogy éppen akkor senki sem jött arra a 409-es úton. Pár perc múlva már alig lehetett átkelni rajta a Ljubljanából száguldó kamionoktól.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Menjetek a Tisza-tóra "
 permalink:  /5724/ 
 date: 2012-06-28 09:15:31
-tags:  [ kerékpár, csónak, kirándulás ] 
+tags:  [ kerékpár, kirándulás, nyár ]
 ---
 Hírtelen felindulásból egy este letekertem a Tisza-tóra, másnap eveztem nyolc órát és hazatekerem.
 

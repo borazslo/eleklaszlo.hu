@@ -4,7 +4,7 @@ title: "Öt hét Anglia"
 permalink:  /5999/
 date: 2013-10-18 21:10:06
 image: /files/images/2013-10-18-ot-het-anglia/DSC_9924.jpg
-tags:  [ Anglia, utazás ]
+tags:  [ Anglia, utazás, kirándulás ]
 ---
 - Az önmagában jellegtelen fővároson nem sem segít az sem, hogy a másik oldalon közlekednek. Csak a fekete taxik és a piros emeletes buszok.
 - Hogy élhetünk itthon királyi család nélkül? Egy királynő rettentő praktikus volna: beszédtéma, ünnepek, őrségváltások, parádék. Kenyér és cirkusz.

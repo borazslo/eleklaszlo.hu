@@ -3,7 +3,7 @@ layout: post
 title: "Szegénység"
 permalink:  /7003/ 
 date: 2021-12-30 20:40:11
-tags:  [ másutt, A Szív ] 
+tags:  [ másutt, jezsuita, lelkigyakorlat, A Szív, szegénység ]
 ---
 Rengeteg féle kábelem, átalakítóm, csatlakozóm van. A legtöbbet csak nagyon ritkán veszem elő, de olyan jó hogy ha éppen szükség van a szolgálatomhoz valamire, akkor számíthatok magamra: lesz megfelelő kábelem.
 

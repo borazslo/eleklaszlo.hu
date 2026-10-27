@@ -4,7 +4,7 @@ title: "Fogadalomtétel - Fogadalmazók"
 permalink:  /5341/ 
 date: 2011-08-04 13:32:12
 published: false
-tags:  [  ] 
+tags:  [ hivatás, jezsuita, noviciátus ]
 ---
 Már nagyon benne vagyunk az eljárásban, de még nincs meg a hivatalos bejezése, ezért még nincs hivatalos lista a fogadalmazokról.
 

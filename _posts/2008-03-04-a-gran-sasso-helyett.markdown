@@ -3,7 +3,7 @@ layout: post
 title: "A Gran Sasso helyett"
 permalink:  /4698/ 
 date: 2008-03-04 07:23:52
-tags:  [ kirándulás, hegyek ] 
+tags:  [ kirándulás, hegyek, életjel ]
 image:  /files/images/DSC_3699.JPG 
 ---
 Végre megint szabad vasárnapunk volt. A kórház után este 11-ig kaptunk kimenőt. Múltkor a Lago del Turano helyett Terminillo havas csúcsai között kötöttem ki. Most a <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=Campo+Imperatore,+L">Gran Sasso</a>-t néztem ki magamnak. S ebből lett a kisebb, de gyaloglósabb <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;sll=42.37947,13.508549&amp;sspn=0.07938,0.187111&amp;ie=UTF8&amp;ll=42.339863,13.374653&amp;spn=0.004964,0.011694&amp;t=h&amp;z=17">Monteluco</a>. A Gran Sasso alig 40 perccel van távolabb, mint a Terminillo, de legalább 500 méterrel magasabb. A drótkötélpálya itt 1000 méter szintkülönbséget hidal át. Én kitalálom a dolgokat, aztán lesz belőlük valami egészen más.

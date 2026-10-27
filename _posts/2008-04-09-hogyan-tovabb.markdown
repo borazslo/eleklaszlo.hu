@@ -3,7 +3,7 @@ layout: post
 title: "Hogyan tovább?"
 permalink:  /4711/ 
 date: 2008-04-09 09:59:54
-tags:  [ életjel, jezsuita ] 
+tags:  [ hivatás, jezsuita, noviciátus, szeminárium ]
 ---
 Többek kérdezték és talán mégtöbbek kíváncsiak arra, hogy mi fog velem történni az elkövetkező időkben. &Iacute;me.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Nagypéntek három óra"
 permalink:  /4829/ 
 date: 2009-04-10 13:12:28
-tags:  [  ] 
+tags:  [ mise, nagyböjt, húsvét, imádság ]
 ---
 A kántor hamis volt. A passió össze-vissza csúszkált. Ráadásul állva hallgattuk meg. A kereszthódolathoz hívó hármas intonáció borzasztó magasra sikerült. Krisztus meghalt. Mégis.
 

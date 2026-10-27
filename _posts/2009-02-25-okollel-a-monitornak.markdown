@@ -3,7 +3,7 @@ layout: post
 title: "Ököllel a monitornak"
 permalink:  /4808/ 
 date: 2009-02-25 21:24:31
-tags:  [ számítógép, idegeskedés, nagyböjt, apeh ] 
+tags:  [ digitális, nagyböjt, gondolat ]
 image:  /files/images/flickr_4317198235.jpg 
 ---
 Ma megint szembesülnöm kell azzal, hogy esendő ember vagyok: türelmetlen. Máma széjjel akarok zúzni mindent ami számítógép.

@@ -4,6 +4,7 @@ title: "Portisch Lajos emléktúra - 8. nap"
 permalink:  /4507/ 
 date: 2005-07-02 19:55:52
 categories: [ 2005 Szent Laci ]
+tags:  [ kirándulás, gyaloglás, zarándoklat, mise ]
 ---
 Azt hiszem szombat volt. Pont búcsú volt aznap. Mi nem a búcsús misére mentünk, hanem még a reggelire. Nem voltak még sokan. Borongós, de szép reggel volt. Lehet, hogy csak azért, mert már a célban voltunk. A mise közben megjött Balláék mamája is, meg Tündi is, meg sok tiszta ruha Borinak, mert ő azért nagyon vágyott arra is. (És ő nem jött haza velünk.) Mise után egyik ferencessel beszélgettünk a kegytárgybolt előtt. Ez csak azért fontos, mert nem sokkal később ez az atya adta össze Tündit és Márkot.
 

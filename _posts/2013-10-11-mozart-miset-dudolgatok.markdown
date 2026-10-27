@@ -3,7 +3,7 @@ layout: post
 title: "Mozart misét dúdolgatok"
 permalink:  /5997/ 
 date: 2013-10-11 21:09:09
-tags:  [ zene, hivatás ] 
+tags:  [ zene, ének, jezsuita, emlék ]
 ---
 <a href="http://www.jezsuita.hu/2013-08-26/interju-bellovics-gabor-jezsuita-noviciussal">Bellovics Gáborral</a>, a <a href="http://www.jezsuita.hu/galeria/fotogaleria/noviciusok-fogadalomtetele">frissen fogadalmazott</a> jezsuitával, tavaly ismerkedtem meg. Nem rég kiderült, hogy már 2001-ben találkoztunk és így fontos közös emlékeink vannak.
 

@@ -3,7 +3,8 @@ layout: post
 title: "Íme eljött"
 permalink:  /6087/ 
 date: 2009-08-15 10:00:00
-categories:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ]
+tags:  [ kirándulás, kerékpár, Dánia ]
 ---
 Az utolsó 150km. A szél most is fújt. Másként végre. Esett. Legalábbis Koppenhágában. Meg volt defektem is. Aztán száguldoztam. És effélék. Hosszabban is érdekel? Ám legyen.
 

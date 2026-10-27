@@ -3,7 +3,7 @@ layout: post
 title: "Roma Ignatiana"
 permalink:  /4886/ 
 date: 2009-09-14 02:28:17
-tags:  [ Róma ] 
+tags:  [ zarándoklat, Róma, jezsuita ]
 image-error:  3917091611 
 ---
 Egy zarándoklat, egy mindent átfogó játék, és rengeteg fénykép.

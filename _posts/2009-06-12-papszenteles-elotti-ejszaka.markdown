@@ -3,7 +3,7 @@ layout: post
 title: "Papszentelés előtti éjszaka"
 permalink:  /4863/ 
 date: 2009-06-12 20:31:45
-tags:  [ pap ] 
+tags:  [ szentelés, pap, imádság, szeminárium ]
 image:  /files/images/flickr_2922592488.jpg 
 ---
 Fiatalok gyalogolnak Esztergom felé az éjszakában. Közben a szentelendők kitakarítják a szobájukat és imádkoznak egyet közösen. <a href="http://www.hirporta.hu/?hir=16699">Holnap papszentelés</a>.

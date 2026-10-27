@@ -3,7 +3,7 @@ layout: post
 title: "Man In Black"
 permalink:  /4510/ 
 date: 2007-09-11 21:00:24
-tags:  [ szeminárium, kispap, mib, videó ] 
+tags:  [ szeminárium, kispap, videó, Róma ]
 ---
 A Pontificio Seminario Romano Maggiore bemutatja:
 

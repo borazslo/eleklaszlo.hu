@@ -3,7 +3,8 @@ layout: post
 title: "2004 Lengyelország, 1. rész - Bp-H/S határ "
 permalink:  /437/ 
 date: 2004-10-19 10:00:00
-categories:  [ 2004 Lengyelország ] 
+categories:  [ 2004 Lengyelország ]
+tags:  [ kirándulás, Lengyelország, stoppolás ]
 ---
 Elindultam szép hazámból...
 

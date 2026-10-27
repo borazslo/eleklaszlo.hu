@@ -3,7 +3,7 @@ layout: post
 title: "Fiducia - Szombat"
 permalink:  /4681/ 
 date: 2008-02-05 22:12:35
-tags:  [ életjel, fiducia ] 
+tags:  [ fiducia, életjel, szeminárium, zene ]
 ---
 Az egész szombat egyetlen ünnep volt. Mosogathattunk egész nap.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Szoftver indítja a padfűtést a szegedi Szent József-templomban – Jezsuita Hackathonon jártunk"
 permalink:  /7035/
 date: 2023-06-16 15:10:00
-tags:  [ másutt, Magyar Kurír ]
+tags:  [ digitális, Magyar Kurír, másutt, egyház ]
 image:  /files/images/2023-06-16-jezsuita-hackathonon-jartunk/img1.jpg
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Cserhát 500"
 permalink:  /4508/ 
 date: 2004-02-11 20:11:07
-tags:  [ TÚRÁK ] 
+tags:  [ kirándulás, tél, éjjel, TÚRÁK ]
 image:  /files/images/flickr_4611022843.jpg 
 ---
 Ez a beszámoló az index.hu portál <a href="http://forum.index.hu/Article/showArticle?t=9001551">teljesítménytúra rovatá</a>ba készült. Az itt olvasható nevek is onnan valók. Azt hiszem.

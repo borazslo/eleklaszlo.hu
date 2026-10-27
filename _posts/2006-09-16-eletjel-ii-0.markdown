@@ -3,7 +3,7 @@ layout: post
 title: "Életjel II/0."
 permalink:  /10/ 
 date: 2006-09-16 10:00:00
-tags:  [ életjel ] 
+tags:  [ életjel, szeminárium, Róma, kispap ]
 ---
 <b>Kedves Mindenki!</b>
 

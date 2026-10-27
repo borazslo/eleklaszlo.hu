@@ -3,7 +3,7 @@ layout: post
 title: "20 db tésztaszűrőnket projektorra cserélnénk"
 permalink:  /4782/ 
 date: 2008-12-27 14:06:36
-tags:  [ Montserrat, A Szív ] 
+tags:  [ Montserrat, A Szív, életjel, humor ]
 image:  /files/images/DSC_3899.jpg 
 ---
 Szenteste a karácsonyfánk alatt furcsa alakú ajándék várta a közösséget. A &quot;Fűrészfogú-hegy lakóinak, fenn a harmadikon&quot; hírdette a felirat. Egy tésztaszűrőt kaptunk ajándékba. Várpalota környékén egy kedves néni decemberben is elolvasta <a href="http://jezsuita.hu/main.php?folderID=1518&amp;articleID=8419&amp;ctag=articlelist&amp;iid=1">A Szív legújabb számát</a>. (Pedig ez a jubileumo szám jóval hosszabb a többinél.)

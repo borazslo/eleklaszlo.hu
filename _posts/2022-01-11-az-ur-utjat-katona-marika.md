@@ -3,7 +3,7 @@ layout: post
 title: "8. Katona Marika és a természet"
 permalink:  /7023/ 
 date: 2022-01-11 11:57:13
-tags:  [  ] 
+tags:  [ advent, portré, család ] 
 categories: [ Készítsétek az Úr útját ]
 ---
 Az Úr tovább tekerte öreg biciklijét. Elhagyta a falvakat. Kietlen lett a táj. Forrást már régen látott, és árnyék sem enyhítette a zarándok útját járó Urat. A fák is egészen kiszáradtak a környéken. Pusztaság. Az Úrnak a tájról eszébe jutott a Sínai-félsziget. Látta ószövetségi szemével a népet, a vándorlást, a mannát. Az újra és újra reményét vesztett népet, a lázadó népet, a bálványimádót, az elfordulót, a … Egészen belelovalta volna magát, ha nem látott volna egyidőben az új- és örök szövetségi szemével is. Azzal látta a reményvesztett, küzdő népet, aki rászorul a segítségre. Az újra és újra bocsánatért esedező, az önmagát megszaggató, a hozzá kiáltó népet. Az utat keresőt, a kóborlót, a vándort befogadót, a szabadulást soha el nem felejtőt. Az Úr látta mindezt a kerékpárján gurulva a sivatagoiasodó vidéken, és így nézte a legújabb fajú kaktuszokat, az apró kis állatkákat, a süvítő szelet, és a kislányt a háza mellett a kert és a puszta határán. Életét is adta volna, ha az segít valamit. De most nem volt rá szükség, így inkább lassított a kanyar előtt, és megcsodálta a kislányt. 

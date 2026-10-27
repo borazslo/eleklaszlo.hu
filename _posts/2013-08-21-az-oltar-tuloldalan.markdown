@@ -3,7 +3,7 @@ layout: post
 title: "Az oltár túloldalán"
 permalink:  /5985/ 
 date: 2013-08-21 20:54:24
-tags:  [ magamról ] 
+tags:  [ magamról, hivatás, jezsuita, Regnum, noviciátus ]
 ---
 A réteg tagjai között valószínűleg bőven akadnak olyanok, akik kevesebbszer voltak Regnum táborban, mint ahányszor Elek Laci járt rétegtáborban. Minket is örvendeztet jelenlétével, itt az ideje, hogy múltját, jelenét és jövőjét is megismerjük.
 

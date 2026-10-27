@@ -3,7 +3,7 @@ layout: post
 title: "Nézz be Vértestolnára!"
 permalink:  /25/ 
 date: 2007-07-24 15:42:10
-tags:  [ pap, falu, táborozás ] 
+tags:  [ Regnum, táborozás, pap ]
 
 ---
 Nem sikerült papot szerezni a Vizicikányok táborába, ezért felkerestük a helyi atyát, Markó Gyula verbitát. A kapcsolatunk annyira meglepett, hogy eldöntöttem megírom nektek, hogy s mint történt.  

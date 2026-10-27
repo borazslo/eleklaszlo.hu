@@ -3,7 +3,7 @@ layout: post
 title: "Mikor (majdnem) minden működik"
 permalink:  /4809/ 
 date: 2009-02-27 09:09:13
-tags:  [  ] 
+tags:  [ család, digitális, honlap ]
 ---
 A tegnapi hosszú, de nagyon jó nap volt. A szerdai számítógépes ügyek árnyékában még inkább.
 

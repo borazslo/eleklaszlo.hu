@@ -3,7 +3,7 @@ layout: post
 title: "A szinódus igazi fontosságáról"
 permalink:  /6060/ 
 date: 2014-10-19 16:25:24
-tags:  [ egyház ] 
+tags:  [ egyház, pápa, gondolat ]
 ---
 <p class="p1"><span style="line-height: 1.538em;">A legtöbb szinódusról szóló cikk azt részletezi, hogy hogyan esnek egymásnak a bíborosok, hogyan </span><a href="http://www.catholicworldreport.com/Blog/3439/card_kasper_denies_he_gave_interview_journalist_posts_recording_of_interview.aspx" style="line-height: 1.538em;"><span class="s2">hazudoznak a sajtónak</span></a><span style="line-height: 1.538em;">, hogyan üvöltöznek egymással, hogyan</span><a href="http://kereszteny.mandiner.hu/cikk/20141015_beverly_de_soto_romai_szinodus_mit_akarnak_a_nemetek" style="line-height: 1.538em;"><span class="s2"> szervezkednek egymás ellen</span></a><span style="line-height: 1.538em;">. Ráadásul a káosz közepén lassan arról döntenek, hogy áldozhatnak és gyóntathatnak az újraházasodott homoszexuális párok is. Tisztára mint egy </span><a href="http://www.cruxnow.com/church/2014/10/16/synod-is-more-and-more-like-a-soap-opera/" style="line-height: 1.538em;"><span class="s2">szappanopera</span></a><span >.</span></p>
 

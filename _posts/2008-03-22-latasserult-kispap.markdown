@@ -3,7 +3,7 @@ layout: post
 title: "Látássérült kispap"
 permalink:  /4705/ 
 date: 2008-03-22 15:44:35
-tags:  [ kórház, kispap, betegség ] 
+tags:  [ kispap, kórház, imádság ]
 ---
 Tampu Máriusz az Esztergom-Budapesti Egyházmegye negyedéves kispapja. Jófej csángó kispap.
 

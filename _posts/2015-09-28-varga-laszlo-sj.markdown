@@ -3,7 +3,7 @@ layout: post
 title: "Varga László SJ"
 permalink:  /6304/ 
 date: 2015-09-28 16:00:00
-tags:  [  ] 
+tags:  [ jezsuita, zarándoklat, halál ]
 ---
 
 

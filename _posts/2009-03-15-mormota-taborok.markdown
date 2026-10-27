@@ -3,7 +3,7 @@ layout: post
 title: "Mormota táborok"
 permalink:  /4816/ 
 date: 2009-03-15 00:04:54
-tags:  [ mormoták, emlék ] 
+tags:  [ mormoták, emlék, táborozás, Regnum ]
 image:  /files/images/flickr_3354316637.jpg 
 ---
 A minap megijedtem, hogy nem tudom felsorolni az összes mormota tábor helyszínét. (A vezetők nevét meg sem kíséreltem felsorolni.) A feladat tehát adott összegyűjteni a mormota (és pseudo-mormota táborok helyét, témáját, idejét, vezetőit.)

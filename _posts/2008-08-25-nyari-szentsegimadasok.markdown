@@ -3,7 +3,7 @@ layout: post
 title: "Nyári szentségimádások"
 permalink:  /4733/ 
 date: 2008-08-25 17:44:39
-tags:  [ táborozás, szentségimádás, nyár ] 
+tags:  [ szentségimádás, táborozás, imádság, Regnum ]
 ---
 <meta content="text/html; charset=utf-8" http-equiv="CONTENT-TYPE"><title></title><meta content="OpenOffice.org 2.4  (Win32)" name="GENERATOR"><style type="text/css">  
 	<!--  

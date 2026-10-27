@@ -3,7 +3,8 @@ layout: post
 title: "a kilencedik nap"
 permalink:  /5224/ 
 date: 2011-10-04 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, szenvedés, eső ]
 ---
 Andocs – Fiad – Felsőmocsolád = 21,1 km
 

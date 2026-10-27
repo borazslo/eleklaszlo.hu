@@ -3,7 +3,7 @@ layout: post
 title: "Diakónusszentelés"
 permalink:  /6501/ 
 date: 2018-02-26 22:26:08
-tags:  [ szentelés ] 
+tags:  [ szentelés, jezsuita, hivatás, pap ]
 image:  /files/images/diakonusszentelesimeghivo.jpg 
 ---
 <center>A Jézus Társasága (Jezsuita Rend) Magyarországi Rendtartománya szeretettel hívja   

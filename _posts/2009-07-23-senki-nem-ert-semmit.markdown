@@ -3,7 +3,7 @@ layout: post
 title: "Senki nem ért semmit"
 permalink:  /4877/ 
 date: 2009-07-23 16:40:38
-tags:  [  ] 
+tags:  [ vers, gondolat, halál ]
 image:  /files/images/flickr_2922561664.jpg 
 ---
 Senki nem ért semmit

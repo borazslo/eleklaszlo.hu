@@ -3,7 +3,7 @@ layout: post
 title: "Animáció - werk"
 permalink:  /4855/ 
 date: 2009-06-01 00:16:29
-tags:  [ fényképezés ] 
+tags:  [ fényképezés, iskola, film ]
 image:  /files/images/3581725621_e762cbb833_o.jpg 
 ---
 <p class="rteleft">Nyolcadikos diákokkal csinálunk animációt. Krétával rajzolunk a táblára, amit apró változásonként lefényképezünk. A sok-sok képet egymás után levetítjük és kész az animációs filmecske.</p>

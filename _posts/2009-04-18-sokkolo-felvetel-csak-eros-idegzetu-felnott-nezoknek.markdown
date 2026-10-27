@@ -3,7 +3,7 @@ layout: post
 title: "„Sokkoló felvétel, csak erős idegzetű, felnőtt nézőknek.”"
 permalink:  /4834/ 
 date: 2009-04-18 12:52:40
-tags:  [  ] 
+tags:  [ média, gondolat, gyerekek ]
 image-error:  http://mwo.sytes.net/data/465767_36c7823006f67c6a894227412d809bad_wm.jpg 
 ---
 <a href="http://index.hu/kulfold/2009/04/17/eduardo_rozsa-flores_lehet_az_egyik_boliviai_aldozat/">Bolíviában a diktátor rendőrei megöltek pár embert.</a> Állítólag zsoldos terroristákat. Állítólag az elnök életére akartak törni. Állítólag tűzharcban. <a href="http://reakcio.blog.hu/2009/04/17/rozsa_flores_eduardo_a_magyar_kalandor?fullcommentlist=1#c5579212">Bár, nem olyan biztos a</a>z. Érdekel is engem.

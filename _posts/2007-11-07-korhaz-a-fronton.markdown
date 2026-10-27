@@ -3,7 +3,7 @@ layout: post
 title: "Kórház a fronton"
 permalink:  /4535/ 
 date: 2007-11-07 11:19:11
-tags:  [ kórház, életjel ] 
+tags:  [ kórház, egyház, életjel ]
 
 ---
 Már észrevehettétek, hogy ebben az évben a kórház igen fontos helyet foglal el az életemben. Legalábbis, amíg lesz kórház. Kiderült ugyanis, hogy a kórház igazgatósága már évek óta igyekszik kiebrudalni a kápolnácskát, az egyhézat az intézményből. Kórház vagyunk a fronton, meg kell harcolni a jelenlétünkért.

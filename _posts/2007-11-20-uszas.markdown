@@ -3,7 +3,7 @@ layout: post
 title: "Úszás"
 permalink:  /4538/ 
 date: 2007-11-20 06:45:45
-tags:  [ életjel, úszás, sport ] 
+tags:  [ úszás, sport, életjel ]
 ---
 Most vasárnap, immár harmadszor, elmentem úszni. Belevetettem magam a bedencébe és úsztam és úsztam, míg be nem görcsölt a lábam.
 

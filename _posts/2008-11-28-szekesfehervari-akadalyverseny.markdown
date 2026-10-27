@@ -3,7 +3,7 @@ layout: post
 title: "Székesfehérvári akadályverseny"
 permalink:  /4768/ 
 date: 2008-11-28 17:44:23
-tags:  [ játék, jezsuita, Montserrat, akadályversemy ] 
+tags:  [ játék, jezsuita, Montserrat, életjel ]
 ---
 „A pihenés ránk is fért: most kezdődött csak a kaland. A jezsuita novíciusok szerveztek nekünk város- és 'rendismerettel' egybekötött akadályversenyt. A városlakók bizonyára nem felejtették el egykönnyen a belvárosban ide-oda futkosó, Szív újságot rájuk tukmáló, az esküvőre betörő, kis papírcetliket kereső, macimentő, szemetet szedő, a jezsuitákról reklámfilmet forgató, és Kaszap Istvánról kérdőívet készítő kollégistákat.” &nbsp;(<a href="http://www.szentignac.hu/kolis-elet/kolihetvege/kollegiumi-hetvege-szekesfehervaron" target="_blank">www.szentignac.hu</a>)
 

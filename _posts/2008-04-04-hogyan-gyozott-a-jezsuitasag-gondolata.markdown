@@ -3,7 +3,7 @@ layout: post
 title: "Hogyan győzött a jezsuitaság gondolata?"
 permalink:  /4709/ 
 date: 2008-04-04 06:23:32
-tags:  [ hivatás, jezsuita, étlejel ] 
+tags:  [ hivatás, jezsuita, imádság, szeminárium ]
 ---
 Minden Ádámmal és Évával kezdődött, de hogy ne kelljen annyit, írni inkább csak két évig megyek vissza az időben. Megpróbálom viszonylag részletesen elmesélni, hogy hogyan jutottam idáig. Legalábbis azt, hogy most hogyan látom. Várhatóan az évek során sok minden fog még tisztulni, tisztázódni. Hangsúlyok erre-arra eltolódhatnak. Naplómban visszalapozva így látom a történteket:
 

@@ -3,7 +3,7 @@ layout: post
 title: "Négy kg parizer"
 permalink:  /4871/ 
 date: 2009-06-29 01:14:07
-tags:  [ jó hír ] 
+tags:  [ táborozás, jó hír, A Szív ]
 image:  /3117742717 
 ---
 &bdquo;Hú mennyi hús&rdquo; &ndash; mondta Debil Joe a hentesüzletben. Én meg újra megállapítottam, hogy van Isten.

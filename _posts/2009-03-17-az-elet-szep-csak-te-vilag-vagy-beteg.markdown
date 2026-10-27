@@ -3,7 +3,7 @@ layout: post
 title: "Az élet szép, csak te, Világ, vagy beteg"
 permalink:  /4819/ 
 date: 2009-03-17 22:43:21
-tags:  [ hivatás, gondolat, "2040" ] 
+tags:  [ gondolat, hivatás, "2040" ]
 ---
 <em>„Ma kihirdettem a határidőt: 2040-ig kell a magyar nemzetet a társadalmi és morális válságból kihozni. Ez nem jó jeleket jelentsen, hanem eredményt. Lehet csatlakozni a mozgalomhoz.”</em>&nbsp;<a href="http://aftermodern.hu/az-unneprol">aftermodern</a>
 

@@ -3,7 +3,7 @@ layout: post
 title: "Bábel"
 permalink:  /4804/ 
 date: 2009-01-28 22:40:22
-tags:  [ Bábel ] 
+tags:  [ gondolat, film, élet ]
 image:  /files/images/flickr_3199419169.jpg 
 ---
 Ma angolul beszélgettem egy észttel. A héten egy szlovákkal e-maileztem angolul. A múltkor egy románnal telefonáltam olaszul. Dániában magyar létemre olaszul társalogtam egy bolgár sráccal.

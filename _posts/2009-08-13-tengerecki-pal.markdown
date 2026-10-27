@@ -3,7 +3,8 @@ layout: post
 title: "Tengerecki Pál"
 permalink:  /6084/ 
 date: 2009-08-13 10:00:00
-categories:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ]
+tags:  [ kirándulás, kerékpár, gyerekek ]
 ---
 A tegnapi mélypont után ma visszatért belém a lélek. Jót aludtam. Nagyon tekertem, pedig fújt a szél. És éppen megfürödtem. (Bár fizettem érte.)
 

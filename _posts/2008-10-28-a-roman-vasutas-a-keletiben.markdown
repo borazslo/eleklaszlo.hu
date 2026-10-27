@@ -3,7 +3,7 @@ layout: post
 title: "A román vasutas a Keletiben"
 permalink:  /4754/ 
 date: 2008-10-28 11:27:36
-tags:  [ jó hír, vonatozás ] 
+tags:  [ jó hír, vonatozás, Róma, utazás ]
 ---
 Nem szoktam meg, hogy kérés nélkül is segítséget kapjak. Különösen is meglepődtem mikor a Magyarországból Olaszországba közlekedő vonat román kísérője angolul próbál nekem segíteni. Pedig nem is kérdeztem semmit.
 

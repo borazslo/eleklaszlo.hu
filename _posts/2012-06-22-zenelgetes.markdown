@@ -3,7 +3,7 @@ layout: post
 title: "Zenélgetés"
 permalink:  /5716/ 
 date: 2012-06-22 08:52:07
-tags:  [ zene ] 
+tags:  [ zene, emlék, öröm ]
 ---
 <a href="/files/mp3/gj/bach.mp3">Play Song</a>&nbsp;[swf file:http://eleklaszlo.hu/files/mp3/gj/bach.mp3]
 

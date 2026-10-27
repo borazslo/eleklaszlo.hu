@@ -3,7 +3,7 @@ layout: post
 title: "Keveredés"
 permalink:  /5683/ 
 date: 2012-05-21 19:59:43
-tags:  [ életjel ] 
+tags:  [ életjel, hivatás, iskola, munka ]
 ---
 Sok nekem ez az öt idősík. Lassan év vége, így kezdődhet a reflexió. Közben terveznem kell az őszt és a 2013/14-es tanévet. Pedig még keményen zajlik az iskola. Egyik pillanatban a távoli célokat boncolgatom, a másikban magamat elemzem, miközben éppen hittanórát kell tartanom.
 

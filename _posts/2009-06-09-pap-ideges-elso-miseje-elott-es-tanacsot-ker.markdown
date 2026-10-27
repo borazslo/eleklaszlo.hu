@@ -3,7 +3,7 @@ layout: post
 title: "pap ideges első miséje előtt és tanácsot kér"
 permalink:  /4862/ 
 date: 2009-06-09 21:31:16
-tags:  [ pap ] 
+tags:  [ pap, szentelés, újmise, hivatás ]
 image:  /files/images/DSC_9472-6.jpg 
 ---
 Ma valaki beírta a google keresőjébe, hogy „<a href="http://www.google.hu/search?q=pap+ideges+első+miséje+előtt+és+tanácsot+kér">pap ideges első miséje előtt és tanácsot kér</a>”. Első helyen az én oldalam jött be. <a href="/16">Egy régi életjelem</a>. De hiába látogatott el az oldalra, nem kapott segítséget, így gyorsan tovább állt. Most üzenek neki valamit, hátha visszatér.

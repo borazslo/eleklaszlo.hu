@@ -3,7 +3,8 @@ layout: post
 title: "a tizenötödik nap"
 permalink:  /5231/ 
 date: 2011-10-16 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, szenvedés, vendégszeretet ]
 ---
 Királyegyháza – Magyarmecske – Kisasszonyfa – Téseny – Baksa – Görcsöny = 25,0 km
 

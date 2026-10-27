@@ -4,7 +4,7 @@ title: "Egy kirándulás emlékére"
 permalink:  /4735/ 
 date: 2008-09-03 11:19:41
 published: false
-tags:  [  ] 
+tags:  [ kirándulás, emlék, Erdély ]
 ---
 2005\ nyarán hatan felmenekültünk a Kelemen-havasokba. &Iacute;rtam erről egy<a href="/erdely2005"> kis irományt is</a>.
 

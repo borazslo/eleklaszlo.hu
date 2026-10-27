@@ -3,7 +3,7 @@ layout: post
 title: "A hitstruktúra fejlődésének elmélete és gyakorlati alkalmazhatóságának határai"
 permalink:  /6500/ 
 date: 2017-10-15 21:11:45
-tags:  [ publikáció, másutt, Embertárs ] 
+tags:  [ publikáció, Embertárs, másutt ]
 image:  /files/images/EmbertarsCikkem_IMG_20180222_222621.jpg 
 ---
 Megjelent az [Embetárs](https://jezsuitakiado.hu/tipus/embertars/) folyóiratban [szakdolgozatom](/6343) első felének magyar fordításának egyszerűsített, de igen-igen elméletire sikerült változata:

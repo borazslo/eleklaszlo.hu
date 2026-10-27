@@ -3,7 +3,7 @@ layout: post
 title: "Gyorstalpaló a belső fórumról"
 permalink:  /4701/ 
 date: 2008-03-10 07:03:44
-tags:  [ életjel, gyónás ] 
+tags:  [ gyónás, egyház, életjel, szeminárium ]
 ---
 A héten minden délutánomat a Paenitentiaria Apostolica-n töltöttem. Ott tartottak egy kurzus a lelki életről, gyónásról, belső fórumról. A téma igen fontos és érdekes. A kurzus kevésbé volt meggyőző.
 

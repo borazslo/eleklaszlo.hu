@@ -3,7 +3,7 @@ layout: post
 title: "Nyílt nap, 2009. február 21."
 permalink:  /4802/ 
 date: 2009-01-27 19:09:04
-tags:  [ hivatás, jezsuita ] 
+tags:  [ jezsuita, hivatás, nyílt nap ]
 ---
 <p style="text-align: center; "><img src="/files/images/ihsnyiltnap.jpg" ></p>A <a href="http://www.jezsuita.hu">Jézus Társasága Magyarországi Rendtartománya</a> idén ünnepli fennállásának 100. évfordulóját. A jubileum örömével hívjuk és várjuk<a href="http://jezsuita.hu/hivatas">nyílt napunkra</a> azokat a fiatalokat, akikben ott motoszkál az érdeklődés, kíváncsiság: hogyan imádkoznak, mivel foglalkoznak, és mit akarnak a mai jezsuiták? Közös imádságra, töltekezésre és találkozásra hívunk."
 

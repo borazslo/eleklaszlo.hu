@@ -3,7 +3,8 @@ layout: post
 title: "a tizenhetedik nap"
 permalink:  /5233/ 
 date: 2011-10-20 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, egyház ]
 ---
 Máriagyűd = 1,1 km
 

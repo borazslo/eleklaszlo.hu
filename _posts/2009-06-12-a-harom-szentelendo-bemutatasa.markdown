@@ -3,7 +3,7 @@ layout: post
 title: "A három szentelendő bemutatása"
 permalink:  /4864/ 
 date: 2009-06-12 21:10:59
-tags:  [ pap ] 
+tags:  [ szentelés, pap, szeminárium, hivatás ]
 ---
 2009\. június 13-án, szombaton, dr. Erdő Péter bíboros prímás érsek úr felszenteli Kelemen Imrét, Lukács Józsefet és Paduraru Iuliánt az esztergomi bazilikában. A szentelésen így mutatták be önmagukat a szentelendők:
 

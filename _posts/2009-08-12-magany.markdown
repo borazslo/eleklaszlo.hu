@@ -3,7 +3,8 @@ layout: post
 title: "Magány"
 permalink:  /6083/ 
 date: 2009-08-12 17:00:00
-categories:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ]
+tags:  [ kirándulás, magány, imádság ]
 ---
 Eljött ez a pillanat is: rám tört a magány. Most először. De nagyon.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Cserkésztábor"
 permalink:  /4873/ 
 date: 2009-07-07 21:51:12
-tags:  [  ] 
+tags:  [ táborozás, jezsuita, életjel ]
 image:  /files/images/flickr_3714736182.jpg 
 ---
 Életem első cserkésztárborában vagyok. Nem vagyok cserkész. Még?

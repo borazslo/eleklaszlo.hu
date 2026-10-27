@@ -3,7 +3,7 @@ layout: post
 title: "BHTCS nyomtatásban"
 permalink:  /4801/ 
 date: 2009-01-27 18:50:37
-tags:  [ BHTCS, A Szív ] 
+tags:  [ BHTCS, A Szív, kirándulás, imádság ]
 image:  /files/images/bhtcs-DSC_4103(1).jpg 
 ---
 Idén is jártam<a href="http://bhtcs.rmse.hu"> BHTCS</a>-n, de most nem írtam olyan &quot;csúcstól-csúcsig&quot; beszámolót, hanem &quot;csak&quot; egy olyan cikkecskét, ami olyanoknak szól(hat), akik még sosem járták a végtelen erdei ösvényeket egy sötét téi éjszakában. Tehát pont neked szól.

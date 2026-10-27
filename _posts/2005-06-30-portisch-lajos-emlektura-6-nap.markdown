@@ -4,6 +4,7 @@ title: "Portisch Lajos emléktúra - 6. nap"
 permalink:  /4505/ 
 date: 2005-06-30 19:55:52
 categories: [ 2005 Szent Laci ]
+tags:  [ kirándulás, gyaloglás, táborozás ]
 ---
 Engem tehát Vácon ért a 30-a. Pontosabban még Vác előtt pár kilométerrel. Emlékmise után, és sok-sok utazás után este 6-ra Hollókőn voltam.
 

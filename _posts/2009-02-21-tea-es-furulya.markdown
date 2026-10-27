@@ -3,7 +3,7 @@ layout: post
 title: "Tea és furulya"
 permalink:  /4806/ 
 date: 2009-02-21 19:32:21
-tags:  [ zene, tea, egó, égés ] 
+tags:  [ zene, mise, imádság ]
 image-error:  401827865 
 ---
 Benyögtem nagy szövegeket a teáról, de kiderült, hogy a srác tényleg érthet hozzá. A furulyás lány pedig lapult és letagadott mindent, majd pedig olyan gyönyörűen rögtönzött és alkalmazkodott, hogy az állam leesett.

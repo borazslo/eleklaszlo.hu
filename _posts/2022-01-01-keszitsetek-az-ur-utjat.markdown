@@ -3,7 +3,7 @@ layout: post
 title: "Készítsétek az Úr útját!"
 permalink:  /7010/ 
 date: 2022-01-01 10:57:13
-tags:  [ könyv ] 
+tags:  [ advent, portré, szentírás, könyv ]
 categories: [ Készítsétek az Úr útját ]
 ---
 

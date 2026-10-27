@@ -3,7 +3,7 @@ layout: post
 title: "Mézeskalács"
 permalink:  /4779/ 
 date: 2008-12-27 13:13:09
-tags:  [ életjel, alvás, sütés, karácsony ] 
+tags:  [ életjel, sütés, karácsony ]
 image:  /files/images/DSC_3903.jpg 
 ---
 Nincs igazi karácsony mézeskalács nélkül. Gondoltam megpróbálkozom vele. De minden összeesküdött ellenem. Vagy csak keveset aludtam.

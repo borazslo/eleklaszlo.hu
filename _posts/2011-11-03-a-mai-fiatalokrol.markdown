@@ -3,7 +3,7 @@ layout: post
 title: "A mai fiatalokról"
 permalink:  /5337/ 
 date: 2011-11-03 09:00:00
-tags:  [  ] 
+tags:  [ jezsuita, gondolat, idézet ]
 ---
 Ádám János SJ:
 

@@ -3,7 +3,7 @@ layout: post
 title: "Az utolsó megbízás"
 permalink:  /4885/ 
 date: 2009-09-14 01:39:20
-tags:  [ fényképezés, esküvő ] 
+tags:  [ fényképezés, esküvő, munka ]
 image:  /files/images/3917559000_f6a89f6506_o.jpg 
 ---
 Melónak sikertelen, esküvőnek gyönyörű.

@@ -3,7 +3,7 @@ layout: post
 title: "Regnum nagytábor"
 permalink:  /4870/ 
 date: 2009-06-25 00:36:54
-tags:  [ regnum, "2040" ] 
+tags:  [ Regnum, "2040", imádság ]
 image:  /files/images/3709825629_98355cc640_o.jpg 
 ---
 1991\, 2001, 2011. Egy sorozat harmadik tagja? Annál sokkal több.

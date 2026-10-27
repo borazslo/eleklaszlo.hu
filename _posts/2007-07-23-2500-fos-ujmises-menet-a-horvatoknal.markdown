@@ -3,7 +3,7 @@ layout: post
 title: "2500 fős újmisés menet a horvátoknál"
 permalink:  /22/ 
 date: 2007-07-23 21:35:44
-tags:  [ újmise, horvát ] 
+tags:  [ újmise, pap, fényképezés ]
 ---
 <span class="Apple-style-span" style="color: rgb(2, 122, 198);"><span class="Apple-style-span" style="color: rgb(73, 73, 73); "> </span></span>
 

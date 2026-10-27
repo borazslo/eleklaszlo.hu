@@ -3,7 +3,7 @@ layout: post
 title: "Baleset"
 permalink:  /4869/ 
 date: 2009-06-23 20:47:00
-tags:  [ kerékpár ] 
+tags:  [ kerékpár, baleset, Budapest ]
 image:  /files/images/flickr_3606821132.jpg 
 ---
 Elém ugrott a fránya kátyú és zsupsz belehajtottam. Külső-belső elöl-hátul nincsen többé.

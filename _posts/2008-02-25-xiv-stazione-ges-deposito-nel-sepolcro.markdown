@@ -3,7 +3,7 @@ layout: post
 title: "XIV. stazione: Gesù è deposito nel sepolcro"
 permalink:  /4690/ 
 date: 2008-02-25 07:01:14
-tags:  [  ] 
+tags:  [ keresztút, imádság, nagyböjt, szeminárium ]
 ---
 Ma Signore, questo tu ci hai promesso, quando abbiamo lasciato le nostre reti? Dove è la tua gloria? La folla dei convertiti dove è? I ragazzi della cresima dove sono? L’aiuto della comunità, la gioia della sequela, il gusto della preghiera dove sono?  
 Per questo abbiamo fatto questi anni con Te?  

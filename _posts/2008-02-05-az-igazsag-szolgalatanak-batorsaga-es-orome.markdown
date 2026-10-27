@@ -3,7 +3,7 @@ layout: post
 title: "Az igazság szolgálatának  bátorsága és öröme"
 permalink:  /4678/ 
 date: 2008-02-05 07:15:03
-tags:  [ fiducia, pápa ] 
+tags:  [ fiducia, pápa, hivatás, szeminárium ]
 ---
  *L'Osservatore Romano-nak "Il coraggio e la gioia di servire la veritá" című cikke 2008. február 2-án. Szabad, kissé igénytelen, néhol magyartalan fordítás tőlem.* 
 

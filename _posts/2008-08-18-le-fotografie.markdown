@@ -3,7 +3,7 @@ layout: post
 title: "Le fotografie"
 permalink:  /4732/ 
 date: 2008-08-18 00:59:42
-tags:  [  ] 
+tags:  [ fényképezés, szentelés, utazás ]
 ---
 Ciao Italiano,
 

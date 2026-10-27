@@ -3,7 +3,8 @@ layout: post
 title: "2003 Erdély, 6. nap - Sárig-szer felé"
 permalink:  /430/ 
 date: 2003-08-09 10:00:00
-categories:  [ 2003 Erdély ] 
+categories:  [ 2003 Erdély ]
+tags:  [ kirándulás, Erdély, hegyek ]
 image:  /files/images/flickr_5051756008.jpg 
 ---
 A Naskalaton ébredtünk. Ki ver a hideg a Naskalat hallatán, még mindig. Akkor még nem tudtuk, de én egy ici-picit sejtettem, hogy a legizgalmasabb napunk elé nézünk. (Azt hiszem bátran nevezhetem a legizgalmasabbnak.) Megtudtuk, hogy a Naskalaton hamisak a kutyák, de még hogy!

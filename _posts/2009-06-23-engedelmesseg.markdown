@@ -3,7 +3,7 @@ layout: post
 title: "Engedelmesség"
 permalink:  /4868/ 
 date: 2009-06-23 21:24:07
-tags:  [ életjel, egyház ] 
+tags:  [ jezsuita, hivatás, engedelmesség, gondolat ]
 image-error:  213073069 
 ---
 Nagyon boldog vagyok és kegyetlenül fáj. Ma kíméletlenül beleütköztem az engedelmességbe.

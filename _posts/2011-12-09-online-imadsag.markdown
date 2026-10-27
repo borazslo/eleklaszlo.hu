@@ -4,7 +4,7 @@ title: "Online imádság"
 permalink:  /5514/ 
 date: 2011-12-09 22:45:12
 published: false
-tags:  [  ] 
+tags:  [ imádság, digitális, zsolozsma ]
 ---
 Megszentelt Tér - szentter.com (sacrespace.ie)  
 rögtön a mai:&nbsp;<a href="http://www.szentter.com/daily-prayer/2011-12-09">http://www.szentter.com/daily-prayer/2011-12-09</a>

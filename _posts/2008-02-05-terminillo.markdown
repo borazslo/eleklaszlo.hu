@@ -3,7 +3,7 @@ layout: post
 title: "Terminillo"
 permalink:  /4677/ 
 date: 2008-02-05 07:11:02
-tags:  [ életjel, kirándulás, tél, hegyek ] 
+tags:  [ életjel, kirándulás, hegyek, tél ]
 image:  /files/images/DSC_3304_exposure.jpg 
 ---
 Vasárnap kivételesen elég volt 23:30-ra visszaérni a szemináriumba. Az elmúlt napok kellően kikészítettek, így elhatároztam, hogy elmenekülök Rómából. Kinéztem a térképen a <a href="http://maps.google.com/maps?f=q&amp;hl=it&amp;geocode=&amp;q=Lago+del+Turano,+Italy&amp;sll=42.459814,12.985411&amp;sspn=0.039639,0.093555&amp;ie=UTF8&amp;t=k&amp;z=13&amp;om=0">Lago del Turano</a>-t. Egy hosszú-hisszú tavat a hegyekben. De a buszpályaudvarokon nincs kiírva semmi. Rietiben vasárnap délután háromkor minden zárva és egy lélek sem jár a pályaudvaron. Ráadásul egész nap esett az eső. De akkor mi az a havas táj ott fenn?

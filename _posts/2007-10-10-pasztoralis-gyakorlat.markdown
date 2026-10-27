@@ -3,7 +3,7 @@ layout: post
 title: "Pasztorális gyakorlat"
 permalink:  /4520/ 
 date: 2007-10-10 12:21:28
-tags:  [ kórház, életjel ] 
+tags:  [ kórház, hivatás, szeminárium, életjel ]
 
 ---
 Ma (kedden) délután mindenki megkapta a maga küldetését. Minden szerda délután és vasárnap este pasztorális gyakorlatra megyünk. Általában 2-en mennek egy-egy plébániára. Egész évben ugyan arra. Ötödévben plébániák helyett egyéb szeretetszolgálatot végzünk. Van aki börtönbe megy, van aki különféle kórházakban, van aki leányanyákkal foglalkozik vagy AIDS-es csoportot vezet.

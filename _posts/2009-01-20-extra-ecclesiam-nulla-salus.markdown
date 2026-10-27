@@ -3,7 +3,7 @@ layout: post
 title: "Extra Ecclesiam nulla salus"
 permalink:  /4798/ 
 date: 2009-01-20 21:23:38
-tags:  [ szeretet, élet, gondolat, egyszerű ] 
+tags:  [ egyház, gondolat, szeretet, teológia ]
 ---
 <p class="rteleft"><em>[&hellip;] én egy univerzális gondolkodóval élek aki folyton
 

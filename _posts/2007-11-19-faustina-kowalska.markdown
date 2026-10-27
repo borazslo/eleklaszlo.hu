@@ -3,7 +3,7 @@ layout: post
 title: "Faustina Kowalska"
 permalink:  /4537/ 
 date: 2007-11-19 19:32:12
-tags:  [ életjel, szentek ] 
+tags:  [ szentek, hivatás, életjel ]
 ---
 A kis csoportom diakónusa szereti a szenteket. Mit ér a szent, ha nem ismerjük? - gondolta, és neki állt megváltoztatni a megváltozhatatlant: kitalálta, hogy megismerteti velünk (a csoportjával) a szenteket.  
 

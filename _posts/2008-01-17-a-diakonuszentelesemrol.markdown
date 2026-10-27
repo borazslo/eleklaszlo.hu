@@ -3,7 +3,7 @@ layout: post
 title: "A diakónuszentelésemről"
 permalink:  /4665/ 
 date: 2008-01-17 13:06:51
-tags:  [ szentelés, életjel ] 
+tags:  [ szentelés, hivatás, életjel ]
 ---
 Igen nagy valószínűséggel a Seminario Romano növendékeinek diakónusszentelése 2008 október 25-én, szombaton lesz a lateráni bazilikában, itt Rómában.  
 Amennyiben Isten is úgy akarja, engem is diakónussá szentelnek majd.   

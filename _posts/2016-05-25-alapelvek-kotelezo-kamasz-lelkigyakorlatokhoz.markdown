@@ -3,7 +3,7 @@ layout: post
 title: "Alapelvek kötelező kamasz lelkigyakorlatokhoz"
 permalink:  /6343/ 
 date: 2016-05-25 18:32:10
-tags:  [ másutt, publikáció ] 
+tags:  [ publikáció, másutt, iskola ]
 image:  /files/images/BostonCommencement_P5232415.JPG 
 ---
 A kurtabérci lelkigyakorlataink igen „sikeresek” voltak és a hit struktúrájának fejlődésének elmélete is komoly alapokon áll. De sajnos egyiket sem könnyű úgy átadni, hogy jól használható legyen más iskolák lelkigyakorlatain is.  

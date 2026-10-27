@@ -3,7 +3,7 @@ layout: post
 title: "Szabad este"
 permalink:  /4775/ 
 date: 2008-12-10 20:50:53
-tags:  [ ősz, kirándulás, emlék, hideg, "2003", Balaton-felvidék, kilátó, Köveskál ] 
+tags:  [ kirándulás, emlék, "2003" ]
 ---
   
 <a href="http://picasaweb.google.com/aranyozottpatkoszeg/Egyeb#5278254302524820066"><img src="/files/images/taj_uton01.jpg" width="202" height="136" vspace="2" hspace="2" border="2" align="right" /></a>Integettem még utánuk. Majd felvettem a hátizsákomat és nekiindultam a szepezdi domboknak. Csak úgy, érzésre. Ha előző nap kibírtam a hideg Balaton vizét, akkor csak túlélek egy éjszakát az Eötvös-kilátón?!

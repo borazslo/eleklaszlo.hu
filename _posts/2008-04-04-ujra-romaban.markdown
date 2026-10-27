@@ -3,7 +3,7 @@ layout: post
 title: "Újra Rómában"
 permalink:  /4707/ 
 date: 2008-04-04 06:10:23
-tags:  [ életjel ] 
+tags:  [ életjel, hivatás, jezsuita ]
 ---
 Véget ért a húsvéti szünet. Visszajöttem Rómába. Sok érdekesség történt a szünetben, sokakkal sikerült beszélgetnem. Megjöttem és itt is történt ez-az.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Nagyszombat éjjel"
 permalink:  /4831/ 
 date: 2009-04-11 21:12:23
-tags:  [  ] 
+tags:  [ mise, nagyböjt, húsvét, öröm ]
 ---
 A Waigand közösséggel családias volt a Húsvét. Esztergomban ünnepélyes. Mátraszőlősön Krisztus támadt fel.
 

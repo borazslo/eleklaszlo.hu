@@ -3,7 +3,7 @@ layout: post
 title: "Újraélesztés"
 permalink:  /4776/ 
 date: 2008-11-18 20:34:56
-tags:  [ kórház ] 
+tags:  [ kórház, életjel, halál, munka ]
 ---
 A röntgen ajtajában hagytam a társam a nénit. Én felmentem a következő betegért. Majd a beteggel a röntgen ajtajában várakoztam a sorunkra. Nem tudtam, hogy odabenn mi zajlik. Egyszer csak felpattant az ajtó és a társam eszeveszett tempóban tolta ki a beteget és egy fél pillanat múlva eltűnt a folyosó túlvégén.
 

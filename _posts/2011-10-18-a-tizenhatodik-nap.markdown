@@ -3,7 +3,8 @@ layout: post
 title: "a tizenhatodik nap"
 permalink:  /5232/ 
 date: 2011-10-18 08:00:00
-categories:  [ Zarándoklat 2010  ] 
+categories:  [ Zarándoklat 2010  ]
+tags:  [ zarándoklat, gyaloglás, Mária, vendégszeretet ]
 ---
 Görcsöny – Ócsárd – Garé – Túrony – Máriagyűd = 20,8 km
 

@@ -3,7 +3,7 @@ layout: post
 title: "In Memoriam"
 permalink:  /6067/ 
 date: 2015-01-29 21:47:00
-tags:  [  ] 
+tags:  [ halál, imádság, gondolat ]
 image:  /files/images/cielofango_11927826_10203632386329764_4356234381217846480_o.jpg 
 ---
 Valahol a lefagyott erdők mélyén a legjáratlanabb völgyekben töri a soha-létre-nem-jövő utat. Elkeseredetten, fájdalmasan, gyötrődve és meggyötörten. Rettegve és szégyellve. Azt is és az ellenkezőjét is. Már nem is vonyít fel a mindenségig, ahogy annyiszor tettük. Itt meg készülnek a „legrosszabbra”. Ugyan már. Nem a halál a legrosszabb.

@@ -3,7 +3,7 @@ layout: post
 title: "Szeretet"
 permalink:  /4799/ 
 date: 2009-01-20 21:27:38
-tags:  [  ] 
+tags:  [ szeretet, gondolat, egyház ]
 ---
 <em>[&hellip;] én egy univerzális gondolkodóval élek aki folyton
 

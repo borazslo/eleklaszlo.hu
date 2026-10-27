@@ -3,7 +3,7 @@ layout: post
 title: "Jófej ellenőr"
 permalink:  /4738/ 
 date: 2008-09-17 21:45:03
-tags:  [ jó hír, BKV ] 
+tags:  [ jó hír, BKV, Budapest, gondolat ]
 ---
 Szerintem is a BKV drága, koszos és rosszul működik. A sofőrök és ellenőrök pedig sokszor primitívek, sőt egyenesen bunkók. DE
 

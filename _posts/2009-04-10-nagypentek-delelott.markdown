@@ -3,7 +3,7 @@ layout: post
 title: "Nagypéntek délelőtt"
 permalink:  /4828/ 
 date: 2009-04-10 07:24:40
-tags:  [  ] 
+tags:  [ mise, nagyböjt, húsvét, imádság ]
 ---
 Csendes délelőttöt tartunk.  Mellettem a misekönyv és egy kancsó tea. A plébánia kis ablakán túl virágzó fa, mögötte a Mátra. Friss szelő járja át a szobát. &Iacute;ze van a levegőnek. Egy ajtóval arrébbról átszűrődik Jézus éneke: &bdquo;beteljesedett&rdquo;. &Iacute;gy telik el a késői ébredés utáni két óra: csendesen, nyugodtan, Istennel, gyönyörűen.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Jezsuitának készül – durva, mi?"
 permalink:  /5537/ 
 date: 2011-11-25 23:15:30
-tags:  [ másutt, magamról ] 
+tags:  [ hivatás, magamról, jezsuita, másutt ]
 ---
 Bucsy Leventével egy énekkarban daloltunk egykoron. 2011-ben meg interjút készített velem az MNO (Magyar Nemzet Online) részére. Az eredeti cikket ([mno.hu/interju/jezsuitanak-keszul-durva-mi-1034120](http://mno.hu/interju/jezsuitanak-keszul-durva-mi-1034120)) bedarálta a történelem, de az archive.org segítségével újra olvasható az egész: 
 

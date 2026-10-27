@@ -3,7 +3,7 @@ layout: post
 title: "A Hittani Kongregáció esete az Igaz Szeretettel"
 permalink:  /6309/ 
 date: 2015-09-23 21:41:02
-tags:  [ egyház ] 
+tags:  [ egyház, teológia, gondolat ]
 ---
 Történt, hogy Margaret A. Fraley, egy katolikus apáca könyvet, írt  *Igaz Szeretet, a keresztény szexuális etika egy keretrendszere*  ( *<a href="http://www.amazon.com/Just-Love-Framework-Christian-Sexual/dp/0826429246  
 ">Just Love: A Framework for Christian Ethics</a>* ) címmel. Könyvében közös gondolkodásra hív vitatkozás helyett.

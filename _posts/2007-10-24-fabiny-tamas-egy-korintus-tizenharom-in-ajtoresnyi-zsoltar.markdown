@@ -3,7 +3,7 @@ layout: post
 title: "Fabiny Tamás: Egy-korintus-tizenhárom (IN: Ajtórésnyi zsoltár)"
 permalink:  /4571/ 
 date: 2007-10-24 00:22:41
-tags:  [  ] 
+tags:  [ szentírás, vers, gondolat ]
 ---
 Ha olyan kiváló szónok vagyok is, mint Kossuth Lajos,   
 vagy Martin Luther Kinggel együtt hirdetem, hogy  

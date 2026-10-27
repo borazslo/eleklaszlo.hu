@@ -3,7 +3,7 @@ layout: post
 title: "Clericus Cup"
 permalink:  /4540/ 
 date: 2007-11-21 06:43:28
-tags:  [ életjel, Clericus Cup, foci ] 
+tags:  [ foci, sport, életjel ]
 ---
 Megkezdődött a második <a href="http://www.csi-net.it/clericus cup">Clericus Cup</a>; a római egyházi szemináriumok és kollégiumok között focibajnokság. A nyitó mérközésen mi játszahattunk a Mater Ecclesiae ellen.
 

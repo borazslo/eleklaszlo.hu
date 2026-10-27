@@ -3,7 +3,7 @@ layout: post
 title: "Visszajáró Mikulás"
 permalink:  /5508/ 
 date: 2011-12-06 11:09:42
-tags:  [ Mikulás, emlék ] 
+tags:  [ Mikulás, emlék, gondolat ]
 ---
 Egyik évben hozzák elfelejtett jönni a Mikulás. Reggel felkeltünk, de nem történt semmi az éjszaka. Az is igaz, hogy akkor tájt már a cipőnket sem pucoltuk ki.
 

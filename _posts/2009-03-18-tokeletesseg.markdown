@@ -3,7 +3,7 @@ layout: post
 title: "Tökéletesség"
 permalink:  /4820/ 
 date: 2009-03-18 18:28:32
-tags:  [ gondolat ] 
+tags:  [ gondolat, egyház, szeretet ]
 image:  /files/images/flickr_2725449150.jpg 
 ---
 Legyen bár egész kicsi, vagy valami jóval nagyobb a feladat, hiába próbáljuk meg tökéletesen intézni az ügyeinket, valami mindig becsúszik. Soha nem tudunk tökéletesen kivitelezni valamit. El tudjuk sumákolni a hibákat, de ha tényleg szembenézünk a tetteinkkel láthatjuk, hogy mindig van valami hiba/hiány bennünk.

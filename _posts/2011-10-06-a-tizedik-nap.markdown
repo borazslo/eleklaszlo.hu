@@ -3,7 +3,8 @@ layout: post
 title: "a tizedik nap"
 permalink:  /5225/ 
 date: 2011-10-06 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, vendégszeretet ]
 ---
 Felsőmocsolád – Somogygeszti – Somogyjád – Várda ~ Juta – Kaposmérő = 28,6 km
 

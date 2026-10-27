@@ -3,7 +3,7 @@ layout: post
 title: "Nekünk Mohács kell!"
 permalink:  /4790/ 
 date: 2009-01-08 22:18:30
-tags:  [ zene, Magyarország, Mohács, vers ] 
+tags:  [ zene, vers, Magyarország ]
 ---
 Él magyar, áll Buda még! a múlt csak példa legyen most, 
 

@@ -3,7 +3,7 @@ layout: post
 title: "Nyár végi (fotós)egyenleg"
 permalink:  /4734/ 
 date: 2008-08-31 14:01:20
-tags:  [ táborozás, fényképezés, Regnum Sziget, nyár ] 
+tags:  [ fényképezés, táborozás, nyár, esküvő ]
 image:  /files/images/flickr_2961611927.jpg 
 ---
 Lassan vége a főszezonnak. A fényképezőgép „munkaeszköz”. A nyáron nem csak fejlődött a felszerelés, komolyabb rongálódások is értek.

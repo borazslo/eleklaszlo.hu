@@ -3,7 +3,7 @@ layout: post
 title: "Az elmúlt két hét"
 permalink:  /4683/ 
 date: 2008-02-15 07:12:38
-tags:  [ életjel, sport, fényképezés, tanulás, Rubik ] 
+tags:  [ életjel, szeminárium, sport, fényképezés, tanulás ]
 image:  /files/images/cubo-rubik.jpg 
 ---
 A Fiducia kissé sűrűre sikerült hétvégéje óta nem írtam semmit. Szinte nyugodt volt ez a két hét, de nem mondhatom, hogy nem történt semmi.

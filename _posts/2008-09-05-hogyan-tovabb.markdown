@@ -3,7 +3,7 @@ layout: post
 title: "Hogyan tovább"
 permalink:  /4737/ 
 date: 2008-09-05 11:50:27
-tags:  [ életjel, hivatás, jezsuita ] 
+tags:  [ jezsuita, hivatás, Montserrat, életjel ]
 image:  /files/images/flickr_4505544759.jpg 
 ---
 Sokan már tudjátok, de néhányan még nem, hogy akkor most mit is fogok csinálni ebben az évben.&nbsp;A jezsuita noviciátus előtti úgynevezett jelöltségi évben lesz részem; itthon leszek, Magyarországon.

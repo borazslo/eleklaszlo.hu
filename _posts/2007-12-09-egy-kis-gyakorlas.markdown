@@ -3,7 +3,7 @@ layout: post
 title: "Egy kis gyakorlás"
 permalink:  /4558/ 
 date: 2007-12-09 18:17:03
-tags:  [ fényképezés, szentségtartó ] 
+tags:  [ fényképezés, szeminárium, imádság ]
 image:  /files/images/flickr_2961640601.jpg 
 ---
 Már tavaly el kellet kezdenem lefényképezni minden értéket a sekrestyénkben. Leltárt szeretnének készíteni. Tavaly kivégeztem a kelyheket. Az elmúlt héten következtek a szentségtartók és gyertyatartók. Ugyan kötelezően elvégzendő feladat, de kivételesen tetszik, hiszen nem egy esemény dokumentálásáról van szó, hanem össze-vissza csillogó-villogó tárgyakról. Kihívás őket szépen lefényképezni. Bár a többieknek teljesen mindegy, hogy milyen lesz a kép. Én szeretem, ha az amit csinálok az jó. 

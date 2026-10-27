@@ -4,7 +4,7 @@ title: "Zarándoklat"
 permalink:  /4891/ 
 date: 2010-06-07 00:00:22
 published: false
-tags:  [  ] 
+tags:  [ zarándoklat, noviciátus, jezsuita ]
 ---
 Elmentem a társammal három hétre zarándokolni. Szállás, étel, ital, pénz nélkül. Még egy mobil sem lesz nálunk. Három hét. &Ouml;tszáz kilométer. Dobogókő - Bodajk - Andocs - Búcsúszentlászló - Máriagyűd. Nevünk napjára tán ott is leszünk.
 

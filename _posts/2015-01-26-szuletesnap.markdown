@@ -3,7 +3,7 @@ layout: post
 title: "Születésnap"
 permalink:  /6066/ 
 date: 2015-01-26 22:54:30
-tags:  [  ] 
+tags:  [ életjel, gondolat ]
 ---
 Nem egyszerű nekem mit kezdenem a születésnapokkal. Egy nap, amikor sok-sok formaköszöntést kapok és amin amúgy meg nem változik semmi. Tegnap is pont volt egy ilyen napom. Kaptam is sok formaköszöntést és amúgy nem változott semmi. Most mégis nagyon köszönöm. Nektek is.
 

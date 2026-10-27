@@ -3,7 +3,7 @@ layout: post
 title: "Az egyházi rend szentségében az ember kockázatot vállal – Jezsuita diakónusszentelés Budapesten"
 permalink:  /7037/
 date: 2018-05-12 22:18:00
-tags:  [ másutt, Magyar Kurír ]
+tags:  [ szentelés, jezsuita, Magyar Kurír, hivatás ]
 image:  /files/images/2018-05-12-diakonusszenteles/img4.jpg
 
 ---

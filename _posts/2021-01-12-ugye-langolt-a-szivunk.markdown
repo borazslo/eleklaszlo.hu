@@ -3,7 +3,7 @@ layout: post
 title: "Ugye lángolt a szívünk?! – Kézikönyv iskolai lelkinapok szervezéséhez"
 permalink:  /7019/ 
 date: 2021-01-12 17:00:11
-tags:  [ másutt, Magyar Kurír, publikáció ] 
+tags:  [ publikáció, lelkigyakorlat, Magyar Kurír, iskola, könyv, másutt ]
 image:  /files/images/2021-01-12-ugye-langolt-a-szivunk/img1.jpg
 
 ---

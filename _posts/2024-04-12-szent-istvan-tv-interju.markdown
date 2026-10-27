@@ -3,7 +3,7 @@ layout: post
 title: "Semmit se vigyetek az útra – beszélgetés a Szent István Televízióban"
 permalink:  /7040/
 date: 2024-04-12 18:37:00
-tags:  [ másutt, Szent István Televízió, videó ]
+tags:  [ videó, zarándoklat, noviciátus, hivatás, Szent István Televízió, másutt ]
 image:  /files/images/2024-04-12-szent-istvan-tv-interju/img1.jpg
 
 ---

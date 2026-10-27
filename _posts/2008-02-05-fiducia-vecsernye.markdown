@@ -3,7 +3,7 @@ layout: post
 title: "Fiducia - Vecsernye"
 permalink:  /4680/ 
 date: 2008-02-05 07:20:39
-tags:  [ életjel, fiducia, pápa ] 
+tags:  [ fiducia, pápa, fényképezés, zene ]
 ---
 A Festa della Madonna della Fiducia a szeminárium búcsúja. A Bizalom Nagyasszonyának ünnepe ez. Az ünnepről tavaly már írtam az egyik életjelben, amit elolvashattok <a href="/16">itt</a>.  
 Hagyományosan nagyböjt előtti utolsó szombaton tartjuk az ünnepet, amire a szeminárium püspöke, vagyis a pápa is el szokott látogatni. Ebben az évben február másodikára , Gyertyaszentelő Boldogasszony ünnepére esett a mi ünnepünk is, ezért szentatya nem tudott szombaton jönni. Beígérkezett hát péntek estére, zsolozsmára.

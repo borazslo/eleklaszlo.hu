@@ -3,7 +3,7 @@ layout: post
 title: "Jaj nekem"
 permalink:  /4719/ 
 date: 2008-05-14 06:03:30
-tags:  [ számítógép, oboa ] 
+tags:  [ digitális, zene, életjel, szeminárium ]
 ---
 Hogy vagyok? Hát rosszul. Ki vagyok.
 

@@ -3,7 +3,7 @@ layout: post
 title: "Költöztetés"
 permalink:  /4684/ 
 date: 2008-02-15 07:26:33
-tags:  [ táborozás, vakondok, fényképezés, vizicickányok, mormoták, esküvő, család, VT, Regnum Sziget, Dánia ] 
+tags:  [ fényképezés, táborozás, Regnum, család ]
 image:  /files/images/flickr_2961633487.jpg 
 ---
 Végre elköltöztettem jó pár fotómat innen a <a href="http://picasaweb.com/aranyozottpatkoszeg">picasaweb.com</a>-ra. Nem foglalják többé itt a helyet s jobban is kezelhetőek.&nbsp;Következik a lista az elköltözött albumokról. Írok mindről valamit, hogy a keresők megtalálják ezt az oldalt, és így mindenki eljuthasson a képeimhez.  

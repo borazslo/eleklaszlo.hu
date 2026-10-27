@@ -3,7 +3,8 @@ layout: post
 title: "a második nap"
 permalink:  /5157/ 
 date: 2011-09-20 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, szenvedés ]
 ---
 Zsámbék – Mány – Csabdi – Óbarok – Újbarok ~ Csákvár = 20,7 km
 

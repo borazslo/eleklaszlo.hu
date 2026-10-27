@@ -3,7 +3,7 @@ layout: post
 title: "Eretnek gondolatok a tanulásról"
 permalink:  /4724/ 
 date: 2008-05-30 20:15:00
-tags:  [ tanulás, tudomány ] 
+tags:  [ tanulás, tudomány, gondolat ]
 
 ---
   

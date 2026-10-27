@@ -3,7 +3,7 @@ layout: post
 title: "Életjel II/3,5 (Rágcsálóba)"
 permalink:  /18/ 
 date: 2006-11-17 10:00:00
-tags:  [ életjel ] 
+tags:  [ életjel, szeminárium, Erdély, hivatás ]
 ---
 <b>Kedves Remete!</b>
 

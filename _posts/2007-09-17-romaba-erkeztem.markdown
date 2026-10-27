@@ -3,7 +3,7 @@ layout: post
 title: "Romaba erkeztem"
 permalink:  /4516/ 
 date: 2007-09-17 21:20:19
-tags:  [  ] 
+tags:  [ szeminárium, Róma, honlap, életjel ]
 
 ---
 Megjöttem hát Rómába. Elkezdődött ez az év is. Az ötödik.

@@ -4,7 +4,7 @@ title: "A kerékpárom"
 permalink:  /4845/ 
 date: 2009-05-24 22:01:37
 published: false
-tags:  [ kerékpár ] 
+tags:  [ kerékpár, életjel ]
 image:  /files/images/flickr_3606821132.jpg 
 ---
   

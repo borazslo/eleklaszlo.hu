@@ -3,7 +3,7 @@ layout: post
 title: "Csak azért is jó hír"
 permalink:  /4570/ 
 date: 2008-01-02 23:58:19
-tags:  [ jó hír ] 
+tags:  [ jó hír, gondolat, vers, élet ]
 ---
 A világ teli van emberi hibákkal, bűnökkel, félreértésekkel és rengeteg gonoszsággal. A TV és a rádió nem győzi megmutatni, hogy ki kit mikor miért ölt meg. Ráadásul ott vannak még a szerencsétlenségek, katasztrófák is. Szar a világ. Úgy látszik. DE
 

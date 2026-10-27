@@ -3,8 +3,8 @@ layout: post
 title: "2004 Lengyelország, 3. rész - határ-Sandomierz"
 permalink:  /439/ 
 date: 2004-10-21 10:00:00
-categories:  [ 2004 Lengyelország ] 
-
+categories:  [ 2004 Lengyelország ]
+tags:  [ kirándulás, Lengyelország, stoppolás, szeminárium ]
 ---
 Hajnali ötkor felkeltünk. Gyorsan kimásztunk a hálózsákból. Új nap, új lelkesedés, új lendület. Hamar megtört. Olyan volt az idő mint amikor lefeküdtünk: sűrű nyálkás köd volt. A napnak sem volt kedve egyelőre fel kelni.
 

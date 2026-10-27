@@ -3,7 +3,8 @@ layout: post
 title: "Itt a mese vége"
 permalink:  /6089/ 
 date: 2009-09-09 10:00:00
-categories:  [ 2009 Világi Tor Túra ] 
+categories:  [ 2009 Világi Tor Túra ]
+tags:  [ kirándulás, hivatás, jezsuita, emlék ]
 ---
 Tegnap is éjfél után tekertem ki Hűvösvölgybe. A Holdat csak ritkán takarta el felhő, de a város fényei már-már elnyomták. A pulóveremet felvettem, de hegynek fölfele már megizzadtam. Pont mint aznap éjjel: ott Prágában. Egy hónapja. Persze akkor össze-vissza tekeregtem, mert szállást kerestem. Most várt a vetett ágyam, onnan húsz percre. 
 

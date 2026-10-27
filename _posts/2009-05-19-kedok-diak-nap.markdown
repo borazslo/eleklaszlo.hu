@@ -3,7 +3,7 @@ layout: post
 title: "KEDÖK Diák nap"
 permalink:  /4842/ 
 date: 2009-05-19 13:15:21
-tags:  [  ] 
+tags:  [ iskola, gondolat, Budapest ]
 image-error:  4988871847 
 ---
 &Ouml;sszegyűltek a kerületi iskolák diákönkormányzatainak képviselői. Tőlünk is jöttek négyen, meg én. Már idefele említették, hogy ez a program legfeljebb a tanulásnál jobb. Másnál biztosan nem.

@@ -3,7 +3,7 @@ layout: post
 title: "Tarkabarka"
 permalink:  /4763/ 
 date: 2008-11-18 20:25:51
-tags:  [ sütés ] 
+tags:  [ sütés, életjel, humor ]
 ---
 Életemben először sütöttem szülői felügyelet teljes hiánya mellett. Egy nagyon egyszerű süteménnyel próbálkoztam. Nem volt teljes a siker, de már majdnem elfogyott.
 

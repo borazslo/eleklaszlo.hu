@@ -3,7 +3,7 @@ layout: post
 title: "Pusztulás "
 permalink:  /4836/ 
 date: 2009-04-27 19:33:48
-tags:  [  ] 
+tags:  [ gondolat, kerékpár ]
 image:  /files/images/flickr_2032624145.jpg 
 ---
 Minden tönkremegy. Magától? Igen, magától. A rendeltetésszerű használattól. Utálom.

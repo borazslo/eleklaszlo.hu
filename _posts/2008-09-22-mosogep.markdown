@@ -3,7 +3,7 @@ layout: post
 title: "Mosógép"
 permalink:  /4740/ 
 date: 2008-09-22 21:19:53
-tags:  [ mosógép, kézikönyv ] 
+tags:  [ humor, életjel, gondolat ]
 ---
 Néha talán érdemes elolvasni a kézikönyvet.
 

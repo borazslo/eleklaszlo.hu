@@ -3,7 +3,7 @@ layout: post
 title: "Szabad akarat"
 permalink:  /4832/ 
 date: 2009-04-12 20:32:07
-tags:  [  ] 
+tags:  [ gondolat, élet ]
 ---
 Nem szeretem, ha úgy akarja valaki rám kényszeríteni akaratát, hogy úgy tűnjön én választottam azt. Nem szeretem, ha felszólít a döntésre, de megmondja, hogy mit döntsek.
 

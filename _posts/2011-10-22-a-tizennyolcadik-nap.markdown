@@ -3,7 +3,8 @@ layout: post
 title: "a tizennyolcadik nap"
 permalink:  /5234/ 
 date: 2011-10-22 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, szenvedés, vendégszeretet ]
 ---
 Máriagyűd ~ Pécs = 8,2 km
 

@@ -3,7 +3,8 @@ layout: post
 title: "a harmadik nap"
 permalink:  /5158/ 
 date: 2011-09-22 08:00:00
-categories:  [ Zarándoklat 2010 ] 
+categories:  [ Zarándoklat 2010 ]
+tags:  [ zarándoklat, gyaloglás, imádság ]
 ---
 Csákvár – Csákberény – Csókakő – Bodajk = 28,9 km
 

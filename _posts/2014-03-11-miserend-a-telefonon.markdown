@@ -3,7 +3,7 @@ layout: post
 title: "Miserend a telefonon"
 permalink:  /6030/ 
 date: 2014-03-11 15:42:53
-tags:  [ egyház, szentmise ] 
+tags:  [ digitális, egyház, játék ]
 ---
 Egy könnyed, de kicsit pepecselős játékra hívok minden templom szeretőt. Keressük 2294 magyar katolikus templom helyét a térképen. Általában tudjuk, hogy melyik faluba melyik templom való, de egy-egy faluban megtalálni a templomot a térképen néha igazi kihívás.
 

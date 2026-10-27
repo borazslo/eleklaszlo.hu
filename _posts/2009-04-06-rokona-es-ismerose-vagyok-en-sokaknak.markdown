@@ -3,7 +3,7 @@ layout: post
 title: "Rokona és ismerőse, vagyok én sokaknak"
 permalink:  /4826/ 
 date: 2009-04-06 15:28:54
-tags:  [ életjel ] 
+tags:  [ életjel, gondolat, emlék ]
 ---
 Utódja és boldosg őse, rokona és ismerőse, vagyok én sokaknak, vagyok én sokaknak.
 

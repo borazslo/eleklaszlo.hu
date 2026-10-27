@@ -3,7 +3,7 @@ layout: post
 title: "Olasz-magyar(-perui) együttműködés"
 permalink:  /4525/ 
 date: 2007-10-21 15:07:37
-tags:  [ életjel ] 
+tags:  [ Regnum, hivatás, életjel ]
 
 ---
 Oscar Cabrera Bautista Ascension perui származású, Magyarországot megjárta, római egyházmegyés, újsmisés káplán. Jóban vagyunk. HosszúTávúTervezés jellemzi.   

@@ -3,7 +3,7 @@ layout: post
 title: "Legális a digitális misekönyv (április1)"
 permalink:  /6032/ 
 date: 2014-04-01 19:34:18
-tags:  [ mise, digitális ] 
+tags:  [ digitális, mise, jó hír ]
 image:  /files/images/870-Book-of-Common-Prayer.jpg 
 ---
 Friss nagy hír hogy a Magyar Katolikus Püspöki Kar Titkársága szóban elvileg támogatja egy tervezett digitális misekönyv használatát a liturgiákon. Persze még csak szóban és elvileg, és kikötések is vannak. Ám így már érdemes nekifogni.

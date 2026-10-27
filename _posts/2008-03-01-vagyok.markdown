@@ -3,7 +3,7 @@ layout: post
 title: "Vagyok"
 permalink:  /4695/ 
 date: 2008-03-01 14:35:05
-tags:  [  ] 
+tags:  [ kórház, életjel, fényképezés, pápa ]
 image:  /files/images/DSC_2525.jpg 
 ---
 Egészen röviden az elmúlt két hét számomra fontos dolgaiból.

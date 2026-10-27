@@ -3,7 +3,7 @@ layout: post
 title: "Vakond tábori kisfilm"
 permalink:  /4511/ 
 date: 2007-09-13 21:45:42
-tags:  [ film, vakondok ] 
+tags:  [ film, videó, Regnum ]
 ---
 Ma volt évkezdő vakond. Erre az alkalomra készítettem a fényképeimből egy kis filmecskét a táborról. Olyan lett amilyen. Többeknek tetszett.
 

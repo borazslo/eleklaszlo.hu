@@ -3,7 +3,7 @@ layout: post
 title: "Interjú a szentiras.hu-ról"
 permalink:  /6017/ 
 date: 2014-01-11 18:38:03
-tags:  [ digitális, szentírás, másutt, Mandiner ] 
+tags:  [ szentírás, digitális, zsolozsma, Mandiner, másutt ]
 ---
 Interjút készített velem Szilvay Gergely a [kereszteny.mandiner.hu](https://kereszteny.mandiner.hu) számára a [szentiras.hu](https://szentiras.hu)-ról a [zsolozsma](http://zsolozsma.katolikus.hu)-t is érintve. 
 

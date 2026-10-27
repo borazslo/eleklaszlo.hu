@@ -3,7 +3,7 @@ layout: post
 title: "Budai-hegység (Nagyon) Távoli Csúcsai"
 permalink:  /4573/ 
 date: 2008-01-06 20:34:07
-tags:  [ sport, kirándulás, BHTCS, éjjel, tél ] 
+tags:  [ BHTCS, kirándulás, tél, éjjel, sport ]
 ---
 <p style="margin-top: 0.6em; margin-right: 0px; margin-bottom: 1.2em; margin-left: 0px; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px; "><a rel="lightbox" href="/files/images/bhtcs-kituzo2008.jpg"><img src="/files/images/bhtcs-kituzo2008.jpg" width="80" height="80" vspace="2" hspace="2" border="2" align="left" /></a>BHTCS, azaz a Budai-hegység Távoli Csúcsai elnevezésű, téli éjszakai extrém teljesítménytúra. (<a title="http://bhtcs.rmse.hu"  href="http://bhtcs.rmse.hu/">http://bhtcs.rmse.hu</a>) Félelmetesen hangzik, pedig nem az. Egyszerű a feladat: 9+1 hegycsúcsot kell megmászni 11 óra alatt. A sötét és a tél nem sokat nehezít, hiszen mindkettőhöz könnyű hozzászokni. Nem kell hozzá semmi, még különleges felkészülés sem. Viszont megismételhetetlen, különleges élményeket nyújt. Próbáld elképzelni milyen lehet a szépsége, varázsa, öröme! Az igazi BHTCS életérzés.</p>  
 

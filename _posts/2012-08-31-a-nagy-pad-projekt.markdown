@@ -3,7 +3,7 @@ layout: post
 title: "A nagy pad projekt"
 permalink:  /5748/ 
 date: 2012-08-31 22:33:56
-tags:  [ fényképezés, család ] 
+tags:  [ fényképezés, játék, digitális, gondolat ]
 ---
 Padok világszerte. Fából, vasból, kőből. Egy-egy kép. Semmi több. http://nagypad.hu
 

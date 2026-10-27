@@ -3,7 +3,7 @@ layout: post
 title: "Köszönöm"
 permalink:  /4825/ 
 date: 2009-03-31 19:47:52
-tags:  [ zene, emlék, "2002" ] 
+tags:  [ zene, emlék, táborozás, Regnum ]
 image-error:  78670973 
 ---
 Most kivételesen nem én, hanem egy zenész. A platán rétegtáborban hallottam olyan &bdquo;köszönöm&rdquo;-öt, mint soha se előtte, se utána.

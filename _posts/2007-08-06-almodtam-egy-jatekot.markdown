@@ -3,7 +3,7 @@ layout: post
 title: "Álmodtam egy játékot"
 permalink:  /73/ 
 date: 2007-08-06 16:52:10
-tags:  [ álom, játék ] 
+tags:  [ álom, játék, Regnum ]
 
 ---
 Rendszeresen álmodom, de nem szoktam az álmomban új dolgokat kitalálni. Most így adódott. Van az a bizalom játék, amikor a párok egyik tagjának bekötik a szemét, és látó vezeti kézenfogva az erdőben a világtalant. A látó nem vezeti fának a világtalant. Ezt tuningoltam fel.

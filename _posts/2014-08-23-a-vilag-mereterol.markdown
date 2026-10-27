@@ -3,7 +3,7 @@ layout: post
 title: "A világ méretéről"
 permalink:  /6053/ 
 date: 2014-08-23 02:17:01
-tags:  [ usa ] 
+tags:  [ USA, utazás ]
 ---
 6722\ km, vagy ahogy itt mondják: 4177 mérföld. Hat időzóna. A hangnak több mint hat óra út. A lelkemnek pedig legalább két hét. Új világ. Soha ilyen messze még nem jártam lebontásra váró családi házunktól.
 
