@@ -4,6 +4,7 @@ title: "Pont"
 permalink:  /6057/ 
 date: 2014-09-02 15:42:48
 tags:  [ életjel, USA ]
+image:  /files/images/2014-09-02-pont/DSC_3216.jpg
 ---
 Két hete érkeztem Bostonba. A csomagom két nappal később. A lelkem még úton van.
 
