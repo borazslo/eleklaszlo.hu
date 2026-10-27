@@ -3,7 +3,7 @@ layout: post
 title: "Fülöp-szigetek: Mt. Kulis"
 date: 2026-10-25 10:00:00
 permalink: /7031/
-tags:  [ Fülöp-szigetek, misszió, utazás, kirándulás ]
+tags:  [ Fülöp-szigetek, kirándulás ]
 image: /files/images/2026-10-25-fulop-szigetek-mt-kulis/20261018_153253.jpg
 gallery:
     - image: /files/images/2026-10-25-fulop-szigetek-mt-kulis/0aba25f2-fe67-47be-aab7-e5a43c7f9c40.jpeg

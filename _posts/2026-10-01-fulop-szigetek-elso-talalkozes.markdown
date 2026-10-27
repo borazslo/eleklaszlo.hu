@@ -3,7 +3,7 @@ layout: post
 title: "Fülöp-szigetek: Tudtam, csak nem gondoltam"
 date: 2026-10-01 10:00:00
 permalink: /7029/
-tags:  [ Fülöp-szigetek, misszió, utazás, életjel ]
+tags:  [ Fülöp-szigetek, utazás, életjel ]
 image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-manila-skyline.jpg
 gallery:
   - image: /files/images/2026-10-01-fulop-szigetek/2026-10-01-kapolna-ejszaka.jpg

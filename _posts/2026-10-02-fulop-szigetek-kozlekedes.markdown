@@ -3,7 +3,7 @@ layout: post
 title: "Fülöp-szigetek: Jeepney és tricikli"
 date: 2026-10-02 10:00:00
 permalink: /7030/
-tags:  [ Fülöp-szigetek, misszió, utazás ]
+tags:  [ Fülöp-szigetek, utazás ]
 image: /files/images/2026-10-02-fulop-szigetek-kozlekedes/20261002_151355.jpg
 gallery:
     - image: /files/images/2026-10-02-fulop-szigetek-kozlekedes/20261002_151727.jpg
