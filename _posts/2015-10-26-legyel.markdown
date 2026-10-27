@@ -3,8 +3,11 @@ layout: post
 title: "Legyél"
 permalink:  /6314/ 
 date: 2015-10-26 01:33:51
-tags:  [ hivatás, videó, jezsuita ]
+tags:  [ hivatás, videó, jezsuita, magamról ]
+image:  /files/images/2015-10-26-legyel/thumb.jpg
 ---
 Az alábbi hatvan másodperc házifeladat gyanánt készült. De félreérthető életcél videó is lehet.
 
-<!--break--><center><iframe width="560" height="315" src="https://www.youtube.com/embed/_0kQxr8kJgw" frameborder="0" allowfullscreen></iframe></center>
+<!--break-->
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/_0kQxr8kJgw"></iframe></div>
