@@ -4,6 +4,7 @@ title: "Nyomok a hóban"
 permalink:  /6031/ 
 date: 2014-03-24 22:04:44
 tags:  [ emlék, hivatás, könyv ]
+image:  /files/images/2014-03-24-nyomok-a-hoban/DSC_1580.jpg
 ---
 Hóviharra vágyakozom akármikor egy kis faluban éjszakázom télvíz idején. Bárcsak leszakadna a hó. Bár ne lehetne elhagyni a házat és pattogó tűz mellett hintaszékben ücsörögve lehetnék boldog.
 
