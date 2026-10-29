@@ -7,7 +7,7 @@ tags:  [ videó, házasság, szentségek, gyónás, áldozás, Szemlélek, másu
 image:  /files/images/2022-07-15-nem-lehet-ket-hazassagban-elni/img1.jpg
 
 ---
-A Szemlélek Alapozó sorozatában arról beszéltem, hogy miért nem áldoztathatom meg azt, aki szeretne áldozni, és miért van mégis igazság abban a hétköznapi mondásban, hogy az újraházasodottak nem áldozhatnak – és mi az, amit ez a mondás félreért. Itt a videó, és a gépi átirata.
+A Szemlélek Alapozó sorozatában beszéltem a házasság felbonthatatlanságáról és, hogy áldozhatnak-e a halálos bűnben élők.Itt a videó, és a gépi átirata.
 
 <!--break-->
 
@@ -15,7 +15,7 @@ A Szemlélek Alapozó sorozatában arról beszéltem, hogy miért nem áldoztath
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ZK75XvGEYD4" title="Elek László: Nem lehet két házasságban élni – Szemlélek Alapozó 6. rész" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-Egy szentségi házasságban, amikor két megkeresztelt ember egészen egymásnak adja az életét, akkor ott szentség van, tehát az Isten láthatóan jelen van. Kevés nehezebb dolgot tudok elképzelni papként, mint hogy valakit, aki szeretne áldozni, nem áldoztassak meg, vagy hogy valaki szeretne gyónni, és valamiért ne oldozzak fel. És hát mégis van a hétköznapi életben használt és többé-kevésbé igaz mondás, hogy a katolikus egyház az újraházasodottakat nem áldoztatja meg, nem áldozhatnak.
+Egy szentségi házasságban, amikor két megkeresztelt ember egészen egymásnak adja az életét, akkor ott szentség van, tehát az Isten láthatóan jelen van. Kevés nehezebb dolgot tudok elképzelni papként, mint hogy valakit, aki szeretne áldozni, ne áldoztassak meg, vagy hogy valaki szeretne gyónni, és valamiért ne oldozzak fel. És hát mégis van a hétköznapi életben használt és többé-kevésbé igaz mondás, hogy a katolikus egyház az újraházasodottakat nem áldoztatja meg, nem áldozhatnak.
 
 Hogy is van ez? Miért igaz? És mi az, ami ebből igazából nem igaz? Arra szeretném kérni minden kedves katolikus testvéremet, hogy áldozzanak, amikor csak lehet. Nem baj, hogy bűnösek vagyunk, igen, hogy nem vagyunk méltók – nem vagyunk, egyikünk sem az. Pont ezért van, pont ezért adja magát az Isten, hogy találkozzunk.
 
@@ -33,7 +33,7 @@ Csak mi van akkor, hogyha a hétköznapi értelemben vett első házasság tönk
 
 Olyan szép olvasni Ferenc pápa Amoris Laetitia című dokumentumának a nyolcadik fejezetét, ahol kitér arra, hogy hogy lehet az, hogy megtört életekben, házasságokban egyszerre igaz, hogy az eredeti házasság örök, végtelen, és ott van, és mégis lehetséges, hogy nem élnek éppen súlyos bűnben – hiszen a „tudva” maga is más: tudni, hogy ez törvény, más, mint tudni és érteni is, hogy ez törvény. És tényleg „akarva” – ennyi év után egy ilyen közösen felépített életből csak úgy ki lehet szállni? Hát nem. Annyi megkötöttség, annyi nehezítés van, ami a katekizmus szerint is egyértelműen csökkenti a személyes felelősséget.
 
-Nem feltétlenül törli el teljesen, de csökkenti. És hogyha már lehetséges, hogy ott nem biztos, hogy ténylegesen súlyos bűn van, csak egy megtört élet, amiből aztán fakad valami gyönyörű, akkor – ahogy Ferenc pápa mondja – lehetséges, hogy vannak olyan utak, személyes megkülönböztetés a lelkivezetésben, hogy áldozhassanak azok is, akik hétköznapi értelemben azt mondanánk, hogy második házasságban élnek, az egyház szerint pedig az első házasságukból fakadó házasságtörésben élnek, de mégiscsak az igaz szeretetet élik.
+Nem feltétlenül törli el teljesen, de csökkenti. És hogyha már lehetséges, hogy ott nem biztos, hogy ténylegesen súlyos bűn van, csak egy megtört élet, amiből aztán fakad valami gyönyörű, akkor – ahogy Ferenc pápa mondja – lehetséges, hogy vannak olyan utak, személyes megkülönböztetéssel a lelkivezetésben, hogy áldozhassanak azok is, akik hétköznapi értelemben azt mondanánk, hogy második házasságban élnek, az egyház szerint pedig az első házasságukból fakadó házasságtörésben élnek, de mégiscsak az igaz szeretetet élik.
 
 ---
 Forrás: [SZEMlélek – Elek László: Nem lehet két házasságban élni, YouTube](https://www.youtube.com/watch?v=ZK75XvGEYD4).
