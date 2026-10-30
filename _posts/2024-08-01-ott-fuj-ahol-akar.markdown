@@ -4,6 +4,7 @@ title: "Ott fúj, ahol akar"
 permalink:  /7054/
 date: 2024-08-01 09:00:00
 tags:  [ könyv, vitorlázás, A Szív, publikáció ]
+image:  /files/images/2024-08-01-ott-fuj-ahol-akar/img1.jpg
 categories: [ "Ott fúj, ahol akar" ]
 
 ---
