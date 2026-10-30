@@ -7,7 +7,7 @@ tags:  [ idézet, Kalookan, Fülöp-szigetek, egyház, család, szegénység ]
 image:  /files/images/2026-10-12-az-elet-nehezsegeiben/img1.jpg
 
 ---
-Pablo Virgilio Siongco David bíboros, Kalookan püspöke:
+Tíz napot töltöttem Kalookan egyházmegye egy családjánál és beszélgettem is Ambó bíborossal, vagyis Pablo Virgilio Siongco David bíborossal, Kalookan püspökével. Pont erről amit mesél.
 
 <!--break-->
 
