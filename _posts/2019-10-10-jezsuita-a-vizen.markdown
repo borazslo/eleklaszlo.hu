@@ -2,9 +2,9 @@
 layout: post
 title: "Jezsuita a vízen"
 permalink:  /7047/
-date: 2019-09-10 12:00:00
+date: 2019-10-10 12:00:00
 tags:  [ videó, vitorlázás, Balaton, jezsuita, Jezsuiták, másutt ]
-image:  /files/images/2019-09-10-jezsuita-a-vizen/img1.jpg
+image:  /files/images/2019-10-10-jezsuita-a-vizen/img1.jpg
 
 ---
 „Kell, hogy megtegyem a magam dolgát, kell, hogy ráhangolódjak és figyeljek, de az erőt, ami visz vagy éppen nem visz, azt nem én adom." Elek László SJ vallomása a Balaton közepén a vitorlázásról. Itt a videó, és a gépi átirata.
