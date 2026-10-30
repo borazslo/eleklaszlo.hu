@@ -5,7 +5,7 @@ permalink:  /7052/
 date: 2024-08-04 09:00:00
 tags:  [ vitorlázás, horgonyzás, bizalom, A Szív, publikáció ]
 image:  /files/images/2024-08-04-a-horgonyzasrol/img1.jpg
-categories: [ Ott fúj, ahol akar ]
+categories: [ "Ott fúj, ahol akar" ]
 
 ---
 

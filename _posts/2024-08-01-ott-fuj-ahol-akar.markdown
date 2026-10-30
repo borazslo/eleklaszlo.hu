@@ -3,8 +3,8 @@ layout: post
 title: "Ott fúj, ahol akar"
 permalink:  /7054/
 date: 2024-08-01 09:00:00
-tags:  [ KÖNYV, vitorlázás, A Szív, publikáció ]
-categories: [ Ott fúj, ahol akar ]
+tags:  [ könyv, vitorlázás, A Szív, publikáció ]
+categories: [ "Ott fúj, ahol akar" ]
 
 ---
 Íródik (már mióta) egy kis sorozat. Hajós történetek, vitorlás képek, tengerész tapasztalatok – és mögöttük az élet, az öröm, az Isten. A munkacíme: Ott fúj, ahol akar.

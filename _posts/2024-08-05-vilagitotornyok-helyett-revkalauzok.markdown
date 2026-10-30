@@ -5,7 +5,7 @@ permalink:  /7053/
 date: 2024-08-05 09:00:00
 tags:  [ vitorlázás, szentek, kísérés, A Szív, publikáció ]
 image:  /files/images/2024-08-05-vilagitotornyok-helyett-revkalauzok/img1.jpg
-categories: [ Ott fúj, ahol akar ]
+categories: [ "Ott fúj, ahol akar" ]
 
 ---
 

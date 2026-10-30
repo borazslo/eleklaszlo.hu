@@ -5,7 +5,7 @@ permalink:  /7051/
 date: 2024-08-03 09:00:00
 tags:  [ vitorlázás, vihar, bizalom, A Szív, publikáció ]
 image:  /files/images/2024-08-03-megallni-a-viharban/img1.jpg
-categories: [ Ott fúj, ahol akar ]
+categories: [ "Ott fúj, ahol akar" ]
 
 ---
 Amikor túl nagy a szél, amikor a hullámok közül nem látunk ki – a tengeri hullámok egy kis hajón nem csapnak át, „csak” megemelik tíz méterekre, majd lassan leengedik –, akkor legszívesebben kiszállnánk, megállnánk, feladnánk.

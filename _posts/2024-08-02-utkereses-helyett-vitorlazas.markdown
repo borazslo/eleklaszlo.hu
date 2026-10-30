@@ -5,7 +5,7 @@ permalink:  /7050/
 date: 2024-08-02 09:00:00
 tags:  [ vitorlázás, hivatás, lelkiség, A Szív, publikáció ]
 image:  /files/images/2024-08-02-utkereses-helyett-vitorlazas/img1.jpg
-categories: [ Ott fúj, ahol akar ]
+categories: [ "Ott fúj, ahol akar" ]
 
 ---
 
