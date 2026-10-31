@@ -2,7 +2,7 @@
 layout: post
 title: "Párterápiás nászút, ismét"
 permalink: /7042/
-date: 2026-11-01 10:00:00
+date: 2026-11-01 00:10:00
 tags:  [ életjel, lelkigyakorlat, házasság, jezsuita ]
 image: /files/images/2026-11-01-parterapias-nasz-ut-ismet/20261028_174012.jpg
 ---
