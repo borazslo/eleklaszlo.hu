@@ -5,17 +5,14 @@ permalink:  /6078/
 date: 2009-08-10 10:00:00
 categories:  [ 2009 Világi Tor Túra ]
 tags:  [ kirándulás, kerékpár, eső ]
+image:  /files/images/2009-08-10-adjon-isten-csendes-esot/img1.jpg
 ---
-„Adjon Isten csendes esőt,  
-Szerencsét az úton.  
-Jóban rosszban hű szeretőt.  
-….”
-
-
+> „Adjon Isten csendes esőt,
+> Szerencsét az úton.
+> Jó ban rosszban hű szeretőt.
+> ….”
 
 <!--break-->
-
-<p ><a href="https://www.flickr.com/photos/borazslo/3838384544" title="DSC_2357 by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2605/3838384544_8411ea10f5.jpg" width="500" height="334" alt="DSC_2357"></a></p>
 
 Esik. Csendesen, szinte észrevétlenül. Csak egy fuvallat jelezte, hogy már nem vár holnapig, és itt az ideje megöntözni az Elba völgyét. Ledöntöttem a maradék radleremet és még egy utolsót tekertem őrült tempóban a szállásomig. Nem azért száguldoztam, mert annyira féltem, hogy nem lesz hol aludnom. Egyszerűen jól jött az indok és akkor mindent bele. Most pár kilométerrel arréb, itt ülök egy esőházban. Nézem az Elbát, a túloldalt, a zenés mulatságot a hajón, a nyolc evezős csónakot, az elöttem elhúzó kerékpárosokat. És nézem az esőt. Alig látszik. Csendesen, szinte észrevétlenül öntözi a földet.
 

@@ -5,10 +5,9 @@ permalink:  /6087/
 date: 2009-08-15 10:00:00
 categories:  [ 2009 Világi Tor Túra ]
 tags:  [ kirándulás, kerékpár, Dánia ]
+image:  /files/images/2009-08-15-ime-eljott/img1.jpg
 ---
 Az utolsó 150km. A szél most is fújt. Másként végre. Esett. Legalábbis Koppenhágában. Meg volt defektem is. Aztán száguldoztam. És effélék. Hosszabban is érdekel? Ám legyen.
-
-
 
 <!--break-->
 
@@ -22,17 +21,15 @@ Dánia igazi európai város: mindenki tud angolul (de tényleg), mindenütt leh
 
 A szemerkélő eső egyre ritkábban szemerkélt. Lassan szakadozott a felhőzet. Délutánra már sütött a nap. A szél fújt, mint mindig. De most először az út során, tényleg hátszelem volt. Sokat segített.
 
-<p ><a href="https://www.flickr.com/photos/borazslo/3837673117" title="DSC_2482 by Elek László, on Flickr"><img src="https://c2.staticflickr.com/4/3426/3837673117_12de3bf2f1.jpg" width="500" height="193" alt="DSC_2482"></a></p>
-
 Átmentem valami hosszú-hosszú hídon, majd egyre csak tovább. A városban rá kellett jönnöm egy szörnyű hibámra: elfelejtettem rendesen enni. Ez igen csúnya dolog. De mivel tömtem magamba a csokit, ezért alig tűnt fel. A csoki jó. A csoki fontos. De a csoki nem minden. Jobban magamra nézve kiderült, hogy nagyon-nagyon éhes vagyok. A nálam lévő három adag tészta úgy eltűnt bennem, mintha nem is ettem volna semmit. A következő 30-as etap után friss péksüteménnyel javítottam a helyzeten.
 
-<p ><a href="https://www.flickr.com/photos/borazslo/3837666707" title="max. 30km/h by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2596/3837666707_a6e6266f69.jpg" width="500" height="334" alt="max. 30km/h"></a></p>
+![](/files/images/2009-08-15-ime-eljott/img2.jpg)
 
 Ám ez a szakasz (mintegy 70km) nyíl egyenes volt a térképen. Rögtön gyanús lett. A mellette futó autópálya kanyargott. Tehát minden bizonnyal nem azért nyíl egyenes, mert annyira sík a terep. Hanem mert nem törődtek a tereppel. Jött hát a már jól ismert hullámvasút. Legalább pár fokkal kulturáltabb volt mint a cseh társai. Fel és le, le és fel. Hátszélben elviselhető.
 
 Az említett péksütemények után max. egy kilométerrel jött a defekt. Sssz. És egyre laposabb hátsó kerék. Reggel már úgy tekertem, hogy milyen érdekes, hogy egyetlen defektem sem volt eddig. Na, jó – mondtam – nem is szeretném elkiabálni. Bár, inkább egy egyszerű defekt, mint valami komolyabb probléma. Így hát a defektet nyertem meg. Be kell valljam, még sosem cseréltem belsőt egyedül. Letekertem én Rómáig egy ötvenfős társasággal, ahol defekt is akadt bőven, de hamar összeállt a szakosodott csapat, akik saját kerékcsere rekordjaikat döntögették meg újra és újra. Elvileg tudtam, hogyan kell.
 
-<p ><a href="https://www.flickr.com/photos/borazslo/3838464736" title="Az első defekt by Elek László, on Flickr"><img src="https://c2.staticflickr.com/4/3488/3838464736_56cd624806.jpg" width="500" height="334" alt="Az első defekt"></a></p>
+![](/files/images/2009-08-15-ime-eljott/img3.jpg)
 
 Lemálháztam (nem ügy), de a kormánytáska vázát is le kellett szerelni (túléltem). Kerék le. Hopp. Megnéztem a külsőt, kiszedtem belőle egy jóféle üvegszilánkot. Ám később kiderült, hogy nem az jutott el a belsőig. Kiszedni persze sosem árt. Belső ki. Tisztítás. Új belső be. Ennyi. Lehet fújni. A szembejövők természetesen kérdezték, hogy minden rendben van-e, és mivel lelkesen bólogattam, hogy még igen, lassítás nélkül elhúztak délre. (Szembe a széllel. Micsoda szívás.) Meglepődtem, hogy milyen gyorsan végeztem. A legtöbbet a gyorszárral küszködtem: hogyan kell úgy bezárni, hogy fogjon és jól álljon. Valahogy sikerült. Még élek.  
 Magammal megelégedve tekertem tovább. Jóféle hátszélben. Újra nyolc báron. Felmentem hát a közel 30-as tempóig. Egy darabig megy az lendülettel.
@@ -45,7 +42,7 @@ Egyre jobb helyeken jártam, mert elértem újra a tengerpartot. Ha a kis zsáku
 
 Száguldottam keményen, ám jobbra megláttam egy szép füves parkot a tengerrel mögötte. Gyorsan megálltam. Miért ne állhattam volna meg? Nem időre mentem, nem a teljesítményre. (Mint az olaszok.) Ha valami tetszik megállok.  Szép volt a tiszta füves park és mögötte a tengerpart. Lesétáltam akadozó lábaimmal és megcsodáltam. No meg megnéztem a térképet, hátha kitalálom, hogy melyik részen is járok. Juppé: már csak 22 km. Usgyi tovább. Ment is minden rendesen. Egyre nagyobb utak, de a kerékpárút tartotta magát. Jó sebességgel egészen zöldhullámot is kaptam.
 
-<p ><a href="https://www.flickr.com/photos/borazslo/3837706363" title="Koppenhága by Elek László, on Flickr"><img src="https://c2.staticflickr.com/4/3469/3837706363_e7a4443978.jpg" width="500" height="334" alt="Koppenhága"></a></p>
+![](/files/images/2009-08-15-ime-eljott/img4.jpg)
 
 Lassan bemásztam a város szívéig. Megláttam Tivolit, a vidámparkot és onnan már tudtam, hol vagyok. A sétáló utcákon gurultam át fél nyolckor. Ilyen a szombat koraesti élet Koppenhágában. Zenészekkel, bűvészekkel, sok-sok turistával és kerékpárral. Könnyen megtaláltam a katedrálist, ami mellett a plébánián vártak. Picike egy templom, de két éve jártam már erre és sok mindenre emlékszem. (Ha nevekre és számokra nem is)
 

@@ -5,12 +5,11 @@ permalink:  /6073/
 date: 2009-08-08 11:00:00
 categories:  [ 2009 Világi Tor Túra ]
 tags:  [ kirándulás, kerékpár, imádság ]
+image:  /files/images/2009-08-08-detoxikalas/img1.jpg
 ---
 Negyedik napja tekertem ma. Szép lassan kezd kiürülni a fejem. Elmarad minden, ami most éppen nem lényeges. Legyen az sok hülyeség, amit otthon akartam hagyni, de sok szép dolog is. Nem kapkodok, nem erőltetem. Tisztul minden. Szépen lassan. Csak semmi kapkodás.
 
-
-
-<!--break--><p ><a href="https://www.flickr.com/photos/borazslo/3797872120" title="DSC_2238 by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2598/3797872120_00901cd02b.jpg" width="500" height="334" alt="DSC_2238"></a></p>
+<!--break-->
 
 Ez a folyamat látszik a gondolataimon, amik jönnek tekerés közben (amikor nem egy szörnyűséges hegymenetbe kell fognom). Első éjszaka rémálmom volt. Azt álmodtam, hogy kerékpárral megyek Dániába. De nem egyedül. Hanem legalább ötven válogatott egyén jön velem. Mindegyik akar valamit, kérdez valamit, kér valamit. Beszól, nyavalyog vagy nyüszít. Én meg gyötrődöm. Mennék a magam feje után: egyedül, szabadon, ahogy éppen kedvem van. De alkalmazkodni kéne, vezetni őket, segíteni. Nem megy. Kiszakadnék, szállnék, magam, de nem hagyták. Rémálom volt. 
 

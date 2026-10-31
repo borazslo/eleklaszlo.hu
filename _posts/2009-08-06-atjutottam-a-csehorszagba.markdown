@@ -5,20 +5,17 @@ permalink:  /6077/
 date: 2009-08-06 10:00:00
 categories:  [ 2009 Világi Tor Túra ]
 tags:  [ kirándulás, kerékpár, zarándoklat ]
+image:  /files/images/2009-08-06-atjutottam-a-csehorszagba/img1.jpg
 ---
 Egy tarló szélén üldögélek és nézem három falu fényeit, miközben a szemembe süt a telihold fénye. Négy óra után még egy 70km-t hozzátettem a napi adaghoz. Csak a sötétség állított meg. Amilyen rosszul ment a délelőtt, annyira repültem az éjszakában.
-
-
 
 <!--break-->
 
 A reggel szörnyű volt. A falvak ugyan közel voltak egymáshoz, de köztük fújt a nyugati szél. Mindig szemben. A térdem, a vádlim, a bokám, a fenekem mind azt mondták, hogy kell a fenének az egész. Viszonylag sűrűn álltam meg, bár mindig csak egy kicsit. Dol’any előtt találtam egy kicsiny kápolnát, hát megálltam és zsolozsmáztam egyet. Nagyon jól esett a szeles árnyékban ücsörögni és elmondani az Úrnak, hogy bár marha nehezen megy, de azért gyönyörű e táj.
 
-<p ><a href="https://www.flickr.com/photos/borazslo/3794627465" title="Smolenice by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2560/3794627465_df1974f3ee.jpg" width="500" height="334" alt="Smolenice"></a></p>
-
 Smolenicében láttam egy várkastélyt, hát megálltam megnézni. Megérte. Először is gyönyörű park volt körülötte: hatalmas, erdős, tiszta. A kastélyban körbevezettek, bár a mondókából nem értettem semmit, hiszen még mindig nem tudok szlovákul. Nem is volt mit érteni. A képekből kiderült, hogy a vár 1900-ban még pont úgy nézett ki, mint bármelyik mostani magyar várrom. Akkor fogták és felépítették. Kicsit más formában és stílusban, de egész pofás lett. Most szállodának használják. Gyönyörű panorámás szobái vannak. Szegény dohányosoknak pedig a toronyban kell pöfögniük a vidéket csodálva. XX. Századi várkastély. Tiszta betonból az egész. De azért jó volt.
 
-<p ><a href="https://www.flickr.com/photos/borazslo/3797059095" title="Üdvözöljük Csehországban by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2581/3797059095_5c15b9ebcb.jpg" width="334" height="500" alt="Üdvözöljük Csehországban"></a></p>
+![](/files/images/2009-08-06-atjutottam-a-csehorszagba/img2.jpg)
 
 Lendületesen átgurultam Senica-ba, aztán egy kisebb szenvedés után nekiiramodtam és elértem végre a Cseh határt. Itt mintha kilőttek volna: tapostam, raktam, tekertem. Egész nap nem mentem így, mint ekkor a lemenő nap fényében. Hiszen Brno alig 60km. A cseh határtól Brno-ig hullámvasutazik a főút, de hatalmas lendületem lett valahonnan. Végül, mivel már sötét lett, lefeküdtem aludni egy gyönyörű helyen.
 
@@ -28,4 +25,4 @@ Száguldottam hegyen-völgyön át. De nem értem én ezt az egészet: mikor fá
 
 Hosszú nap volt a tegnapi, de meg lett vagy 130km. Elgondolni is borzasztó, hogy ennyit tekertem. Ma már megint negyed egy van és még csak laza 25km van mögöttem. De az nagyon könnyen ment. Most meg Brno-ban ülök és írok nektek. Illetve csak írtam, mert itt van ennek a vége.
 
-<p ><a href="https://www.flickr.com/photos/borazslo/3797877676" title="Szállásom by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2560/3797877676_40496918a0.jpg" width="500" height="334" alt="Szállásom"></a></p>
+![](/files/images/2009-08-06-atjutottam-a-csehorszagba/img3.jpg)

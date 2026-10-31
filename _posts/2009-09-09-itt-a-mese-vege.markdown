@@ -5,14 +5,11 @@ permalink:  /6089/
 date: 2009-09-09 10:00:00
 categories:  [ 2009 Világi Tor Túra ]
 tags:  [ kirándulás, hivatás, jezsuita, emlék ]
+image:  /files/images/2009-09-09-itt-a-mese-vege/img1.jpg
 ---
-Tegnap is éjfél után tekertem ki Hűvösvölgybe. A Holdat csak ritkán takarta el felhő, de a város fényei már-már elnyomták. A pulóveremet felvettem, de hegynek fölfele már megizzadtam. Pont mint aznap éjjel: ott Prágában. Egy hónapja. Persze akkor össze-vissza tekeregtem, mert szállást kerestem. Most várt a vetett ágyam, onnan húsz percre. 
-
-
+Tegnap is éjfél után tekertem ki Hűvösvölgybe. A Holdat csak ritkán takarta el felhő, de a város fényei már-már elnyomták. A pulóveremet felvettem, de hegynek fölfele már megizzadtam. Pont mint aznap éjjel: ott Prágában. Egy hónapja. Persze akkor össze-vissza tekeregtem, mert szállást kerestem. Most várt a vetett ágyam, onnan húsz percre.
 
 <!--break-->
-
-<p ><a href="https://www.flickr.com/photos/borazslo/3838499364" title="Budapest Ferihegy I by Elek László, on Flickr"><img src="https://c1.staticflickr.com/3/2611/3838499364_eb810c476b.jpg" width="500" height="334" alt="Budapest Ferihegy I"></a></p>
 
 Épségben hazaértem. Immár három hete. Az életem szinte ugyan úgy folyik tovább, mint annak előtte. Szinte. Mert bár nem változtak meg főbb szokásaim, nem lettem jobb, de valami azért változott bennem. Sok apróság.  
 Nem száguldozom azóta, mert megtanultam, hogy mi az idő. Korábban teljes erőbedobással leizmoztam a munkába a tizennégy kilométeres távot, majd kifulladva lezuhanyoztam. A koppenhágai út megtanított, hogy rohanni hiábavalóság. Van időnk. Ha kell. Szépen, nyugodtan rakom a Pesti aszfalton. És láss csodát, alig maradok el a korábbi rekordomtól. De ez csak külsőség.
