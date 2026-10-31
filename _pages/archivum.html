@@ -7,6 +7,8 @@ published: true
 
 <p>Az összes bejegyzés egy helyen, évek szerint csoportosítva — {{ site.posts.size }} bejegyzés.</p>
 
+<p class="archive-link"><a href="{{ "/7007/" | relative_url }}" class="tag-chip">Kategóriákra bontva →</a></p>
+
 {% assign years = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 <div class="year-jump">

@@ -27,6 +27,9 @@ baseurl: "" #"/jekyll-vagrant-setup" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 locale: hu_HU
 
+# Publish the posts with future date
+future: true
+
 date_format: "%Y. %b %-d."
 
 #https://github.com/jekyll/minima/blob/master/_includes/social.html
