@@ -333,3 +333,24 @@
 .archive-link {
   text-align: center;
 }
+
+
+blockquote.utoirat {
+  border-left: 4px solid #c47f2c;
+  background: #fbf6ee;
+  padding: 0.8em 1em 0.8em 1.2em;
+  margin: 1.5em 0;
+  font-size: 0.9em;
+  font-style: normal;
+  border-radius: 0 6px 6px 0;
+}
+blockquote.utoirat::before {
+  content: "Utóirat, " attr(data-ev);
+  display: block;
+  font-size: 0.8em;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #c47f2c;
+  margin-bottom: 0.4em;
+}
